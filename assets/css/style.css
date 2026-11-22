@@ -357,3 +357,5 @@ p { margin: 0; }
 .tier-2 .sponsor img { padding: 26px 14%; }
 /* Logoer som har egen luft rundt seg i bildefilen får class="fill" */
 .sponsor img.fill { padding: 0; }
+/* Stående logoer (høyere enn brede) får mindre luft over og under */
+.sponsor img.tall { padding-top: 8px; padding-bottom: 8px; }
