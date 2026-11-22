@@ -5,7 +5,7 @@ kategori: Klubbliv
 bilde: assets/img/nyheter/borgertoget-2026.jpg
 bildetekst: AK28-fanen og håndballmålet var med i Borgertoget 17. mai, med spillere i røde drakter rundt.
 ingress: AK28 var godt representert i Borgertoget på 17. mai. Lurer du på hvem som vant pizzakvelden?
-fremhevet: true
+fremhevet: false
 publisert: true
 ---
 
