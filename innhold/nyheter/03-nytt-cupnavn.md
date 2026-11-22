@@ -2,8 +2,8 @@
 tittel: 'Nytt navn på cupen: Sparebanken Norge – AK28 Cup'
 dato: 2026-11-22
 kategori: Cup
-bilde: assets/img/lag/g2013.jpg
-bildetekst: AK28-spillere i drakter med hovedsponsor Sparebanken Norge på brystet.
+bilde: assets/img/nyheter/drakt-sparebanken-norge.jpg
+bildetekst: Sparebanken Norge-logoen på AK28-drakten.
 ingress: AK28s tradisjonsrike håndballcup har fått nytt navn. Neste år arrangeres Sparebanken Norge – AK28 Cup 23.–25. april i Kristiansand.
 fremhevet: false
 publisert: true
