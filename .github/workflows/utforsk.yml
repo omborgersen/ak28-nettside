@@ -1,21 +1,22 @@
 name: Utforsk handball.no (midlertidig)
 on:
   push:
-    paths: ['.github/workflows/utforsk.yml']
+    paths: ['.github/workflows/utforsk.yml', 'tools/utforsk.sh']
   workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   probe:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - name: Hent sider
         run: |
-          mkdir ut && cd ut
-          UA="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/120 Safari/537.36"
-          curl -sL -A "$UA" "https://www.handball.no/system/klubbdagbok/?clubId=60756" -o klubbdagbok.html -w "%{http_code} %{size_download}\n" || true
-          curl -sL -A "$UA" "https://www.handball.no/system/kamper/lag/?lagid=439844" -o lag.html -w "%{http_code} %{size_download}\n" || true
-          curl -sL -A "$UA" "https://www.handball.no/system/kamper/klubb/?klubbid=60756" -o klubb.html -w "%{http_code} %{size_download}\n" || true
+          mkdir -p /tmp/ut && cd /tmp/ut
+          bash $GITHUB_WORKSPACE/tools/utforsk.sh
           ls -la
-      - uses: actions/upload-artifact@v4
-        with:
-          name: sider
-          path: ut/
+      - name: Lagre på egen gren
+        run: |
+          cd /tmp/ut && git init -q -b utforsk && git add -A
+          git -c user.name=bot -c user.email=bot@ak28.no commit -qm probe
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" utforsk
