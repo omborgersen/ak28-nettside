@@ -1,6 +1,6 @@
 ---
 tittel: Takket av med blomster og stående applaus
-dato: null
+dato: 2026-03-23
 kategori: Klubbliv
 bilde: assets/img/nyheter/knut-stormyr.jpg
 bildetekst: Knut Stormyr med blomster og AK-drakten signert av samtlige trenere i klubben.
