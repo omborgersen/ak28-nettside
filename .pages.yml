@@ -59,3 +59,44 @@ content:
       - name: body
         label: Tekst
         type: rich-text
+
+  - name: hendelser
+    label: Viktige datoer
+    type: file
+    path: data/hendelser.json
+    format: json
+    fields:
+      - name: hendelser
+        label: Hendelser
+        type: object
+        list: true
+        fields:
+          - name: tittel
+            label: Tittel
+            type: string
+            required: true
+          - name: dato
+            label: Dato
+            description: For hendelser uten fast dato, velg den 1. i måneden og kryss av under.
+            type: date
+            required: true
+          - name: bare_maaned
+            label: Ingen fast dato (vises som «i løpet av måneden»)
+            type: boolean
+            default: false
+          - name: til
+            label: Til og med (valgfritt)
+            description: Brukes for hendelser over flere dager, f.eks. cupen.
+            type: date
+          - name: kategori
+            label: Kategori
+            type: select
+            options:
+              values: [Klubbliv, Arrangement, Cup, Dugnad, Frist, Foreldre, Trenere, Sport, Rekruttering, Medlemskap]
+          - name: beskrivelse
+            label: Kort beskrivelse
+            type: text
+          - name: lenke
+            label: Lenke (valgfritt)
+            description: F.eks. cup-2027.html eller en full nettadresse.
+            type: string

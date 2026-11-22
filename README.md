@@ -108,3 +108,9 @@ Klassen i serienavnet gjøres om til årskull (f.eks. «Jenter 15» = Jenter 201
 
 Alle treningsøkter ligger i `data/treningstider.json` – én rad per økt med dag, tid, hall og lag.
 Etter endringer: kjør `python tools/bygg_treningstider.py`, som også oppdaterer treningstidene på lagsiden (`data/lag.json`).
+
+## Viktige datoer (datoer.html og «Skjer denne måneden» på forsiden)
+
+Hendelsene ligger i `data/hendelser.json` og redigeres i Pages CMS under **Viktige datoer**.
+Hendelser uten fast dato: velg den 1. i måneden og kryss av for «Ingen fast dato».
+Forsiden viser hendelsene i inneværende måned, fylt opp med de neste som kommer.
