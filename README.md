@@ -41,6 +41,22 @@ Menyen og bunnteksten er lik på alle sider. Skal noe der endres, må det endres
 
 Endringer kan gjøres direkte på github.com (blyant-ikonet på filen). Siden oppdateres automatisk etter et minutt eller to.
 
+## Nyheter (Pages CMS)
+
+Nyhetssaker publiseres i Pages CMS – ingen koding nødvendig.
+
+1. Gå til https://app.pagescms.org og logg inn med GitHub.
+2. Velg repoet **ak28-nettside** → **Nyheter** → **Add an entry**.
+3. Fyll inn tittel, dato, kategori, ingress, bilde og tekst, og trykk **Save**.
+4. Etter 1–2 minutter ligger saken på nettsiden: som kort under «Siste nytt» på forsiden (de seks nyeste), på `nyheter.html` og på egen side.
+
+Tips:
+- Kryss av «Vis stort på forsiden» for å gjøre en sak til det store kortet.
+- Fjern krysset «Publisert» for å skjule en sak uten å slette den.
+- Nye redaktører trenger skrivetilgang til repoet (Settings → Collaborators på GitHub).
+
+Teknisk: sakene ligger som Markdown i `innhold/nyheter/`. GitHub-jobben `.github/workflows/nyheter.yml` kjører `tools/bygg_nyheter.py`, som lager `nyheter.html`, `nyhet-*.html` og kortene mellom `<!-- NYHETER-START -->` og `<!-- NYHETER-SLUTT -->` i `index.html`. Lokalt: `python tools/bygg_nyheter.py`.
+
 ## Booking av klubbhuset
 
 Alt samles i én Google-kalender: «KLUBBHUS AK28». Den vises på `klubbhuset.html`.

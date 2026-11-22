@@ -413,3 +413,20 @@ a.sponsor:hover { border-color: var(--red); box-shadow: 0 6px 18px rgba(28,20,22
 .focus strong { color: var(--ink); }
 .vision { text-align: center; align-items: center; padding: clamp(40px, 7vw, 88px) clamp(24px, 5vw, 64px); }
 .vision h2 { font-size: clamp(2rem, 8vw, 6.5rem); max-width: 18ch; hyphens: manual; overflow-wrap: normal; }
+
+/* ---------- Nyheter ---------- */
+.news-link { display: flex; flex-direction: column; height: 100%; text-decoration: none; color: var(--ink); }
+.news-link:hover { color: var(--ink); }
+.news-link:hover h3 { text-decoration: underline; text-decoration-thickness: 2px; }
+.news.featured .news-link { flex-direction: row; flex-wrap: wrap; }
+.news img { object-position: center 30%; }
+.news .link-strong { margin-top: auto; color: var(--red); }
+.news-body { flex: 1; }
+.article { max-width: 800px; }
+.article-meta { font-size: 15px; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: var(--red-light) !important; }
+.article-lead { font-size: 21px; line-height: 1.6; font-weight: 500; margin-bottom: 28px; }
+.article-figure { margin: 0 0 32px; }
+.article-figure img { width: 100%; height: auto; border-radius: var(--radius); }
+.article-figure figcaption { font-size: 14px; color: var(--muted); margin-top: 8px; }
+.article .prose { max-width: none; }
+.article .prose img { border-radius: 12px; height: auto; }

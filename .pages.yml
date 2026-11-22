@@ -1,0 +1,61 @@
+# Oppsett for Pages CMS (https://app.pagescms.org)
+# Her bestemmes hva redaktørene kan redigere, og hvilke felt de ser.
+
+media:
+  input: assets/img/nyheter
+  output: assets/img/nyheter
+
+content:
+  - name: nyheter
+    label: Nyheter
+    type: collection
+    path: innhold/nyheter
+    format: yaml-frontmatter
+    filename: "{year}-{month}-{day}-{primary}.md"
+    view:
+      fields: [tittel, dato, kategori, publisert]
+      primary: tittel
+      sort: [dato]
+      default:
+        sort: dato
+        order: desc
+    fields:
+      - name: tittel
+        label: Tittel
+        type: string
+        required: true
+      - name: dato
+        label: Dato
+        type: date
+        required: true
+      - name: kategori
+        label: Kategori
+        type: select
+        options:
+          values: [Klubbliv, Sport, Cup, Trenere, Barneidrett, Historie, Sponsorer]
+      - name: bilde
+        label: Bilde
+        description: Liggende bilde fungerer best. Sjekk at du har lov til å bruke bildet, og at foreldre har samtykket hvis det viser barn.
+        type: image
+      - name: bildetekst
+        label: Bildetekst
+        description: Kort beskrivelse av bildet. Brukes også for skjermlesere.
+        type: string
+      - name: ingress
+        label: Ingress
+        description: 1–2 setninger som vises på kortet på forsiden.
+        type: text
+        required: true
+      - name: fremhevet
+        label: Vis stort på forsiden
+        description: Krysser du av, vises saken som det store kortet øverst under «Siste nytt».
+        type: boolean
+        default: false
+      - name: publisert
+        label: Publisert
+        description: Fjern krysset for å skjule saken uten å slette den.
+        type: boolean
+        default: true
+      - name: body
+        label: Tekst
+        type: rich-text

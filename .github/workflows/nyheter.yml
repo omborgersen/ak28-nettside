@@ -1,0 +1,57 @@
+name: Bygg nyheter
+
+# Kjører når en nyhetssak lagres i Pages CMS (eller direkte på GitHub),
+# og lager nyhetssidene og kortene på forsiden på nytt.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'innhold/**'
+      - 'assets/img/nyheter/**'
+      - 'tools/bygg_nyheter.py'
+      - 'om-klubben.html'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: bygg-nyheter
+  cancel-in-progress: false
+
+jobs:
+  bygg:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Installer avhengigheter
+        run: pip install markdown pyyaml
+
+      - name: Bygg nyhetssidene
+        run: python tools/bygg_nyheter.py
+
+      - name: Lagre endringer
+        run: |
+          git config user.name "AK28 nettside"
+          git config user.email "post@ak28.no"
+          git add -A index.html nyheter.html 'nyhet-*.html'
+          if git diff --cached --quiet; then
+            echo "Ingen endringer."
+          else
+            git commit -m "Oppdater nyheter"
+            git push
+          fi
+
+      # Commits fra en workflow starter ikke alltid GitHub Pages av seg selv,
+      # så vi ber om en ny publisering for sikkerhets skyld.
+      - name: Publiser nettsiden
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds" || true
