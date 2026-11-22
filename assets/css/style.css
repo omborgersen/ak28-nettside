@@ -484,3 +484,15 @@ a.sponsor:hover { border-color: var(--red); box-shadow: 0 6px 18px rgba(28,20,22
 .box ul:not(.facts):not(.link-list) { margin: 0; padding-left: 22px; display: flex; flex-direction: column; gap: 6px; }
 .box .doc-table table { font-size: 15px; }
 .box .doc-table td[data-label="Pris"] { white-space: nowrap; }
+
+/* ---------- Treningstider ---------- */
+.ukeplan { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(300px, 100%), 1fr)); gap: 20px; align-items: start; }
+.dag-kort { padding: 20px 22px; }
+.dag-kort h2 { font-size: 26px; margin: 0 0 8px; color: var(--red); }
+.dag-kort ul { list-style: none; margin: 0; padding: 0; }
+.dag-kort li { display: flex; gap: 14px; padding: 10px 0; border-top: 1px solid #eee3e3; }
+.dag-kort li:first-child { border-top: 0; }
+.okt-tid { flex: 0 0 104px; white-space: nowrap; font-weight: 700; font-variant-numeric: tabular-nums; font-size: 15px; }
+.okt-lag { flex: 1; font-weight: 600; font-size: 15px; }
+.okt-hall { display: block; font-weight: 400; font-size: 14px; color: var(--muted); }
+.okt-lag .pill { font-size: 11px; padding: 2px 8px; vertical-align: 1px; }

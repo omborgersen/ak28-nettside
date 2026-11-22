@@ -103,3 +103,8 @@ Kampene hentes fra en Excel-eksport av klubbens terminliste i TurneringsAdmin (K
 
 `kamper.json` brukes av kampsiden, «Kamper i Odderneshallen denne helgen» på forsiden og kampknappen på hvert lag på lagsiden.
 Klassen i serienavnet gjøres om til årskull (f.eks. «Jenter 15» = Jenter 2011 i 2026/27). Ved ny sesong må årstallet i `lag_for()` i skriptet oppdateres.
+
+## Treningstider (treningstider.html)
+
+Alle treningsøkter ligger i `data/treningstider.json` – én rad per økt med dag, tid, hall og lag.
+Etter endringer: kjør `python tools/bygg_treningstider.py`, som også oppdaterer treningstidene på lagsiden (`data/lag.json`).

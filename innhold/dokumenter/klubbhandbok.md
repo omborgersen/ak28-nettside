@@ -63,7 +63,7 @@ Klubben oppfordrer hvert lag til å ha en egen lagskonto. Laget er selv ansvarli
 
 ### 4.1 Treningstider, hallfordeling og ferier
 
-Sportslig utvalg og administrasjonen i klubben tildeler treningstider i kommunale haller og gymsaler i august. Treningstidene følger skoleruta. Ønsker et lag treningstid i skoleferiene (høst, jul, vinter og påske), må det søkes om på forhånd via daglig leder. [Se treningstidene for alle lag](lag.html).
+Sportslig utvalg og administrasjonen i klubben tildeler treningstider i kommunale haller og gymsaler i august. Treningstidene følger skoleruta. Ønsker et lag treningstid i skoleferiene (høst, jul, vinter og påske), må det søkes om på forhånd via daglig leder. [Se treningstidene for alle lag](treningstider.html).
 
 **Samarbeid med andre idretter:** AK28 ønsker at barn skal kunne drive med flere idretter. Trenere plikter å ha dialog med lokale fotballklubber (for eksempel Donn) for å unngå kollisjoner i treningstider for samme årskull.
 

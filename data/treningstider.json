@@ -1,0 +1,327 @@
+{
+ "_info": "Én rad per treningsøkt. lag = id-er fra data/lag.json. tekst brukes for økter som ikke hører til et lag på lagsiden. ekstra = true for ekstraøkter. Kjør tools/bygg_treningstider.py etter endringer. rom = valgfri del av hallen (f.eks. gymsalen).",
+ "sesong": "2026/2027",
+ "okter": [
+  {
+   "dag": "Mandag",
+   "fra": "16.00",
+   "til": "17.00",
+   "hall": "Odderneshallen",
+   "lag": [
+    "j2014"
+   ]
+  },
+  {
+   "dag": "Mandag",
+   "fra": "16.00",
+   "til": "17.00",
+   "hall": "Badmintonhallen",
+   "lag": [
+    "j2014"
+   ]
+  },
+  {
+   "dag": "Mandag",
+   "fra": "17.00",
+   "til": "18.00",
+   "hall": "Odderneshallen",
+   "lag": [
+    "j2019"
+   ]
+  },
+  {
+   "dag": "Mandag",
+   "fra": "17.00",
+   "til": "18.00",
+   "hall": "Gimlehallen",
+   "lag": [
+    "j2020"
+   ],
+   "rom": "gymsalen"
+  },
+  {
+   "dag": "Mandag",
+   "fra": "18.00",
+   "til": "19.00",
+   "hall": "Odderneshallen",
+   "lag": [
+    "g2011"
+   ]
+  },
+  {
+   "dag": "Mandag",
+   "fra": "19.00",
+   "til": "20.30",
+   "hall": "Odderneshallen",
+   "lag": [
+    "g2013",
+    "g2012"
+   ]
+  },
+  {
+   "dag": "Mandag",
+   "fra": "20.30",
+   "til": "22.00",
+   "hall": "Odderneshallen",
+   "lag": [
+    "msr"
+   ]
+  },
+  {
+   "dag": "Tirsdag",
+   "fra": "14.30",
+   "til": "16.00",
+   "hall": "Odderneshallen",
+   "lag": [
+    "j2018"
+   ]
+  },
+  {
+   "dag": "Tirsdag",
+   "fra": "15.00",
+   "til": "17.00",
+   "hall": "Badmintonhallen",
+   "lag": [
+    "j2013"
+   ]
+  },
+  {
+   "dag": "Tirsdag",
+   "fra": "16.00",
+   "til": "17.00",
+   "hall": "Odderneshallen",
+   "lag": [
+    "g2013",
+    "g2012"
+   ]
+  },
+  {
+   "dag": "Tirsdag",
+   "fra": "17.00",
+   "til": "18.00",
+   "hall": "Odderneshallen",
+   "lag": [
+    "g2017",
+    "g2018"
+   ]
+  },
+  {
+   "dag": "Tirsdag",
+   "fra": "18.00",
+   "til": "19.00",
+   "hall": "Odderneshallen",
+   "lag": [
+    "j2015"
+   ]
+  },
+  {
+   "dag": "Tirsdag",
+   "fra": "19.00",
+   "til": "20.30",
+   "hall": "Odderneshallen",
+   "lag": [
+    "ks2"
+   ]
+  },
+  {
+   "dag": "Tirsdag",
+   "fra": "20.30",
+   "til": "22.00",
+   "hall": "Odderneshallen",
+   "lag": [],
+   "tekst": "Herre junior"
+  },
+  {
+   "dag": "Onsdag",
+   "fra": "14.30",
+   "til": "16.00",
+   "hall": "Odderneshallen",
+   "lag": [
+    "j2011"
+   ]
+  },
+  {
+   "dag": "Onsdag",
+   "fra": "16.00",
+   "til": "17.00",
+   "hall": "Odderneshallen",
+   "lag": [
+    "g2018"
+   ]
+  },
+  {
+   "dag": "Onsdag",
+   "fra": "17.00",
+   "til": "18.00",
+   "hall": "Kongsgård skolesenter",
+   "lag": [
+    "g2016"
+   ]
+  },
+  {
+   "dag": "Onsdag",
+   "fra": "17.00",
+   "til": "18.30",
+   "hall": "Odderneshallen",
+   "lag": [
+    "g2011"
+   ]
+  },
+  {
+   "dag": "Onsdag",
+   "fra": "18.30",
+   "til": "20.00",
+   "hall": "Odderneshallen",
+   "lag": [
+    "msr"
+   ]
+  },
+  {
+   "dag": "Onsdag",
+   "fra": "20.00",
+   "til": "22.00",
+   "hall": "Odderneshallen",
+   "lag": [
+    "ks2"
+   ]
+  },
+  {
+   "dag": "Torsdag",
+   "fra": "14.30",
+   "til": "16.00",
+   "hall": "Odderneshallen",
+   "lag": [
+    "j2011"
+   ]
+  },
+  {
+   "dag": "Torsdag",
+   "fra": "16.00",
+   "til": "17.00",
+   "hall": "Odderneshallen",
+   "lag": [
+    "j2016"
+   ]
+  },
+  {
+   "dag": "Torsdag",
+   "fra": "16.00",
+   "til": "17.00",
+   "hall": "Badmintonhallen",
+   "lag": [
+    "j2017"
+   ]
+  },
+  {
+   "dag": "Torsdag",
+   "fra": "17.00",
+   "til": "17.45",
+   "hall": "Gimlehallen",
+   "lag": [
+    "barneidrett"
+   ]
+  },
+  {
+   "dag": "Torsdag",
+   "fra": "17.00",
+   "til": "18.30",
+   "hall": "Odderneshallen",
+   "lag": [
+    "g2014"
+   ]
+  },
+  {
+   "dag": "Torsdag",
+   "fra": "18.30",
+   "til": "19.30",
+   "hall": "Odderneshallen",
+   "lag": [
+    "j2014"
+   ]
+  },
+  {
+   "dag": "Torsdag",
+   "fra": "19.30",
+   "til": "20.30",
+   "hall": "Odderneshallen",
+   "lag": [
+    "g2011"
+   ]
+  },
+  {
+   "dag": "Torsdag",
+   "fra": "20.30",
+   "til": "22.00",
+   "hall": "Odderneshallen",
+   "lag": [
+    "m4"
+   ]
+  },
+  {
+   "dag": "Torsdag",
+   "fra": "20.30",
+   "til": "22.00",
+   "hall": "Marvikshallen",
+   "lag": [
+    "msr"
+   ]
+  },
+  {
+   "dag": "Fredag",
+   "fra": "14.30",
+   "til": "16.00",
+   "hall": "Odderneshallen",
+   "lag": [
+    "g2013",
+    "g2012"
+   ],
+   "ekstra": true
+  },
+  {
+   "dag": "Fredag",
+   "fra": "15.00",
+   "til": "16.00",
+   "hall": "Badmintonhallen",
+   "lag": [
+    "j2015"
+   ]
+  },
+  {
+   "dag": "Fredag",
+   "fra": "16.00",
+   "til": "17.00",
+   "hall": "Odderneshallen",
+   "lag": [
+    "j2014"
+   ],
+   "ekstra": true
+  },
+  {
+   "dag": "Fredag",
+   "fra": "16.00",
+   "til": "17.00",
+   "hall": "Badmintonhallen",
+   "lag": [
+    "j2016"
+   ]
+  },
+  {
+   "dag": "Fredag",
+   "fra": "17.00",
+   "til": "18.30",
+   "hall": "Odderneshallen",
+   "lag": [
+    "j2013"
+   ],
+   "ekstra": true
+  },
+  {
+   "dag": "Fredag",
+   "fra": "18.30",
+   "til": "20.00",
+   "hall": "Odderneshallen",
+   "lag": [],
+   "tekst": "Klubbtrening"
+  }
+ ]
+}
