@@ -405,9 +405,11 @@ a.sponsor:hover { border-color: var(--red); box-shadow: 0 6px 18px rgba(28,20,22
 .vision h2 { font-size: clamp(2.25rem, 6vw, 4.5rem); line-height: 0.95; }
 .prose .quote { font-family: var(--display); font-weight: 700; font-size: clamp(1.5rem, 3.5vw, 2rem); line-height: 1.15; text-transform: uppercase; color: var(--red); border-left: 6px solid var(--red); padding-left: 18px; }
 .side-col > .photo-wide + .photo-wide { margin-top: 0; }
-.focus-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }
+.focus-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(300px, 100%), 1fr)); gap: 20px; }
 .focus { padding: 28px; display: flex; flex-direction: column; gap: 12px; border-top: 6px solid var(--red); }
 .focus h3 { font-size: 28px; font-weight: 800; }
 .focus .goal { font-weight: 600; font-size: 16px; line-height: 1.5; }
 .focus ul { margin: 0; padding-left: 18px; display: flex; flex-direction: column; gap: 8px; font-size: 15px; line-height: 1.55; color: var(--muted); }
 .focus strong { color: var(--ink); }
+.vision { text-align: center; align-items: center; padding: clamp(40px, 7vw, 88px) clamp(24px, 5vw, 64px); }
+.vision h2 { font-size: clamp(2rem, 8vw, 6.5rem); max-width: 18ch; hyphens: manual; overflow-wrap: normal; }
