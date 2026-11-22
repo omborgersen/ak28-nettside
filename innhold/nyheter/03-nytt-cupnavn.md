@@ -15,7 +15,7 @@ Vi er svært takknemlige for at Sparebanken Norge fortsatt er med på laget. St�
 
 ### Hold av helgen 23.–25. april 2027
 
-Cupen spilles fra fredag 23. til søndag 25. april 2027. Informasjon om klasser og påmelding kommer snart på cupsidene. Vi gleder oss til en helg full av energi, spennende kamper og mange gode håndballøyeblikk – for både små og store.
+Cupen spilles fra fredag 23. til søndag 25. april 2027, og arrangeres for 56. gang. Påmeldingen er åpen! Vi gleder oss til en helg full av energi, spennende kamper og mange gode håndballøyeblikk – for både små og store.
 
 [Les mer om cupen](cup-2027.html) eller gå rett til [cupsidene med påmelding og kampoppsett](https://sparebankennorgenak28cup.cupmanager.net/).
 
