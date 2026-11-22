@@ -374,3 +374,29 @@ a.sponsor:hover { border-color: var(--red); box-shadow: 0 6px 18px rgba(28,20,22
 .stats dt { font-size: 14px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; color: #FFB3AB; }
 .stats dd { margin: 0; font-family: var(--display); font-weight: 800; font-size: clamp(2.5rem, 6vw, 4rem); line-height: 1; }
 .main-col > .era-events { flex: none; }
+
+/* ---------- Klubbhistorie ---------- */
+.kh-layout { display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start; }
+.kh-toc { flex: 1 1 260px; max-width: 320px; padding: 24px; position: sticky; top: 100px; max-height: calc(100vh - 120px); overflow-y: auto; }
+.kh-toc h2 { font-size: 24px; margin-bottom: 12px; }
+.kh-toc ol { margin: 0; padding-left: 20px; display: flex; flex-direction: column; gap: 8px; font-size: 15px; line-height: 1.4; }
+.kh-toc a { text-decoration: none; }
+.kh-toc a:hover { text-decoration: underline; }
+.kh-article { flex: 999 1 560px; min-width: 0; max-width: 860px; font-size: 17px; line-height: 1.7; }
+.kh-article p { margin: 0 0 16px; }
+.kh-intro { font-size: 19px; padding-bottom: 8px; }
+.kh-section { padding-top: 48px; scroll-margin-top: 100px; }
+.kh-section h2 { font-size: clamp(2rem, 5vw, 2.75rem); margin-bottom: 20px; padding-top: 16px; border-top: 4px solid var(--red); }
+.kh-article h3 { font-family: var(--display); font-weight: 800; text-transform: uppercase; font-size: 24px; margin: 28px 0 10px; }
+.kh-article ul, .kh-article ol { margin: 0 0 16px; padding-left: 22px; }
+.kh-article li { margin-bottom: 6px; }
+.kh-date { display: block; color: var(--red); font-family: var(--display); font-size: 20px; text-transform: uppercase; letter-spacing: 0.02em; margin-top: 8px; }
+.kh-figure { margin: 24px 0; display: flex; flex-direction: column; align-items: flex-start; gap: 8px; }
+.kh-figure img { width: auto; max-width: 100%; height: auto; border-radius: 12px; background: #F3E6E4; }
+.kh-figure figcaption { font-size: 14px; line-height: 1.55; color: var(--muted); max-width: 640px; }
+.kh-gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 24px; margin: 24px 0; align-items: start; }
+.kh-gallery .kh-figure { margin: 0; align-items: stretch; }
+.kh-gallery .kh-figure img { width: 100%; }
+.kh-leaders { columns: 2 220px; column-gap: 32px; }
+.kh-leaders li { break-inside: avoid; }
+@media (max-width: 860px) { .kh-toc { position: static; max-width: none; max-height: none; } }
