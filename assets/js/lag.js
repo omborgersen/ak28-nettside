@@ -95,7 +95,7 @@
     }
   });
 
-  fetch('data/lag.json')
+  fetch('data/lag.json', { cache: 'no-cache' })
     .then(function (r) { return r.json(); })
     .then(function (d) { data = d; visLag(); })
     .catch(function () { grid.innerHTML = '<p class="muted">Klarte ikke å hente laglisten. Prøv å laste siden på nytt.</p>'; });
