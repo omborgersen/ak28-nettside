@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="nb">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fant ikke siden – AK28</title>
+<meta name="robots" content="noindex">
+<link rel="icon" href="/assets/img/logo.png">
+<style>
+  body { margin: 0; min-height: 100vh; display: flex; align-items: center; justify-content: center; font-family: system-ui, -apple-system, 'Segoe UI', sans-serif; background: #C8281E; color: #fff; text-align: center; padding: 24px; box-sizing: border-box; }
+  h1 { font-size: clamp(2.5rem, 8vw, 5rem); margin: 0 0 12px; text-transform: uppercase; }
+  p { font-size: 18px; margin: 0 0 28px; color: #FFECEA; }
+  a { display: inline-block; padding: 14px 28px; background: #fff; color: #C8281E; border-radius: 999px; font-weight: 700; text-decoration: none; }
+</style>
+<script>
+  // Sender gamle adresser fra Google Sites videre til de nye sidene.
+  (function () {
+    var map = {
+      'hjem': 'index.html',
+      'trygg-på-trening': 'trygg-pa-trening.html',
+      'trygg-p%C3%A5-trening': 'trygg-pa-trening.html',
+      'om-klubben/klubbhistorie': 'klubbhistorie.html',
+      'om-klubben/kontakt-oss': 'kontakt.html',
+      'om-klubben/styret': 'styret.html',
+      'om-klubben/sportslig-utvalg': 'sportslig-utvalg.html',
+      'barneidretten-starter-27-agust': 'barneidrett.html'
+    };
+    var path = decodeURIComponent(location.pathname).replace(/\/+$/, '');
+    for (var old in map) {
+      var key = decodeURIComponent(old);
+      if (path.slice(-key.length - 1) === '/' + key) {
+        location.replace(path.slice(0, path.length - key.length) + map[old]);
+        return;
+      }
+    }
+  })();
+</script>
+</head>
+<body>
+  <main>
+    <h1>Fant ikke siden</h1>
+    <p>Siden du leter etter finnes ikke, eller har fått ny adresse.</p>
+    <a href="/">Gå til forsiden</a>
+  </main>
+</body>
+</html>
