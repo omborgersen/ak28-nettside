@@ -348,3 +348,5 @@ p { margin: 0; }
 .choice input, .check input { width: 20px; height: 20px; accent-color: var(--red); flex: 0 0 auto; margin: 2px 0 0; }
 .choice input { margin: 0; }
 .form-error { color: #B3241B; font-weight: 600; margin: 0; }
+.sponsor img { max-width: 80%; max-height: 64%; width: auto; height: auto; object-fit: contain; }
+.tier-1 .sponsor img { max-width: 78%; max-height: 60%; }
