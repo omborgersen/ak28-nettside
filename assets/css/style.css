@@ -350,3 +350,5 @@ p { margin: 0; }
 .form-error { color: #B3241B; font-weight: 600; margin: 0; }
 .sponsor img { max-width: 80%; max-height: 64%; width: auto; height: auto; object-fit: contain; }
 .tier-1 .sponsor img { max-width: 78%; max-height: 60%; }
+/* Sparebanken Norge-logoen har egen luft rundt seg i bildefilen */
+.tier-1 .sponsor img, .sponsor-grid .sponsor img { max-width: 100%; max-height: 100%; }
