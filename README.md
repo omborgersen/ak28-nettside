@@ -24,6 +24,7 @@ Ren HTML, CSS og JavaScript – ingen byggesteg. Publiseres gratis med GitHub Pa
 | `assets/css/style.css` | All styling. Klubbfargene står øverst i filen |
 | `assets/js/main.js` | Mobilmeny og nedtelling til cupen |
 | `assets/js/lag.js` | Viser lagene fra `data/lag.json` |
+| `assets/js/klubbhus.js` | Leieskjemaet for klubbhuset (pris, tidssjekk, takk-melding) |
 | `assets/img/` | Logo og bilder |
 | `assets/fonts/` | Skriftene (Barlow Condensed og Inter), lagret lokalt |
 
@@ -38,6 +39,24 @@ Menyen og bunnteksten er lik på alle sider. Skal noe der endres, må det endres
 - **Bygge inn Google-kalenderen:** Se kommentaren i kalenderseksjonen i `index.html`.
 
 Endringer kan gjøres direkte på github.com (blyant-ikonet på filen). Siden oppdateres automatisk etter et minutt eller to.
+
+## Booking av klubbhuset
+
+Alt samles i én Google-kalender: «KLUBBHUS AK28». Den vises på `klubbhuset.html`.
+
+**Trenere og foreldrekontakter (gratis, uten godkjenning)**
+1. Daglig leder åpner kalenderen i Google Kalender → Innstillinger og deling → *Del med bestemte personer*.
+2. Legg til e-posten til hver trener og foreldrekontakt med tilgangen **«Gjøre endringer i aktiviteter»**.
+3. De bruker knappen «Åpne klubbhuskalenderen» på nettsiden og legger inn bookingen selv.
+4. Fjern tilgangen når noen slutter som trener eller foreldrekontakt.
+
+**Alle andre (forespørsel, godkjennes av daglig leder)**
+1. Forespørselen fylles ut i skjemaet på nettsiden og sendes på e-post til daglig leder via tjenesten FormSubmit.
+2. **Første gang** skjemaet brukes, sender FormSubmit en e-post til iselin@ak28.no med en lenke som må trykkes for å aktivere skjemaet.
+3. Daglig leder sjekker kalenderen, svarer leietakeren på e-post, og legger godkjente utleier inn i kalenderen (f.eks. «Utleie – bursdag»).
+4. Faktura sendes som før.
+
+Skal forespørslene til en annen e-post, bytt adressen i `action="https://formsubmit.co/…"` i `klubbhuset.html` (og aktiver på nytt).
 
 ## Publisering med GitHub Pages
 

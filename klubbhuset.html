@@ -52,6 +52,12 @@
     </div>
   </section>
 
+  <div class="container">
+    <div class="notice success" id="takk" role="status" hidden>
+      <strong>Takk! Forespørselen er sendt.</strong> Daglig leder går gjennom den og svarer deg på e-post så snart som mulig. Bookingen er ikke bekreftet før du har fått svar.
+    </div>
+  </div>
+
   <section class="container section">
     <img class="photo-wide" src="assets/img/klubbhuset.jpg" alt="Fullt klubbhus med spillere og foreldre, og AK28-logoen på den røde veggen" width="1400" height="1050">
   </section>
@@ -64,25 +70,122 @@
     </div>
   </section>
 
-  <section class="container section">
+  <!-- To veier inn -->
+  <section class="container section" aria-labelledby="booking-tittel">
+    <div class="section-head"><h2 class="section-title" id="booking-tittel">Book klubbhuset</h2></div>
+    <div class="split">
+      <div class="card box" style="flex:1 1 360px">
+        <span class="eyebrow">Alle andre</span>
+        <h2>Lei klubbhuset</h2>
+        <p class="muted">Send en forespørsel med ønsket dato. Daglig leder går gjennom den og bekrefter på e-post.</p>
+        <ul class="facts">
+          <li><span class="k">Medlemmer</span><span class="v">2 000 kr</span></li>
+          <li><span class="k">Ikke-medlemmer</span><span class="v">4 000 kr</span></li>
+          <li><span class="k">Vask (kommer alltid i tillegg)</span><span class="v">700 kr</span></li>
+        </ul>
+        <a class="btn btn-red" style="align-self:flex-start" href="#foresporsel">Send forespørsel</a>
+      </div>
+      <div class="dark box" style="flex:1 1 360px;border-radius:var(--radius)">
+        <span class="eyebrow" style="color:#FFB3AB">Trenere og foreldrekontakter i AK28</span>
+        <h2>Book selv – gratis</h2>
+        <p style="color:#E8DCDA">Skal laget ha møte, samling eller sosialt arrangement? Legg det rett inn i klubbhuskalenderen. Sjekk at tiden er ledig først.</p>
+        <ol style="margin:0;padding-left:20px;color:#E8DCDA;display:flex;flex-direction:column;gap:6px">
+          <li>Åpne kalenderen og velg ledig tid.</li>
+          <li>Skriv lag og formål i tittelen, f.eks. «J13 – foreldremøte».</li>
+          <li>Skriv navnet ditt og telefonnummer i beskrivelsen.</li>
+        </ol>
+        <a class="btn btn-white" style="align-self:flex-start" href="https://calendar.google.com/calendar/u/0/r?cid=c_36cf060f650f04941aed91edffbc0d9b5cb9ebec04e6e7a06af27b53220d99c3%40group.calendar.google.com">Åpne klubbhuskalenderen</a>
+        <p style="font-size:14px;color:#E8DCDA">Får du ikke lagt inn? Be daglig leder om tilgang: <a href="mailto:iselin@ak28.no" style="color:#fff">iselin@ak28.no</a></p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Kalender -->
+  <section class="container section" aria-labelledby="kalender-tittel">
+    <div class="card box">
+      <h2 id="kalender-tittel">Ledige og opptatte datoer</h2>
+      <p class="muted">Alt som står i kalenderen er opptatt – både lagenes egne bookinger og godkjente utleier.</p>
+      <iframe class="embed" title="Kalender for klubbhuset" loading="lazy" src="https://calendar.google.com/calendar/embed?mode=MONTH&amp;showPrint=0&amp;showTz=0&amp;showCalendars=0&amp;showTitle=0&amp;wkst=2&amp;ctz=Europe%2FOslo&amp;color=%23C8281E&amp;src=c_36cf060f650f04941aed91edffbc0d9b5cb9ebec04e6e7a06af27b53220d99c3%40group.calendar.google.com"></iframe>
+    </div>
+  </section>
+
+  <!-- Forespørselsskjema -->
+  <section class="container section" id="foresporsel" aria-labelledby="skjema-tittel">
     <div class="two-col">
       <div class="main-col">
-        <div class="card box">
-          <h2>Ledige datoer</h2>
-          <p class="muted">Kalenderen viser når klubbhuset er opptatt.</p>
-          <iframe class="embed" title="Kalender for klubbhuset" loading="lazy" src="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;showPrint=0&amp;showTz=0&amp;showCalendars=0&amp;showTitle=0&amp;ctz=Europe%2FOslo&amp;color=%23C8281E&amp;src=c_36cf060f650f04941aed91edffbc0d9b5cb9ebec04e6e7a06af27b53220d99c3%40group.calendar.google.com"></iframe>
-        </div>
+        <!-- Skjemaet sendes til daglig leder via FormSubmit. Bytt e-postadressen i action for å endre mottaker. -->
+        <form class="card box booking-form" id="leieskjema" action="https://formsubmit.co/iselin@ak28.no" method="POST">
+          <h2 id="skjema-tittel">Send leieforespørsel</h2>
+          <p class="muted">Felt merket med * må fylles ut. Bookingen er ikke bekreftet før du har fått svar fra oss.</p>
+
+          <input type="hidden" name="_subject" value="Ny leieforespørsel – klubbhuset AK28">
+          <input type="hidden" name="_template" value="table">
+          <input type="hidden" name="_captcha" value="false">
+          <input type="hidden" name="_next" id="neste" value="">
+          <input type="text" name="_honey" class="sr-only" tabindex="-1" autocomplete="off" aria-hidden="true">
+
+          <fieldset>
+            <legend>Om deg</legend>
+            <div class="field-row">
+              <label class="field">Navn *<input type="text" name="Navn" autocomplete="name" required></label>
+              <label class="field">Telefon *<input type="tel" name="Telefon" autocomplete="tel" inputmode="tel" required></label>
+            </div>
+            <label class="field">E-post *<input type="email" name="email" autocomplete="email" required></label>
+            <div class="choice-row" role="radiogroup" aria-label="Er du medlem i AK28?">
+              <span class="choice-label">Er du medlem i AK28? *</span>
+              <label class="choice"><input type="radio" name="Medlem" value="Ja" required> Ja</label>
+              <label class="choice"><input type="radio" name="Medlem" value="Nei" required> Nei</label>
+            </div>
+          </fieldset>
+
+          <fieldset>
+            <legend>Om arrangementet</legend>
+            <div class="field-row">
+              <label class="field">Dato *<input type="date" name="Dato" id="dato" required></label>
+              <label class="field">Fra kl. *<input type="time" name="Fra" id="fra" required></label>
+              <label class="field">Til kl. *<input type="time" name="Til" id="til" required></label>
+            </div>
+            <div class="field-row">
+              <label class="field">Type arrangement *
+                <select name="Arrangement" required>
+                  <option value="">Velg …</option>
+                  <option>Bursdag</option>
+                  <option>Konfirmasjon</option>
+                  <option>Dåp</option>
+                  <option>Selskap/fest</option>
+                  <option>Møte</option>
+                  <option>Annet</option>
+                </select>
+              </label>
+              <label class="field">Antall personer *<input type="number" name="Antall personer" min="1" max="50" required></label>
+            </div>
+            <label class="field">Melding<textarea name="Melding" rows="4" placeholder="Fortell gjerne litt mer om arrangementet"></textarea></label>
+          </fieldset>
+
+          <label class="check"><input type="checkbox" name="Ansvarlig over 25 år" value="Ja" required> Jeg er minst 25 år og vil være til stede hele leieperioden. *</label>
+          <label class="check"><input type="checkbox" name="Godtar reglene" value="Ja" required> Jeg har lest reglene nedenfor og godtar at vask (700 kr) kommer i tillegg til leien. *</label>
+
+          <p class="form-error" id="skjemafeil" role="alert" hidden></p>
+          <button class="btn btn-red" type="submit" style="align-self:flex-start">Send forespørsel</button>
+          <p class="muted" style="font-size:13px">Opplysningene brukes bare til å behandle forespørselen din, og sendes på e-post til daglig leder i AK28.</p>
+        </form>
       </div>
       <aside class="side-col">
-        <div class="card box">
-          <h2>Priser</h2>
+        <div class="card box" aria-live="polite">
+          <h2>Pris</h2>
           <ul class="facts">
-            <li><span class="k">Medlemmer</span><span class="v">2 000 kr</span></li>
-            <li><span class="k">Ikke-medlemmer</span><span class="v">4 000 kr</span></li>
+            <li><span class="k">Leie</span><span class="v" id="pris-leie">Velg medlem/ikke</span></li>
             <li><span class="k">Vask</span><span class="v">700 kr</span></li>
+            <li><span class="k"><strong>Totalt</strong></span><span class="v" id="pris-total">–</span></li>
           </ul>
-          <p class="muted" style="font-size:14px">Vask kommer alltid i tillegg til leien, slik at lokalet overleveres i perfekt stand.</p>
-          <a class="btn btn-red" href="https://www.bookup.no/Utleie/#Odderneshallen---Klubbhus-AK28-____/view:item/id:5762/part:/place:4204:KRISTIANSAND/r:36/mod:book">Send leieforespørsel</a>
+          <p class="muted" style="font-size:14px">Du får faktura etter at bookingen er godkjent.</p>
+        </div>
+        <div class="card box">
+          <h2>Spørsmål?</h2>
+          <ul class="facts">
+            <li><span class="k">Daglig leder</span><a class="v" href="mailto:iselin@ak28.no">iselin@ak28.no</a></li>
+            <li><span class="k">Telefon</span><a class="v" href="tel:+4793648183">936 48 183</a></li>
+          </ul>
         </div>
       </aside>
     </div>
@@ -136,5 +239,6 @@
 </footer>
 
 <script src="assets/js/main.js"></script>
+<script src="assets/js/klubbhus.js"></script>
 </body>
 </html>
