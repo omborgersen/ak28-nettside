@@ -17,7 +17,7 @@
       "navn": "Jenter 2020",
       "alder": "Født 2020",
       "trenere": "Hovedtrenere: Annette Stray og Monica Thortveit. Trener: Didrik Ottesen",
-      "trening": "[Dag og klokkeslett]",
+      "trening": "Mandag 17.00–18.00, gymsalen i Gimlehallen",
       "handball": "",
       "bilde": ""
     },
@@ -27,7 +27,7 @@
       "navn": "Jenter 2019",
       "alder": "Født 2019",
       "trenere": "Hovedtrener: Magnus von Porat Fiane",
-      "trening": "[Dag og klokkeslett]",
+      "trening": "Mandag 17.00–18.00, Odderneshallen",
       "handball": "",
       "bilde": ""
     },
@@ -37,7 +37,7 @@
       "navn": "Jenter 2018",
       "alder": "Født 2018",
       "trenere": "Hovedtrener: Lynette Fuglestad Stallemo",
-      "trening": "[Dag og klokkeslett]",
+      "trening": "Tirsdag 14.30–16.00, Odderneshallen",
       "handball": "",
       "bilde": ""
     },
@@ -47,7 +47,7 @@
       "navn": "Gutter 2018",
       "alder": "Født 2018",
       "trenere": "Hovedtrener: Frank Egeland",
-      "trening": "[Dag og klokkeslett]",
+      "trening": "Tirsdag 17.00–18.00, Odderneshallen. Onsdag 16.00–17.00, Odderneshallen",
       "handball": "",
       "bilde": ""
     },
@@ -57,7 +57,7 @@
       "navn": "Jenter 2017",
       "alder": "Født 2017",
       "trenere": "Hovedtrener: Harald Torgersen. Trener: Geir Haugeland",
-      "trening": "[Dag og klokkeslett]",
+      "trening": "Torsdag 16.00–17.00, Badmintonhallen",
       "handball": "",
       "bilde": ""
     },
@@ -67,7 +67,7 @@
       "navn": "Gutter 2017",
       "alder": "Født 2017",
       "trenere": "Trenere: Beate Benestad Vestergaard, Ingelill Pedersen og Marianne L Furnes",
-      "trening": "[Dag og klokkeslett]",
+      "trening": "Tirsdag 17.00–18.00, Odderneshallen",
       "handball": "",
       "bilde": ""
     },
@@ -78,7 +78,7 @@
       "alder": "Født 2016",
       "bilde": "lag/j2016.jpg",
       "trenere": "Hovedtrener: Annette Stray. Trenere: Carina Marcussen Lund, Ellen Sophie Noraas, Nils Vidar Gummedal og Simen Bak-Nordbø",
-      "trening": "[Dag og klokkeslett]",
+      "trening": "Torsdag 16.00–17.00, Odderneshallen. Fredag 16.00–17.00, Badmintonhallen",
       "handball": ""
     },
     {
@@ -87,7 +87,7 @@
       "navn": "Gutter 2016",
       "alder": "Født 2016",
       "trenere": "Hovedtrener: Idunn Sem",
-      "trening": "[Dag og klokkeslett]",
+      "trening": "Onsdag 17.00–18.00, Kongsgård skolesenter",
       "handball": "",
       "bilde": ""
     },
@@ -98,7 +98,7 @@
       "alder": "Født 2015",
       "bilde": "lag/j2015.jpg",
       "trenere": "Hovedtrener: Magnus von Porat Fiane. Trener: Geir Haugeland",
-      "trening": "[Dag og klokkeslett]",
+      "trening": "Tirsdag 18.00–19.00, Odderneshallen. Fredag 15.00–16.00, Badmintonhallen",
       "handball": ""
     },
     {
@@ -118,7 +118,7 @@
       "alder": "Født 2014",
       "bilde": "lag/j2014.jpg",
       "trenere": "Hovedtrenere: Monica Thortveit og Susanne Fuglestad. Trener: Morten Dalen",
-      "trening": "[Dag og klokkeslett]",
+      "trening": "Mandag 16.00–17.00, Odderneshallen og Badmintonhallen. Torsdag 18.30–19.30, Odderneshallen. Fredag 16.00–17.00, Odderneshallen (ekstraøkt)",
       "handball": ""
     },
     {
@@ -128,7 +128,7 @@
       "alder": "Født 2014",
       "bilde": "lag/g2014.jpg",
       "trenere": "Hovedtrener: Frank Egeland. Trenere: Julie Ilebekk og Ole Lunde-Borgersen",
-      "trening": "[Dag og klokkeslett]",
+      "trening": "Torsdag 17.00–18.30, Odderneshallen",
       "handball": ""
     },
     {
@@ -138,7 +138,7 @@
       "alder": "Født 2013",
       "bilde": "lag/j2013.jpg",
       "trenere": "Hovedtrenere: Bjørn Stian Hellgren, Jarle Johannessen og Tommy Skjørtorp. Assistenttrener: Iselin Teigen Rognlid",
-      "trening": "[Dag og klokkeslett]",
+      "trening": "Tirsdag 15.00–17.00, Badmintonhallen. Fredag 17.00–18.30, Odderneshallen (ekstraøkt)",
       "handball": ""
     },
     {
@@ -147,7 +147,7 @@
       "navn": "Gutter 2013",
       "alder": "Født 2013",
       "trenere": "Hovedtrenere: Brage Stening og Mikkel Hapnes. Assistenttrenere: Lene Klingenberg og Tommy Jørgensen Mjåland. Lagleder: Stein Håvard Ugland",
-      "trening": "[Dag og klokkeslett]",
+      "trening": "Mandag 19.00–20.30, Odderneshallen. Tirsdag 16.00–17.00, Odderneshallen. Fredag 14.30–16.00, Odderneshallen (ekstraøkt)",
       "bilde": "lag/g2013.jpg",
       "handball": "https://www.handball.no/system/kamper/lag/?lagid=439844"
     },
@@ -157,7 +157,7 @@
       "navn": "Gutter 2012",
       "alder": "Født 2012",
       "trenere": "Hovedtrenere: Brage Stening og Mikkel Hapnes. Assistenttrenere: Lene Klingenberg og Tommy Jørgensen Mjåland",
-      "trening": "[Dag og klokkeslett]",
+      "trening": "Mandag 19.00–20.30, Odderneshallen. Tirsdag 16.00–17.00, Odderneshallen. Fredag 14.30–16.00, Odderneshallen (ekstraøkt)",
       "bilde": "",
       "handball": "https://www.handball.no/system/kamper/lag/?lagid=710558"
     },
@@ -168,7 +168,7 @@
       "alder": "Født 2011",
       "bilde": "lag/j2011.jpg",
       "trenere": "Hovedtrener: Ole Terje Kristensen. Assistenttrener: Merethe Johansen",
-      "trening": "[Dag og klokkeslett]",
+      "trening": "Onsdag 14.30–16.00, Odderneshallen. Torsdag 14.30–16.00, Odderneshallen",
       "handball": ""
     },
     {
@@ -177,7 +177,7 @@
       "navn": "Gutter 2011",
       "alder": "Født 2011",
       "trenere": "Hovedtrenere: Kristine Lunde-Borgersen og Monica Svantesson. Trener: Fredrik Ihlen",
-      "trening": "[Dag og klokkeslett]",
+      "trening": "Mandag 18.00–19.00, Odderneshallen. Onsdag 17.00–18.30, Odderneshallen. Torsdag 19.30–20.30, Odderneshallen",
       "handball": "",
       "bilde": ""
     },
@@ -187,7 +187,7 @@
       "navn": "Menn senior",
       "alder": "Senior · 2. divisjon",
       "trenere": "Hovedtrener: Carl-Simon Sefanius Aulén. Trener: Ole Christian Hapnes",
-      "trening": "[Dag og klokkeslett]",
+      "trening": "Mandag 20.30–22.00, Odderneshallen. Onsdag 18.30–20.00, Odderneshallen. Torsdag 20.30–22.00, Marvikshallen",
       "bilde": "",
       "handball": "https://www.handball.no/system/kamper/lag/?lagid=224009"
     },
@@ -197,7 +197,7 @@
       "navn": "Kvinner senior 2",
       "alder": "Senior · 4. divisjon",
       "trenere": "Hovedtrener: Maren Hærum Mykland",
-      "trening": "[Dag og klokkeslett]",
+      "trening": "Tirsdag 19.00–20.30, Odderneshallen. Onsdag 20.00–22.00, Odderneshallen",
       "bilde": "",
       "handball": "https://www.handball.no/system/kamper/lag/?lagid=453893"
     }
