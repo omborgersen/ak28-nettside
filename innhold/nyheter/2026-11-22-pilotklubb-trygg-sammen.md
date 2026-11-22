@@ -11,6 +11,8 @@ publisert: true
 
 Visjonen vår er å være «Byens beste oppvekst- og utviklingsmiljø». Det gir oss en stor forpliktelse til å legge til rette for at barn og unge trives og er trygge på vår arena. Derfor har vi takket ja til å være pilotklubb i Trygg sammen i 2026.
 
+– Prosjektet er viktig både for byen og for oss som klubb. Hvis vi som klubb skal fylle samfunnsrollen vår på en god måte, må vi ta det på alvor at alle skal være trygge på våre arenaer, sier Ole Lunde-Borgersen, styreleder i AK28.
+
 ### Hva er Trygg sammen?
 
 Bystyret i Kristiansand vedtok i april 2021 en nullvisjon om vold og seksuelle overgrep mot barn og unge. Programmet Trygg sammen har en visjon om at barn og unge skal vokse opp uten å bli utsatt for vold og seksuelle overgrep.
