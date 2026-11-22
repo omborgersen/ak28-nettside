@@ -92,3 +92,14 @@ Alle undersidene fra Google Sites er flyttet hit, og gamle adresser (for eksempe
 ## Ting som fortsatt må fylles inn
 
 Alt som står i `[klammer]` er plassholdere: treningstider, priser, helgens kamper, sponsorlogoer, svar i «Ofte stilte spørsmål» og datoen for håndballskolen.
+
+## Kampoversikten (kamper.html)
+
+Kampene hentes fra en Excel-eksport av klubbens terminliste i TurneringsAdmin (Klubb → Terminliste → Eksporter til Excel).
+
+1. Eksporter hele sesongen fra TurneringsAdmin.
+2. Kjør `python tools/bygg_kamper.py kamper.xlsx`. Det lager `data/kamper.json`.
+3. Publiser `data/kamper.json`. **Ikke** legg Excel-filen i repoet – den inneholder navn på dommere og funksjonærer.
+
+`kamper.json` brukes av kampsiden, «Kamper i Odderneshallen denne helgen» på forsiden og kampknappen på hvert lag på lagsiden.
+Klassen i serienavnet gjøres om til årskull (f.eks. «Jenter 15» = Jenter 2011 i 2026/27). Ved ny sesong må årstallet i `lag_for()` i skriptet oppdateres.

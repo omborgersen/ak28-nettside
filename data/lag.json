@@ -1,5 +1,5 @@
 {
-  "_info": "Laglisten på lag.html. Kategori: barn, ungdom eller senior. Bilde: filnavn i assets/img (tomt = 'Lagbilde kommer'). handball: lenke til laget på handball.no (tomt = ingen kamper/tabell). Kamper og tabell: fyll inn, eller hent automatisk senere.",
+  "_info": "Laglisten på lag.html. Kategori: barn, ungdom eller senior. Bilde: filnavn i assets/img (tomt = 'Lagbilde kommer'). handball: lenke til laget på handball.no. Kampene hentes fra data/kamper.json (lages med tools/bygg_kamper.py).",
   "lag": [
     {
       "id": "barneidrett",
@@ -200,92 +200,6 @@
       "trening": "Tirsdag 19.00–20.30, Odderneshallen. Onsdag 20.00–22.00, Odderneshallen",
       "bilde": "",
       "handball": "https://www.handball.no/system/kamper/lag/?lagid=453893"
-    }
-  ],
-  "eksempel_kamper": [
-    {
-      "dato": "[Dato]",
-      "tid": "[Kl.]",
-      "hjemme": "AK28",
-      "borte": "[Motstander]",
-      "hall": "Odderneshallen",
-      "resultat": "[Resultat]"
-    },
-    {
-      "dato": "[Dato]",
-      "tid": "[Kl.]",
-      "hjemme": "[Motstander]",
-      "borte": "AK28",
-      "hall": "[Hall]",
-      "resultat": "[Resultat]"
-    },
-    {
-      "dato": "[Dato]",
-      "tid": "[Kl.]",
-      "hjemme": "AK28",
-      "borte": "[Motstander]",
-      "hall": "Odderneshallen",
-      "resultat": ""
-    },
-    {
-      "dato": "[Dato]",
-      "tid": "[Kl.]",
-      "hjemme": "[Motstander]",
-      "borte": "AK28",
-      "hall": "[Hall]",
-      "resultat": ""
-    }
-  ],
-  "eksempel_tabell": [
-    {
-      "plass": 1,
-      "lag": "[Lag]",
-      "k": "–",
-      "v": "–",
-      "u": "–",
-      "t": "–",
-      "maal": "–",
-      "p": "–"
-    },
-    {
-      "plass": 2,
-      "lag": "[Lag]",
-      "k": "–",
-      "v": "–",
-      "u": "–",
-      "t": "–",
-      "maal": "–",
-      "p": "–"
-    },
-    {
-      "plass": 3,
-      "lag": "AK28",
-      "k": "–",
-      "v": "–",
-      "u": "–",
-      "t": "–",
-      "maal": "–",
-      "p": "–"
-    },
-    {
-      "plass": 4,
-      "lag": "[Lag]",
-      "k": "–",
-      "v": "–",
-      "u": "–",
-      "t": "–",
-      "maal": "–",
-      "p": "–"
-    },
-    {
-      "plass": 5,
-      "lag": "[Lag]",
-      "k": "–",
-      "v": "–",
-      "u": "–",
-      "t": "–",
-      "maal": "–",
-      "p": "–"
     }
   ]
 }

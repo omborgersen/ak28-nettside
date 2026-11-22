@@ -1,0 +1,5502 @@
+{
+ "oppdatert": "2026-11-22",
+ "kilde": "TurneringsAdmin",
+ "kamper": [
+  {
+   "dato": "2026-08-19",
+   "tid": "20:30",
+   "hjemme": "AK28",
+   "borte": "Randesund",
+   "resultat": "17–38",
+   "hall": "Odderneshallen",
+   "serie": "NM Senior kvinner",
+   "klasse": "Kvinner senior",
+   "lag": [
+    "ks2"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-08-30",
+   "tid": "13:00",
+   "hjemme": "AK28",
+   "borte": "Grenland Topphåndballklubb",
+   "resultat": "24–24",
+   "hall": "Marvikshallen",
+   "serie": "2. divisjon menn - 02",
+   "klasse": "Menn senior",
+   "lag": [
+    "msr"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-09-05",
+   "tid": "16:00",
+   "hjemme": "Åkra",
+   "borte": "AK28",
+   "resultat": "22–25",
+   "hall": "Åkrahallen 1 - Øst",
+   "serie": "2. divisjon menn - 02",
+   "klasse": "Menn senior",
+   "lag": [
+    "msr"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-09-06",
+   "tid": "15:00",
+   "hjemme": "Havørn",
+   "borte": "AK28",
+   "resultat": "20–23",
+   "hall": "Tanangerhallen",
+   "serie": "2. divisjon menn - 02",
+   "klasse": "Menn senior",
+   "lag": [
+    "msr"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-09-12",
+   "tid": "11:55",
+   "hjemme": "Strømmen-Glimt",
+   "borte": "AK28",
+   "resultat": "31–23",
+   "hall": "Nedeneshallen",
+   "serie": "4. divisjon Kvinner - 01",
+   "klasse": "Kvinner senior",
+   "lag": [
+    "ks2"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-09-12",
+   "tid": "12:30",
+   "hjemme": "Lyngdal Idrettslag (Agder) 2",
+   "borte": "AK28",
+   "resultat": "20–14",
+   "hall": "Lyngdalshallen",
+   "serie": "Gutter 14, Breddeserie 03",
+   "klasse": "Gutter 2012",
+   "lag": [
+    "g2012"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-09-12",
+   "tid": "15:50",
+   "hjemme": "Sola",
+   "borte": "AK28",
+   "resultat": "17–22",
+   "hall": "SR Group Arena Åsenhallen A",
+   "serie": "Jenter 15, Regionserie",
+   "klasse": "Jenter 2011",
+   "lag": [
+    "j2011"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-09-12",
+   "tid": "17:50",
+   "hjemme": "AK28",
+   "borte": "Sola",
+   "resultat": "30–30",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 15, Regionserie",
+   "klasse": "Gutter 2011",
+   "lag": [
+    "g2011"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-09-13",
+   "tid": "11:30",
+   "hjemme": "Sandnes",
+   "borte": "AK28",
+   "resultat": "17–23",
+   "hall": "Figgjohallen",
+   "serie": "Jenter 15, Regionserie",
+   "klasse": "Jenter 2011",
+   "lag": [
+    "j2011"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-09-13",
+   "tid": "13:00",
+   "hjemme": "AK28",
+   "borte": "Sandnes 2",
+   "resultat": "37–28",
+   "hall": "Marvikshallen",
+   "serie": "2. divisjon menn - 02",
+   "klasse": "Menn senior",
+   "lag": [
+    "msr"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-09-14",
+   "tid": "19:15",
+   "hjemme": "AK28",
+   "borte": "Søgne",
+   "resultat": "25–16",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 14, Breddeserie 03",
+   "klasse": "Gutter 2012",
+   "lag": [
+    "g2012"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-09-17",
+   "tid": "19:00",
+   "hjemme": "Øyestad",
+   "borte": "AK28",
+   "resultat": "24–34",
+   "hall": "Nedeneshallen",
+   "serie": "2. divisjon menn - 02",
+   "klasse": "Menn senior",
+   "lag": [
+    "msr"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-09-23",
+   "tid": "20:20",
+   "hjemme": "AK28",
+   "borte": "Lyngdal",
+   "resultat": "23–14",
+   "hall": "Odderneshallen",
+   "serie": "4. divisjon Kvinner - 01",
+   "klasse": "Kvinner senior",
+   "lag": [
+    "ks2"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-09-23",
+   "tid": "20:45",
+   "hjemme": "Lillesand",
+   "borte": "AK28/Kristiansand 3",
+   "resultat": "23–42",
+   "hall": "Møglestuhallen",
+   "serie": "4. divisjon Menn - 01",
+   "klasse": "Menn 4. div",
+   "lag": [
+    "m4"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-09-24",
+   "tid": "17:15",
+   "hjemme": "AK28",
+   "borte": "AK28 2",
+   "resultat": "17–13",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-09-24",
+   "tid": "18:30",
+   "hjemme": "AK28",
+   "borte": "Vindbjart",
+   "resultat": "21–15",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 12, Breddeserie 04",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-09-24",
+   "tid": "18:30",
+   "hjemme": "Øvrebø 2",
+   "borte": "AK28 2",
+   "resultat": "13–18",
+   "hall": "Øvrebøhallen",
+   "serie": "Jenter 13, Breddeserie 04",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-09-24",
+   "tid": "18:40",
+   "hjemme": "Birkenes",
+   "borte": "AK28",
+   "resultat": "6–23",
+   "hall": "Birkeneshallen",
+   "serie": "Gutter 13, A/Breddeserie 02",
+   "klasse": "Gutter 2013",
+   "lag": [
+    "g2013"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-09-26",
+   "tid": "10:00",
+   "hjemme": "AK28",
+   "borte": "Tasta",
+   "resultat": "19–19",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 15, Regionserie",
+   "klasse": "Jenter 2011",
+   "lag": [
+    "j2011"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-10-06",
+   "tid": "18:00",
+   "hjemme": "AK28",
+   "borte": "Gimletroll",
+   "resultat": "16–15",
+   "hall": "Gimlehallen 1",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-10-08",
+   "tid": "17:30",
+   "hjemme": "AK28 2",
+   "borte": "Høvdingen",
+   "resultat": "13–14",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-10-08",
+   "tid": "18:30",
+   "hjemme": "AK28 2",
+   "borte": "Våg 2",
+   "resultat": "16–34",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 12, Øvet 02",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-10-10",
+   "tid": "10:00",
+   "hjemme": "AK28",
+   "borte": "Framsteg",
+   "resultat": "",
+   "hall": "Finsland idrettshall",
+   "serie": "Jenter 11, Øvet 02",
+   "klasse": "Jenter 2015",
+   "lag": [
+    "j2015"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-10-10",
+   "tid": "10:40",
+   "hjemme": "AK28 3",
+   "borte": "AK28 4",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 10, ice 5-er-håndball 04",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-10-10",
+   "tid": "11:20",
+   "hjemme": "Søgne",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Finsland idrettshall",
+   "serie": "Jenter 11, Øvet 02",
+   "klasse": "Jenter 2015",
+   "lag": [
+    "j2015"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-10-10",
+   "tid": "12:00",
+   "hjemme": "Vindbjart 2",
+   "borte": "AK28 3",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 10, ice 5-er-håndball 04",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-10-10",
+   "tid": "12:40",
+   "hjemme": "AK28 4",
+   "borte": "Flekkerøy 2",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 10, ice 5-er-håndball 04",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-10-10",
+   "tid": "14:00",
+   "hjemme": "Torridal",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Sukkevann idrettshall",
+   "serie": "Jenter 11, Breddeserie 06",
+   "klasse": "Jenter 2015",
+   "lag": [
+    "j2015"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-10-10",
+   "tid": "16:00",
+   "hjemme": "AK28 2",
+   "borte": "Kristiansand",
+   "resultat": "",
+   "hall": "Sukkevann idrettshall",
+   "serie": "Jenter 11, Breddeserie 06",
+   "klasse": "Jenter 2015",
+   "lag": [
+    "j2015"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-10-10",
+   "tid": "17:50",
+   "hjemme": "AK28",
+   "borte": "Gimletroll/Randesund",
+   "resultat": "21–20",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 15, Regionserie",
+   "klasse": "Gutter 2011",
+   "lag": [
+    "g2011"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-10-10",
+   "tid": "19:00",
+   "hjemme": "AK28",
+   "borte": "MHI/Holum 2",
+   "resultat": "24–26",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 14, Breddeserie 03",
+   "klasse": "Gutter 2012",
+   "lag": [
+    "g2012"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-10-11",
+   "tid": "10:00",
+   "hjemme": "AK28",
+   "borte": "Randesund 3",
+   "resultat": "17–16",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 13, A-serie 02",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-10-11",
+   "tid": "11:30",
+   "hjemme": "AK28",
+   "borte": "MHI/Holum",
+   "resultat": "15–25",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 14, Breddeserie 03",
+   "klasse": "Gutter 2012",
+   "lag": [
+    "g2012"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-10-11",
+   "tid": "14:30",
+   "hjemme": "AK28",
+   "borte": "Øyestad/Express 2",
+   "resultat": "19–20",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 13, A/Breddeserie 02",
+   "klasse": "Gutter 2013",
+   "lag": [
+    "g2013"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-10-13",
+   "tid": "18:00",
+   "hjemme": "Søgne",
+   "borte": "AK28",
+   "resultat": "27–17",
+   "hall": "Tinntjønnhallen",
+   "serie": "Jenter 13, A-serie 02",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-10-17",
+   "tid": "09:30",
+   "hjemme": "AK28",
+   "borte": "Sørfjell",
+   "resultat": "24–22",
+   "hall": "Badmintonhallen",
+   "serie": "Gutter 13, A/Breddeserie 02",
+   "klasse": "Gutter 2013",
+   "lag": [
+    "g2013"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-10-17",
+   "tid": "10:00",
+   "hjemme": "Otra",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Sukkevann Idrettshall 2 - Mini 1",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-10-17",
+   "tid": "10:00",
+   "hjemme": "AK28",
+   "borte": "Gimletroll 1",
+   "resultat": "",
+   "hall": "Odderneshallen - Mini 1",
+   "serie": "Jenter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Jenter 2017",
+   "lag": [
+    "j2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-10-17",
+   "tid": "10:40",
+   "hjemme": "Gimletroll 2",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Havlimyrhallen",
+   "serie": "Jenter 10, ice 5-er-håndball 03",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-10-17",
+   "tid": "11:00",
+   "hjemme": "AK28 2",
+   "borte": "Randesund",
+   "resultat": "",
+   "hall": "Sukkevann Idrettshall 2 - Mini 2",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-10-17",
+   "tid": "11:30",
+   "hjemme": "AK28",
+   "borte": "Gimletroll 3",
+   "resultat": "",
+   "hall": "Sukkevann Idrettshall 2 - Mini 1",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-10-17",
+   "tid": "11:30",
+   "hjemme": "AK28",
+   "borte": "Høvdingen",
+   "resultat": "",
+   "hall": "Odderneshallen - Mini 2",
+   "serie": "Jenter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Jenter 2017",
+   "lag": [
+    "j2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-10-17",
+   "tid": "12:00",
+   "hjemme": "AK28 2",
+   "borte": "Gimletroll 1",
+   "resultat": "",
+   "hall": "Sukkevann Idrettshall 2 - Mini 1",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-10-17",
+   "tid": "12:30",
+   "hjemme": "AK28",
+   "borte": "Gimletroll 2",
+   "resultat": "",
+   "hall": "Sukkevann Idrettshall 2 - Mini 1",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-10-17",
+   "tid": "12:30",
+   "hjemme": "AK28 2",
+   "borte": "Randesund 2",
+   "resultat": "",
+   "hall": "Sukkevann Idrettshall 2 - Mini 2",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-10-17",
+   "tid": "13:00",
+   "hjemme": "AK28",
+   "borte": "Birkenes",
+   "resultat": "",
+   "hall": "Odderneshallen - Mini 1",
+   "serie": "Jenter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Jenter 2017",
+   "lag": [
+    "j2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-10-17",
+   "tid": "13:00",
+   "hjemme": "Kristiansand 2",
+   "borte": "AK28",
+   "resultat": "10–16",
+   "hall": "Idda Arena",
+   "serie": "Jenter 12, Breddeserie 04",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-10-17",
+   "tid": "13:20",
+   "hjemme": "Gimletroll 3",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Havlimyrhallen",
+   "serie": "Jenter 10, ice 5-er-håndball 03",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-10-17",
+   "tid": "14:40",
+   "hjemme": "AK28",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Havlimyrhallen",
+   "serie": "Jenter 10, ice 5-er-håndball 03",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-10-17",
+   "tid": "15:30",
+   "hjemme": "Søgne/Greipstad",
+   "borte": "AK28",
+   "resultat": "24–13",
+   "hall": "Nodelandshallen",
+   "serie": "Jenter 15, Regionserie",
+   "klasse": "Jenter 2011",
+   "lag": [
+    "j2011"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-10-18",
+   "tid": "12:20",
+   "hjemme": "Våg",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Karusshallen",
+   "serie": "Gutter 10, ice 5-er-håndball 02",
+   "klasse": "Gutter 2016",
+   "lag": [
+    "g2016"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-10-18",
+   "tid": "13:00",
+   "hjemme": "AK28",
+   "borte": "Viking",
+   "resultat": "25–25",
+   "hall": "Marvikshallen",
+   "serie": "2. divisjon menn - 02",
+   "klasse": "Menn senior",
+   "lag": [
+    "msr"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-10-18",
+   "tid": "14:05",
+   "hjemme": "AK28",
+   "borte": "Gimletroll 3",
+   "resultat": "",
+   "hall": "Karusshallen",
+   "serie": "Gutter 10, ice 5-er-håndball 02",
+   "klasse": "Gutter 2016",
+   "lag": [
+    "g2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-10-18",
+   "tid": "14:30",
+   "hjemme": "AK28",
+   "borte": "Forus og Gausel",
+   "resultat": "17–20",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 15, Regionserie",
+   "klasse": "Jenter 2011",
+   "lag": [
+    "j2011"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-10-18",
+   "tid": "16:15",
+   "hjemme": "Våg",
+   "borte": "AK28",
+   "resultat": "15–20",
+   "hall": "Karusshallen",
+   "serie": "Gutter 13, A/Breddeserie 02",
+   "klasse": "Gutter 2013",
+   "lag": [
+    "g2013"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-10-19",
+   "tid": "21:00",
+   "hjemme": "Søgne",
+   "borte": "AK28/Kristiansand 3",
+   "resultat": "24–30",
+   "hall": "Tinntjønnhallen",
+   "serie": "4. divisjon Menn - 01",
+   "klasse": "Menn 4. div",
+   "lag": [
+    "m4"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-10-21",
+   "tid": "16:30",
+   "hjemme": "Våg/Flekkerøy",
+   "borte": "AK28 2",
+   "resultat": "18–12",
+   "hall": "Karusshallen",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-10-22",
+   "tid": "19:00",
+   "hjemme": "Høvdingen",
+   "borte": "AK28",
+   "resultat": "15–9",
+   "hall": "Høvåghallen",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-10-24",
+   "tid": "17:00",
+   "hjemme": "Åkra",
+   "borte": "AK28",
+   "resultat": "28–19",
+   "hall": "Åkrahallen 1 - Øst",
+   "serie": "Gutter 15, Regionserie",
+   "klasse": "Gutter 2011",
+   "lag": [
+    "g2011"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-10-26",
+   "tid": "19:30",
+   "hjemme": "AK28",
+   "borte": "Vindbjart",
+   "resultat": "31–11",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 13, A-serie 02",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-10-28",
+   "tid": "18:00",
+   "hjemme": "AK28 2",
+   "borte": "Grindheim",
+   "resultat": "18–8",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 13, Breddeserie 04",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-10-29",
+   "tid": "17:30",
+   "hjemme": "AK28 2",
+   "borte": "Randesund 2",
+   "resultat": "22–22",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-10-30",
+   "tid": "16:10",
+   "hjemme": "Lund 2",
+   "borte": "AK28",
+   "resultat": "10–17",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 12, Breddeserie 04",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-10-31",
+   "tid": "11:00",
+   "hjemme": "Otra 2",
+   "borte": "AK28 2",
+   "resultat": "17–16",
+   "hall": "Otrahallen",
+   "serie": "Jenter 13, Breddeserie 04",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-10-31",
+   "tid": "12:00",
+   "hjemme": "AK28",
+   "borte": "Randesund 3",
+   "resultat": "17–14",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 12, Breddeserie 04",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-10-31",
+   "tid": "14:10",
+   "hjemme": "AK28",
+   "borte": "Høvdingen/Lillesand 2",
+   "resultat": "14–18",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 14, Breddeserie 03",
+   "klasse": "Gutter 2012",
+   "lag": [
+    "g2012"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-10-31",
+   "tid": "16:15",
+   "hjemme": "Lund",
+   "borte": "AK28",
+   "resultat": "12–17",
+   "hall": "Marvikshallen",
+   "serie": "Jenter 13, A-serie 02",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-01",
+   "tid": "11:00",
+   "hjemme": "AK28 3",
+   "borte": "Otra",
+   "resultat": "",
+   "hall": "Venneslahallen",
+   "serie": "Jenter 10, ice 5-er-håndball 04",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-01",
+   "tid": "12:20",
+   "hjemme": "AK28 3",
+   "borte": "Flekkerøy",
+   "resultat": "",
+   "hall": "Venneslahallen",
+   "serie": "Jenter 10, ice 5-er-håndball 04",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-01",
+   "tid": "12:30",
+   "hjemme": "AK28",
+   "borte": "Stavanger",
+   "resultat": "23–27",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 15, Regionserie",
+   "klasse": "Gutter 2011",
+   "lag": [
+    "g2011"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-01",
+   "tid": "13:30",
+   "hjemme": "Otra",
+   "borte": "AK28",
+   "resultat": "13–18",
+   "hall": "Otrahallen",
+   "serie": "Jenter 12, Breddeserie 04",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-01",
+   "tid": "13:40",
+   "hjemme": "Våg 2",
+   "borte": "AK28 4",
+   "resultat": "",
+   "hall": "Venneslahallen",
+   "serie": "Jenter 10, ice 5-er-håndball 04",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-01",
+   "tid": "15:00",
+   "hjemme": "AK28 2",
+   "borte": "Randesund 2",
+   "resultat": "16–15",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 13, Breddeserie 04",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-01",
+   "tid": "15:40",
+   "hjemme": "AK28 4",
+   "borte": "Vindbjart 2",
+   "resultat": "",
+   "hall": "Venneslahallen",
+   "serie": "Jenter 10, ice 5-er-håndball 04",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-01",
+   "tid": "17:00",
+   "hjemme": "AK28 2",
+   "borte": "Farsund og Lista",
+   "resultat": "14–20",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 12, Øvet 02",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-02",
+   "tid": "19:00",
+   "hjemme": "Sørfjell 2",
+   "borte": "AK28",
+   "resultat": "20–15",
+   "hall": "Stueneshallen",
+   "serie": "Gutter 13, A/Breddeserie 02",
+   "klasse": "Gutter 2013",
+   "lag": [
+    "g2013"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-02",
+   "tid": "20:45",
+   "hjemme": "Randesund/Våg 2",
+   "borte": "AK28/Kristiansand 3",
+   "resultat": "31–31",
+   "hall": "Sukkevann Idrettshall 2",
+   "serie": "4. divisjon Menn - 01",
+   "klasse": "Menn 4. div",
+   "lag": [
+    "m4"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-04",
+   "tid": "20:20",
+   "hjemme": "AK28",
+   "borte": "KSI",
+   "resultat": "23–30",
+   "hall": "Odderneshallen",
+   "serie": "4. divisjon Kvinner - 01",
+   "klasse": "Kvinner senior",
+   "lag": [
+    "ks2"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-05",
+   "tid": "17:30",
+   "hjemme": "AK28",
+   "borte": "Våg/Flekkerøy",
+   "resultat": "18–20",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-05",
+   "tid": "18:30",
+   "hjemme": "AK28 2",
+   "borte": "Greipstad",
+   "resultat": "8–14",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 12, Øvet 02",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-07",
+   "tid": "10:00",
+   "hjemme": "Randesund 6",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 10, ice 5-er-håndball 03",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-07",
+   "tid": "11:30",
+   "hjemme": "AK28",
+   "borte": "Express/Øyestad 3",
+   "resultat": "17–21",
+   "hall": "Marvikshallen",
+   "serie": "Gutter 13, A/Breddeserie 02",
+   "klasse": "Gutter 2013",
+   "lag": [
+    "g2013"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-07",
+   "tid": "12:00",
+   "hjemme": "Gimletroll 1",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 10, ice 5-er-håndball 03",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-07",
+   "tid": "12:40",
+   "hjemme": "AK28 2",
+   "borte": "Gimletroll 2",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 10, ice 5-er-håndball 03",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-07",
+   "tid": "14:40",
+   "hjemme": "Randesund 5",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 10, ice 5-er-håndball 03",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-07",
+   "tid": "16:40",
+   "hjemme": "AK28",
+   "borte": "Våg",
+   "resultat": "15–16",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 13, A-serie 02",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-07",
+   "tid": "17:50",
+   "hjemme": "AK28",
+   "borte": "Hundvåg",
+   "resultat": "31–21",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 15, Regionserie",
+   "klasse": "Gutter 2011",
+   "lag": [
+    "g2011"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-08",
+   "tid": "10:50",
+   "hjemme": "AK28",
+   "borte": "Rival",
+   "resultat": "22–22",
+   "hall": "Marvikshallen",
+   "serie": "Gutter 15, Regionserie",
+   "klasse": "Gutter 2011",
+   "lag": [
+    "g2011"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-08",
+   "tid": "14:40",
+   "hjemme": "Lillesand 2",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Fevikhallen",
+   "serie": "Jenter 11, Breddeserie 06",
+   "klasse": "Jenter 2015",
+   "lag": [
+    "j2015"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-08",
+   "tid": "15:00",
+   "hjemme": "Trauma",
+   "borte": "AK28",
+   "resultat": "28–29",
+   "hall": "Tromøyhallen",
+   "serie": "Gutter 14, Breddeserie 03",
+   "klasse": "Gutter 2012",
+   "lag": [
+    "g2012"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-08",
+   "tid": "16:00",
+   "hjemme": "Express",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Fevikhallen",
+   "serie": "Jenter 11, Breddeserie 06",
+   "klasse": "Jenter 2015",
+   "lag": [
+    "j2015"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-08",
+   "tid": "16:40",
+   "hjemme": "Randesund",
+   "borte": "AK28 2",
+   "resultat": "20–16",
+   "hall": "Sukkevann idrettshall",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-08",
+   "tid": "17:40",
+   "hjemme": "Randesund 2",
+   "borte": "AK28",
+   "resultat": "15–15",
+   "hall": "Sukkevann idrettshall",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-08",
+   "tid": "17:50",
+   "hjemme": "AK28/Kristiansand 3",
+   "borte": "Øvrebø",
+   "resultat": "35–21",
+   "hall": "Odderneshallen",
+   "serie": "4. divisjon Menn - 01",
+   "klasse": "Menn 4. div",
+   "lag": [
+    "m4"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-11",
+   "tid": "20:40",
+   "hjemme": "Kristiansandkameratene Fotball Klubb",
+   "borte": "AK28",
+   "resultat": "18–27",
+   "hall": "Aquarama 2",
+   "serie": "4. divisjon Kvinner - 01",
+   "klasse": "Kvinner senior",
+   "lag": [
+    "ks2"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-14",
+   "tid": "13:20",
+   "hjemme": "AK28",
+   "borte": "Våg",
+   "resultat": "",
+   "hall": "Flekkerøyhallen",
+   "serie": "Jenter 11, Øvet 02",
+   "klasse": "Jenter 2015",
+   "lag": [
+    "j2015"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-14",
+   "tid": "13:30",
+   "hjemme": "AK28",
+   "borte": "Randesund",
+   "resultat": "",
+   "hall": "Otrahallen",
+   "serie": "Gutter 10, ice 5-er-håndball 02",
+   "klasse": "Gutter 2016",
+   "lag": [
+    "g2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-14",
+   "tid": "14:40",
+   "hjemme": "Gimletroll 2",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Otrahallen",
+   "serie": "Gutter 10, ice 5-er-håndball 02",
+   "klasse": "Gutter 2016",
+   "lag": [
+    "g2016"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-14",
+   "tid": "14:40",
+   "hjemme": "AK28",
+   "borte": "Framsteg",
+   "resultat": "",
+   "hall": "Flekkerøyhallen",
+   "serie": "Jenter 11, Øvet 02",
+   "klasse": "Jenter 2015",
+   "lag": [
+    "j2015"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-14",
+   "tid": "17:50",
+   "hjemme": "Trauma",
+   "borte": "AK28",
+   "resultat": "19–23",
+   "hall": "Tromøyhallen",
+   "serie": "Gutter 15, Regionserie",
+   "klasse": "Gutter 2011",
+   "lag": [
+    "g2011"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-15",
+   "tid": "10:00",
+   "hjemme": "Randesund 3",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Havlimyrhallen - Mini 1",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-15",
+   "tid": "10:30",
+   "hjemme": "Gimletroll 3",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Havlimyrhallen - Mini 2",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-15",
+   "tid": "10:30",
+   "hjemme": "AK28",
+   "borte": "Randesund",
+   "resultat": "",
+   "hall": "Sukkevann idrettshall - Mini 1",
+   "serie": "Jenter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Jenter 2017",
+   "lag": [
+    "j2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-15",
+   "tid": "11:00",
+   "hjemme": "AK28",
+   "borte": "Randesund",
+   "resultat": "",
+   "hall": "Havlimyrhallen - Mini 1",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-15",
+   "tid": "11:30",
+   "hjemme": "AK28 2",
+   "borte": "Otra",
+   "resultat": "",
+   "hall": "Havlimyrhallen - Mini 1",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-15",
+   "tid": "11:30",
+   "hjemme": "Gimletroll 2",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Sukkevann idrettshall - Mini 1",
+   "serie": "Jenter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Jenter 2017",
+   "lag": [
+    "j2017"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-15",
+   "tid": "12:30",
+   "hjemme": "AK28",
+   "borte": "Gimletroll 2",
+   "resultat": "",
+   "hall": "Havlimyrhallen - Mini 1",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-15",
+   "tid": "13:00",
+   "hjemme": "AK28",
+   "borte": "Randesund 2",
+   "resultat": "",
+   "hall": "Havlimyrhallen - Mini 1",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-17",
+   "tid": "18:00",
+   "hjemme": "Gimletroll",
+   "borte": "AK28 2",
+   "resultat": "15–15",
+   "hall": "Gimlehallen 1",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-17",
+   "tid": "19:30",
+   "hjemme": "Vindbjart/Øvrebø",
+   "borte": "AK28",
+   "resultat": "29–23",
+   "hall": "Venneslahallen",
+   "serie": "Gutter 14, Breddeserie 03",
+   "klasse": "Gutter 2012",
+   "lag": [
+    "g2012"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-18",
+   "tid": "20:20",
+   "hjemme": "AK28",
+   "borte": "Giv Akt",
+   "resultat": "33–18",
+   "hall": "Odderneshallen",
+   "serie": "4. divisjon Kvinner - 01",
+   "klasse": "Kvinner senior",
+   "lag": [
+    "ks2"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-19",
+   "tid": "17:45",
+   "hjemme": "Søgne",
+   "borte": "AK28 2",
+   "resultat": "12–5",
+   "hall": "Nygårdshallen",
+   "serie": "Jenter 12, Øvet 02",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-19",
+   "tid": "20:45",
+   "hjemme": "AK28/Kristiansand 3",
+   "borte": "Grimstad studentidrettslag",
+   "resultat": "32–32",
+   "hall": "Odderneshallen",
+   "serie": "4. divisjon Menn - 01",
+   "klasse": "Menn 4. div",
+   "lag": [
+    "m4"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-21",
+   "tid": "10:20",
+   "hjemme": "AK28",
+   "borte": "Våg",
+   "resultat": "",
+   "hall": "Gimlehallen 2",
+   "serie": "Blandet 12 TEMAserie - Agder Bredde 02",
+   "klasse": "Blandet 2014",
+   "lag": [
+    "g2014",
+    "j2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-21",
+   "tid": "11:00",
+   "hjemme": "Randesund",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Gimlehallen 2",
+   "serie": "Blandet 12 TEMAserie - Agder Bredde 02",
+   "klasse": "Blandet 2014",
+   "lag": [
+    "g2014",
+    "j2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-21",
+   "tid": "11:20",
+   "hjemme": "AK28",
+   "borte": "Randesund 3 Gutter",
+   "resultat": "",
+   "hall": "Gimlehallen 2",
+   "serie": "Blandet 12 TEMAserie - Agder Bredde 02",
+   "klasse": "Blandet 2014",
+   "lag": [
+    "g2014",
+    "j2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-21",
+   "tid": "12:00",
+   "hjemme": "Randesund",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Gimlehallen 2",
+   "serie": "Blandet 12 TEMAserie - Agder Bredde 02",
+   "klasse": "Blandet 2014",
+   "lag": [
+    "g2014",
+    "j2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-21",
+   "tid": "13:20",
+   "hjemme": "Randesund 2",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Gimlehallen 1",
+   "serie": "Blandet 12 TEMAserie - Agder Øvet 01",
+   "klasse": "Blandet 2014",
+   "lag": [
+    "g2014",
+    "j2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-21",
+   "tid": "14:40",
+   "hjemme": "AK28 2",
+   "borte": "Gimletroll 1",
+   "resultat": "",
+   "hall": "Gimlehallen 1",
+   "serie": "Blandet 12 TEMAserie - Agder Øvet 01",
+   "klasse": "Blandet 2014",
+   "lag": [
+    "g2014",
+    "j2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-21",
+   "tid": "15:20",
+   "hjemme": "AK28 2",
+   "borte": "Våg 2",
+   "resultat": "",
+   "hall": "Gimlehallen 1",
+   "serie": "Blandet 12 TEMAserie - Agder Øvet 01",
+   "klasse": "Blandet 2014",
+   "lag": [
+    "g2014",
+    "j2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-21",
+   "tid": "16:00",
+   "hjemme": "Kristiansand",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Gimlehallen 1",
+   "serie": "Blandet 12 TEMAserie - Agder Øvet 01",
+   "klasse": "Blandet 2014",
+   "lag": [
+    "g2014",
+    "j2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-21",
+   "tid": "18:30",
+   "hjemme": "Runar Håndball Elite 2",
+   "borte": "AK28",
+   "resultat": "27–35",
+   "hall": "Runarhallen A",
+   "serie": "2. divisjon menn - 02",
+   "klasse": "Menn senior",
+   "lag": [
+    "msr"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-22",
+   "tid": "10:00",
+   "hjemme": "AK28 2",
+   "borte": "Randesund 5",
+   "resultat": "",
+   "hall": "Havlimyrhallen",
+   "serie": "Jenter 10, ice 5-er-håndball 03",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-22",
+   "tid": "10:00",
+   "hjemme": "AK28",
+   "borte": "Våg",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 12, Breddeserie 04",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-22",
+   "tid": "10:20",
+   "hjemme": "AK28 2",
+   "borte": "Randesund 3",
+   "resultat": "",
+   "hall": "Gimlehallen 2",
+   "serie": "Jenter 13 TEMAserien - Agder Øvet 01",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-22",
+   "tid": "10:35",
+   "hjemme": "AK28",
+   "borte": "Randesund 4",
+   "resultat": "",
+   "hall": "Havlimyrhallen",
+   "serie": "Jenter 10, ice 5-er-håndball 03",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-22",
+   "tid": "10:40",
+   "hjemme": "AK28 2",
+   "borte": "Gimletroll",
+   "resultat": "",
+   "hall": "Gimlehallen 3",
+   "serie": "Gutter 13 TEMAserien - Agder Øvet 01",
+   "klasse": "Gutter 2013",
+   "lag": [
+    "g2013"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-22",
+   "tid": "10:40",
+   "hjemme": "Greipstad",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Gimlehallen 2",
+   "serie": "Jenter 13 TEMAserien - Agder Øvet 01",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-22",
+   "tid": "11:00",
+   "hjemme": "Sørfjell",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Gimlehallen 3",
+   "serie": "Gutter 13 TEMAserien - Agder Øvet 01",
+   "klasse": "Gutter 2013",
+   "lag": [
+    "g2013"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-22",
+   "tid": "11:00",
+   "hjemme": "AK28 2",
+   "borte": "Hånes",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-22",
+   "tid": "11:20",
+   "hjemme": "Randesund 2",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Gimlehallen 1",
+   "serie": "Jenter 13 TEMAserien - Agder Bredde 01",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-22",
+   "tid": "11:40",
+   "hjemme": "Våg",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Gimlehallen 2",
+   "serie": "Jenter 13 TEMAserien - Agder Øvet 01",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-22",
+   "tid": "11:45",
+   "hjemme": "AK28 2",
+   "borte": "Randesund 4",
+   "resultat": "",
+   "hall": "Havlimyrhallen",
+   "serie": "Jenter 10, ice 5-er-håndball 03",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-22",
+   "tid": "12:20",
+   "hjemme": "AK28 2",
+   "borte": "Gimletroll",
+   "resultat": "",
+   "hall": "Gimlehallen 3",
+   "serie": "Gutter 13 TEMAserien - Agder Øvet 01",
+   "klasse": "Gutter 2013",
+   "lag": [
+    "g2013"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-22",
+   "tid": "12:20",
+   "hjemme": "AK28 2",
+   "borte": "Greipstad",
+   "resultat": "",
+   "hall": "Gimlehallen 2",
+   "serie": "Jenter 13 TEMAserien - Agder Øvet 01",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-22",
+   "tid": "12:40",
+   "hjemme": "Holum",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Gimlehallen 1",
+   "serie": "Jenter 13 TEMAserien - Agder Bredde 01",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-22",
+   "tid": "12:55",
+   "hjemme": "AK28",
+   "borte": "Gimletroll 3",
+   "resultat": "",
+   "hall": "Havlimyrhallen",
+   "serie": "Jenter 10, ice 5-er-håndball 03",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-22",
+   "tid": "13:20",
+   "hjemme": "Sørfjell",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Gimlehallen 3",
+   "serie": "Gutter 13 TEMAserien - Agder Øvet 01",
+   "klasse": "Gutter 2013",
+   "lag": [
+    "g2013"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-22",
+   "tid": "13:20",
+   "hjemme": "AK28",
+   "borte": "Randesund",
+   "resultat": "",
+   "hall": "Gimlehallen 1",
+   "serie": "Jenter 13 TEMAserien - Agder Bredde 01",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-22",
+   "tid": "14:20",
+   "hjemme": "AK28",
+   "borte": "Randesund 4",
+   "resultat": "",
+   "hall": "Gimlehallen 1",
+   "serie": "Jenter 13 TEMAserien - Agder Bredde 01",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-22",
+   "tid": "15:15",
+   "hjemme": "AK28",
+   "borte": "Randesund",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-22",
+   "tid": "15:50",
+   "hjemme": "Gimletroll 2",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Havlimyrhallen",
+   "serie": "Jenter 12, Øvet 02",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-22",
+   "tid": "18:00",
+   "hjemme": "Sandefjord 2",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Jotunhallen",
+   "serie": "2. divisjon menn - 02",
+   "klasse": "Menn senior",
+   "lag": [
+    "msr"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-23",
+   "tid": "19:30",
+   "hjemme": "KSI",
+   "borte": "AK28/Kristiansand 3",
+   "resultat": "",
+   "hall": "Spicheren flerbrukshall",
+   "serie": "4. divisjon Menn - 01",
+   "klasse": "Menn 4. div",
+   "lag": [
+    "m4"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-25",
+   "tid": "18:10",
+   "hjemme": "Greipstad",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Nodelandshallen",
+   "serie": "Jenter 13, A-serie 02",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-26",
+   "tid": "20:45",
+   "hjemme": "AK28/Kristiansand 3",
+   "borte": "Øyestad 3",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "4. divisjon Menn - 01",
+   "klasse": "Menn 4. div",
+   "lag": [
+    "m4"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-28",
+   "tid": "11:00",
+   "hjemme": "Hånes",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Håneshallen",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-28",
+   "tid": "11:00",
+   "hjemme": "Grane Arendal",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Granehallen",
+   "serie": "Gutter 14, Breddeserie 03",
+   "klasse": "Gutter 2012",
+   "lag": [
+    "g2012"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-28",
+   "tid": "12:40",
+   "hjemme": "Gimletroll 2",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Sukkevann Idrettshall 2",
+   "serie": "Gutter 10, ice 5-er-håndball 02",
+   "klasse": "Gutter 2016",
+   "lag": [
+    "g2016"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-28",
+   "tid": "13:00",
+   "hjemme": "Øvrebø",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Øvrebøhallen",
+   "serie": "Gutter 13, A/Breddeserie 02",
+   "klasse": "Gutter 2013",
+   "lag": [
+    "g2013"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-11-28",
+   "tid": "14:40",
+   "hjemme": "AK28",
+   "borte": "Randesund",
+   "resultat": "",
+   "hall": "Sukkevann Idrettshall 2",
+   "serie": "Gutter 10, ice 5-er-håndball 02",
+   "klasse": "Gutter 2016",
+   "lag": [
+    "g2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-11-29",
+   "tid": "10:00",
+   "hjemme": "Øyestad/Express",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Nedeneshallen",
+   "serie": "Gutter 13, A/Breddeserie 02",
+   "klasse": "Gutter 2013",
+   "lag": [
+    "g2013"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-12-01",
+   "tid": "20:50",
+   "hjemme": "Lund",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Marvikshallen",
+   "serie": "4. divisjon Kvinner - 01",
+   "klasse": "Kvinner senior",
+   "lag": [
+    "ks2"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-12-02",
+   "tid": "17:45",
+   "hjemme": "Randesund",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Sukkevann idrettshall",
+   "serie": "Jenter 15, Regionserie",
+   "klasse": "Jenter 2011",
+   "lag": [
+    "j2011"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-12-02",
+   "tid": "19:00",
+   "hjemme": "AK28",
+   "borte": "MHI",
+   "resultat": "",
+   "hall": "Mandalshallen nye",
+   "serie": "Jenter 13, A-serie 02",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-12-03",
+   "tid": "19:20",
+   "hjemme": "Flekkerøy",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Flekkerøyhallen",
+   "serie": "Jenter 12, Breddeserie 04",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-12-05",
+   "tid": "10:00",
+   "hjemme": "AK28 2",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Odderneshallen - Mini 1",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-12-05",
+   "tid": "10:00",
+   "hjemme": "AK28 4",
+   "borte": "Vindbjart",
+   "resultat": "",
+   "hall": "Flekkerøyhallen",
+   "serie": "Jenter 10, ice 5-er-håndball 04",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-12-05",
+   "tid": "10:35",
+   "hjemme": "AK28 3",
+   "borte": "Otra 2",
+   "resultat": "",
+   "hall": "Flekkerøyhallen",
+   "serie": "Jenter 10, ice 5-er-håndball 04",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-12-05",
+   "tid": "11:00",
+   "hjemme": "AK28 2",
+   "borte": "Randesund 2",
+   "resultat": "",
+   "hall": "Odderneshallen - Mini 2",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-12-05",
+   "tid": "11:10",
+   "hjemme": "AK28 4",
+   "borte": "Flekkerøy",
+   "resultat": "",
+   "hall": "Flekkerøyhallen",
+   "serie": "Jenter 10, ice 5-er-håndball 04",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-12-05",
+   "tid": "11:30",
+   "hjemme": "AK28",
+   "borte": "Randesund 2",
+   "resultat": "",
+   "hall": "Odderneshallen - Mini 2",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-12-05",
+   "tid": "11:45",
+   "hjemme": "Vindbjart",
+   "borte": "AK28 3",
+   "resultat": "",
+   "hall": "Flekkerøyhallen",
+   "serie": "Jenter 10, ice 5-er-håndball 04",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-12-05",
+   "tid": "12:00",
+   "hjemme": "AK28",
+   "borte": "Gimletroll 1",
+   "resultat": "",
+   "hall": "Odderneshallen - Mini 2",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-12-05",
+   "tid": "12:30",
+   "hjemme": "AK28 2",
+   "borte": "Gimletroll 1",
+   "resultat": "",
+   "hall": "Odderneshallen - Mini 1",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-12-05",
+   "tid": "13:00",
+   "hjemme": "Farsund og Lista",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Listahallen",
+   "serie": "Jenter 13, A-serie 02",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-12-05",
+   "tid": "13:20",
+   "hjemme": "Torridal",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Havlimyrhallen",
+   "serie": "Jenter 11, Breddeserie 06",
+   "klasse": "Jenter 2015",
+   "lag": [
+    "j2015"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-12-05",
+   "tid": "14:20",
+   "hjemme": "Øyestad 4",
+   "borte": "AK28/Kristiansand 3",
+   "resultat": "",
+   "hall": "Nedeneshallen",
+   "serie": "4. divisjon Menn - 01",
+   "klasse": "Menn 4. div",
+   "lag": [
+    "m4"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-12-05",
+   "tid": "15:00",
+   "hjemme": "AK28",
+   "borte": "Gimletroll",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 13, A/Breddeserie 02",
+   "klasse": "Gutter 2013",
+   "lag": [
+    "g2013"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-12-05",
+   "tid": "15:20",
+   "hjemme": "AK28 2",
+   "borte": "Birkenes",
+   "resultat": "",
+   "hall": "Havlimyrhallen",
+   "serie": "Jenter 11, Breddeserie 06",
+   "klasse": "Jenter 2015",
+   "lag": [
+    "j2015"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-12-05",
+   "tid": "16:40",
+   "hjemme": "AK28",
+   "borte": "Sørfjell",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 14, Breddeserie 03",
+   "klasse": "Gutter 2012",
+   "lag": [
+    "g2012"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-12-05",
+   "tid": "16:40",
+   "hjemme": "Nærbø",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Nærbøhallen",
+   "serie": "Jenter 15, Regionserie",
+   "klasse": "Jenter 2011",
+   "lag": [
+    "j2011"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-12-05",
+   "tid": "17:00",
+   "hjemme": "Greipstad",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Nodelandshallen",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-12-06",
+   "tid": "11:00",
+   "hjemme": "AK28 2",
+   "borte": "Otra",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-12-06",
+   "tid": "12:20",
+   "hjemme": "AK28",
+   "borte": "Ålgård",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 15, Regionserie",
+   "klasse": "Gutter 2011",
+   "lag": [
+    "g2011"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-12-06",
+   "tid": "13:00",
+   "hjemme": "AK28",
+   "borte": "Åkra",
+   "resultat": "",
+   "hall": "Marvikshallen",
+   "serie": "2. divisjon menn - 02",
+   "klasse": "Menn senior",
+   "lag": [
+    "msr"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-12-06",
+   "tid": "14:00",
+   "hjemme": "AK28",
+   "borte": "Gimletroll 3",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 12, Breddeserie 04",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-12-06",
+   "tid": "15:20",
+   "hjemme": "AK28 2",
+   "borte": "Greipstad",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-12-06",
+   "tid": "16:30",
+   "hjemme": "AK28",
+   "borte": "Randesund",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 13, A/Breddeserie 02",
+   "klasse": "Gutter 2013",
+   "lag": [
+    "g2013"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-12-06",
+   "tid": "17:00",
+   "hjemme": "Randesund 2",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Sukkevann idrettshall",
+   "serie": "Jenter 12, Øvet 02",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-12-08",
+   "tid": "19:15",
+   "hjemme": "AK28",
+   "borte": "Risør",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "4. divisjon Kvinner - 01",
+   "klasse": "Kvinner senior",
+   "lag": [
+    "ks2"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-12-10",
+   "tid": "18:45",
+   "hjemme": "Holum/Marnardal",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Marnarhallen",
+   "serie": "Jenter 13, Breddeserie 04",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-12-10",
+   "tid": "19:00",
+   "hjemme": "Spangereid",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Spangereidhallen",
+   "serie": "Jenter 12, Breddeserie 04",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-12-12",
+   "tid": "10:00",
+   "hjemme": "AK28",
+   "borte": "Farsund og Lista",
+   "resultat": "",
+   "hall": "Karusshallen",
+   "serie": "Jenter 11, Øvet 02",
+   "klasse": "Jenter 2015",
+   "lag": [
+    "j2015"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-12-12",
+   "tid": "10:00",
+   "hjemme": "Grindheim",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Byremohallen",
+   "serie": "Jenter 13, Breddeserie 04",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-12-12",
+   "tid": "10:40",
+   "hjemme": "AK28",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Sukkevann idrettshall",
+   "serie": "Jenter 10, ice 5-er-håndball 03",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-12-12",
+   "tid": "11:00",
+   "hjemme": "Høvdingen",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Birkeneshallen - Mini 1",
+   "serie": "Jenter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Jenter 2017",
+   "lag": [
+    "j2017"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-12-12",
+   "tid": "11:20",
+   "hjemme": "Søgne",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Karusshallen",
+   "serie": "Jenter 11, Øvet 02",
+   "klasse": "Jenter 2015",
+   "lag": [
+    "j2015"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-12-12",
+   "tid": "12:00",
+   "hjemme": "Gimletroll 1",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Sukkevann idrettshall",
+   "serie": "Jenter 10, ice 5-er-håndball 03",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-12-12",
+   "tid": "12:00",
+   "hjemme": "AK28 2",
+   "borte": "MHI",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 12, Øvet 02",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-12-12",
+   "tid": "12:30",
+   "hjemme": "AK28",
+   "borte": "Lund",
+   "resultat": "",
+   "hall": "Birkeneshallen - Mini 2",
+   "serie": "Jenter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Jenter 2017",
+   "lag": [
+    "j2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-12-12",
+   "tid": "13:00",
+   "hjemme": "Høvdingen 2",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Birkeneshallen - Mini 1",
+   "serie": "Jenter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Jenter 2017",
+   "lag": [
+    "j2017"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-12-12",
+   "tid": "13:20",
+   "hjemme": "AK28",
+   "borte": "Randesund 6",
+   "resultat": "",
+   "hall": "Sukkevann idrettshall",
+   "serie": "Jenter 10, ice 5-er-håndball 03",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-12-12",
+   "tid": "15:45",
+   "hjemme": "Sola",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "SR Group Arena Åsenhallen A",
+   "serie": "Gutter 15, Regionserie",
+   "klasse": "Gutter 2011",
+   "lag": [
+    "g2011"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-12-12",
+   "tid": "16:00",
+   "hjemme": "AK28",
+   "borte": "Nærbø 2",
+   "resultat": "",
+   "hall": "Marvikshallen",
+   "serie": "2. divisjon menn - 02",
+   "klasse": "Menn senior",
+   "lag": [
+    "msr"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-12-13",
+   "tid": "10:00",
+   "hjemme": "Nærbø",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Sparebanken Norge Arena Nærbø",
+   "serie": "Gutter 15, Regionserie",
+   "klasse": "Gutter 2011",
+   "lag": [
+    "g2011"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-12-13",
+   "tid": "11:00",
+   "hjemme": "Randesund 3",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Sukkevann idrettshall",
+   "serie": "Jenter 13, A-serie 02",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-12-13",
+   "tid": "16:00",
+   "hjemme": "AK28 2",
+   "borte": "Farsund og Lista 2",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 13, Breddeserie 04",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2026-12-19",
+   "tid": "15:30",
+   "hjemme": "Farsund og Lista",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Listahallen",
+   "serie": "4. divisjon Kvinner - 01",
+   "klasse": "Kvinner senior",
+   "lag": [
+    "ks2"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-12-19",
+   "tid": "16:50",
+   "hjemme": "Farsund og Lista",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Listahallen",
+   "serie": "Gutter 15, Regionserie",
+   "klasse": "Gutter 2011",
+   "lag": [
+    "g2011"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2026-12-20",
+   "tid": "13:00",
+   "hjemme": "Viking",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Hetlandshallen A",
+   "serie": "2. divisjon menn - 02",
+   "klasse": "Menn senior",
+   "lag": [
+    "msr"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-01-09",
+   "tid": "10:00",
+   "hjemme": "AK28",
+   "borte": "Søgne",
+   "resultat": "",
+   "hall": "Gimlehallen 2",
+   "serie": "Jenter 13, A-serie 02",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-09",
+   "tid": "10:30",
+   "hjemme": "Gimletroll 3",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Otrahallen - Mini 2",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-01-09",
+   "tid": "11:00",
+   "hjemme": "AK28 2",
+   "borte": "Randesund 3",
+   "resultat": "",
+   "hall": "Otrahallen - Mini 2",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-09",
+   "tid": "11:30",
+   "hjemme": "AK28",
+   "borte": "Gimletroll 1",
+   "resultat": "",
+   "hall": "Otrahallen - Mini 2",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-09",
+   "tid": "12:00",
+   "hjemme": "Gimletroll 2",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Otrahallen - Mini 2",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-01-09",
+   "tid": "12:30",
+   "hjemme": "AK28 2",
+   "borte": "Randesund",
+   "resultat": "",
+   "hall": "Otrahallen - Mini 2",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-09",
+   "tid": "12:30",
+   "hjemme": "AK28",
+   "borte": "Lund",
+   "resultat": "",
+   "hall": "Gimlehallen 1",
+   "serie": "Jenter 15, Regionserie",
+   "klasse": "Jenter 2011",
+   "lag": [
+    "j2011"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-09",
+   "tid": "12:55",
+   "hjemme": "Øyestad 2",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Nedeneshallen",
+   "serie": "Jenter 11, Breddeserie 05 etter jul",
+   "klasse": "Jenter 2015",
+   "lag": [
+    "j2015"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-01-09",
+   "tid": "14:00",
+   "hjemme": "AK28 3",
+   "borte": "Våg",
+   "resultat": "",
+   "hall": "Karusshallen",
+   "serie": "Jenter 10, ice 5-er-håndball 04",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-09",
+   "tid": "14:00",
+   "hjemme": "AK28 2",
+   "borte": "Søgne",
+   "resultat": "",
+   "hall": "Gimlehallen 2",
+   "serie": "Jenter 12, Øvet 02",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-09",
+   "tid": "14:40",
+   "hjemme": "Otra",
+   "borte": "AK28 4",
+   "resultat": "",
+   "hall": "Karusshallen",
+   "serie": "Jenter 10, ice 5-er-håndball 04",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-01-09",
+   "tid": "14:40",
+   "hjemme": "AK28 2",
+   "borte": "Froland 2",
+   "resultat": "",
+   "hall": "Nedeneshallen",
+   "serie": "Jenter 11, Breddeserie 05 etter jul",
+   "klasse": "Jenter 2015",
+   "lag": [
+    "j2015"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-09",
+   "tid": "15:20",
+   "hjemme": "Våg 2",
+   "borte": "AK28 3",
+   "resultat": "",
+   "hall": "Karusshallen",
+   "serie": "Jenter 10, ice 5-er-håndball 04",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-01-09",
+   "tid": "16:00",
+   "hjemme": "Våg",
+   "borte": "AK28 4",
+   "resultat": "",
+   "hall": "Karusshallen",
+   "serie": "Jenter 10, ice 5-er-håndball 04",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-01-10",
+   "tid": "10:00",
+   "hjemme": "AK28",
+   "borte": "Birkenes",
+   "resultat": "",
+   "hall": "Marvikshallen - Mini 1",
+   "serie": "Jenter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Jenter 2017",
+   "lag": [
+    "j2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-10",
+   "tid": "11:00",
+   "hjemme": "Lund 2",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Marvikshallen - Mini 1",
+   "serie": "Jenter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Jenter 2017",
+   "lag": [
+    "j2017"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-01-10",
+   "tid": "11:00",
+   "hjemme": "Vindbjart",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Venneslahallen",
+   "serie": "Jenter 12, Breddeserie 04",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-01-10",
+   "tid": "12:00",
+   "hjemme": "AK28",
+   "borte": "Randesund",
+   "resultat": "",
+   "hall": "Marvikshallen - Mini 1",
+   "serie": "Jenter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Jenter 2017",
+   "lag": [
+    "j2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-11",
+   "tid": "19:15",
+   "hjemme": "AK28",
+   "borte": "Greipstad",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 13, A/Breddeserie 02",
+   "klasse": "Gutter 2013",
+   "lag": [
+    "g2013"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-11",
+   "tid": "19:15",
+   "hjemme": "Sandnes 2",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Figgjohallen",
+   "serie": "2. divisjon menn - 02",
+   "klasse": "Menn senior",
+   "lag": [
+    "msr"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-01-14",
+   "tid": "19:00",
+   "hjemme": "Høvdingen",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Høvåghallen",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-01-16",
+   "tid": "10:00",
+   "hjemme": "Våg",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 11, Øvet 01 etter jul",
+   "klasse": "Jenter 2015",
+   "lag": [
+    "j2015"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-01-16",
+   "tid": "12:40",
+   "hjemme": "AK28",
+   "borte": "Tveit/Hånes",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 11, Øvet 01 etter jul",
+   "klasse": "Jenter 2015",
+   "lag": [
+    "j2015"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-16",
+   "tid": "14:00",
+   "hjemme": "Rival",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Haraldsvang Arena A",
+   "serie": "Gutter 15, Regionserie",
+   "klasse": "Gutter 2011",
+   "lag": [
+    "g2011"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-01-16",
+   "tid": "15:50",
+   "hjemme": "Søgne",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Tinntjønnhallen",
+   "serie": "Gutter 14, Breddeserie 03",
+   "klasse": "Gutter 2012",
+   "lag": [
+    "g2012"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-01-16",
+   "tid": "16:00",
+   "hjemme": "AK28",
+   "borte": "Bryne",
+   "resultat": "",
+   "hall": "Marvikshallen",
+   "serie": "2. divisjon menn - 02",
+   "klasse": "Menn senior",
+   "lag": [
+    "msr"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-16",
+   "tid": "16:30",
+   "hjemme": "AK28/Kristiansand 3",
+   "borte": "Lyngdal/Spind",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "4. divisjon Menn - 01",
+   "klasse": "Menn 4. div",
+   "lag": [
+    "m4"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-16",
+   "tid": "17:50",
+   "hjemme": "AK28",
+   "borte": "Søgne",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "4. divisjon Kvinner - 01",
+   "klasse": "Kvinner senior",
+   "lag": [
+    "ks2"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-16",
+   "tid": "18:00",
+   "hjemme": "Våg 2",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Karusshallen",
+   "serie": "Jenter 12, Øvet 02",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-01-17",
+   "tid": "10:00",
+   "hjemme": "AK28",
+   "borte": "Bogafjell",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 15, Regionserie",
+   "klasse": "Jenter 2011",
+   "lag": [
+    "j2011"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-17",
+   "tid": "10:40",
+   "hjemme": "AK28 2",
+   "borte": "Gimletroll 1",
+   "resultat": "",
+   "hall": "Havlimyrhallen",
+   "serie": "Jenter 10, ice 5-er-håndball 03",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-17",
+   "tid": "11:10",
+   "hjemme": "AK28 2",
+   "borte": "Holum/Marnardal",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 13, Breddeserie 04",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-17",
+   "tid": "12:40",
+   "hjemme": "Gimletroll 2",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Havlimyrhallen",
+   "serie": "Jenter 10, ice 5-er-håndball 03",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-01-17",
+   "tid": "13:10",
+   "hjemme": "AK28",
+   "borte": "Otra",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-17",
+   "tid": "13:20",
+   "hjemme": "AK28 2",
+   "borte": "Gimletroll 3",
+   "resultat": "",
+   "hall": "Havlimyrhallen",
+   "serie": "Jenter 10, ice 5-er-håndball 03",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-17",
+   "tid": "14:30",
+   "hjemme": "AK28",
+   "borte": "Farsund og Lista",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 13, A/Breddeserie 02",
+   "klasse": "Gutter 2013",
+   "lag": [
+    "g2013"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-17",
+   "tid": "14:30",
+   "hjemme": "Ålgård",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Ålgårdhallen 1",
+   "serie": "Gutter 15, Regionserie",
+   "klasse": "Gutter 2011",
+   "lag": [
+    "g2011"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-01-17",
+   "tid": "14:40",
+   "hjemme": "Gimletroll 3",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Havlimyrhallen",
+   "serie": "Jenter 10, ice 5-er-håndball 03",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-01-17",
+   "tid": "15:40",
+   "hjemme": "AK28",
+   "borte": "Strømmen-Glimt",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "4. divisjon Kvinner - 01",
+   "klasse": "Kvinner senior",
+   "lag": [
+    "ks2"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-17",
+   "tid": "16:50",
+   "hjemme": "AK28",
+   "borte": "Øyestad 2",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 14, Breddeserie 03",
+   "klasse": "Gutter 2012",
+   "lag": [
+    "g2012"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-17",
+   "tid": "18:00",
+   "hjemme": "AK28 2",
+   "borte": "Våg/Flekkerøy",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-21",
+   "tid": "17:15",
+   "hjemme": "AK28 2",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-21",
+   "tid": "19:30",
+   "hjemme": "Lyngdal",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Lyngdalshallen",
+   "serie": "4. divisjon Kvinner - 01",
+   "klasse": "Kvinner senior",
+   "lag": [
+    "ks2"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-01-23",
+   "tid": "11:00",
+   "hjemme": "Randesund 2",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Sukkevann idrettshall",
+   "serie": "Jenter 13, Breddeserie 04",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-01-23",
+   "tid": "12:00",
+   "hjemme": "Randesund 2",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Sukkevann idrettshall",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-01-23",
+   "tid": "12:00",
+   "hjemme": "AK28",
+   "borte": "Tveit/Hånes 2",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 12, Breddeserie 04",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-23",
+   "tid": "15:30",
+   "hjemme": "AK28",
+   "borte": "Lund",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 13, A-serie 02",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-23",
+   "tid": "16:50",
+   "hjemme": "AK28",
+   "borte": "Hundvåg/Brodd",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 15, Regionserie",
+   "klasse": "Jenter 2011",
+   "lag": [
+    "j2011"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-23",
+   "tid": "18:00",
+   "hjemme": "AK28",
+   "borte": "Lyngdal Idrettslag (Agder) 2",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 14, Breddeserie 03",
+   "klasse": "Gutter 2012",
+   "lag": [
+    "g2012"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-24",
+   "tid": "10:00",
+   "hjemme": "AK28",
+   "borte": "Otra",
+   "resultat": "",
+   "hall": "Havlimyrhallen",
+   "serie": "Gutter 10, ice 5-er-håndball 02",
+   "klasse": "Gutter 2016",
+   "lag": [
+    "g2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-24",
+   "tid": "11:00",
+   "hjemme": "AK28",
+   "borte": "Åkra",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 15, Regionserie",
+   "klasse": "Jenter 2011",
+   "lag": [
+    "j2011"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-24",
+   "tid": "11:20",
+   "hjemme": "AK28",
+   "borte": "Våg 2",
+   "resultat": "",
+   "hall": "Havlimyrhallen",
+   "serie": "Gutter 10, ice 5-er-håndball 02",
+   "klasse": "Gutter 2016",
+   "lag": [
+    "g2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-24",
+   "tid": "12:20",
+   "hjemme": "AK28 2",
+   "borte": "Otra 2",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 13, Breddeserie 04",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-24",
+   "tid": "13:30",
+   "hjemme": "AK28",
+   "borte": "Farsund og Lista",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 13, A-serie 02",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-24",
+   "tid": "14:30",
+   "hjemme": "AK28",
+   "borte": "Vindbjart/Øvrebø",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 14, Breddeserie 03",
+   "klasse": "Gutter 2012",
+   "lag": [
+    "g2012"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-24",
+   "tid": "18:00",
+   "hjemme": "Falk Horten",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Lystlunden Arena",
+   "serie": "2. divisjon menn - 02",
+   "klasse": "Menn senior",
+   "lag": [
+    "msr"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-01-27",
+   "tid": "16:30",
+   "hjemme": "Våg/Flekkerøy",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Karusshallen",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-01-28",
+   "tid": "17:30",
+   "hjemme": "AK28",
+   "borte": "Høvdingen",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-28",
+   "tid": "19:40",
+   "hjemme": "Våg",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Møvighallen",
+   "serie": "Jenter 15, Regionserie",
+   "klasse": "Jenter 2011",
+   "lag": [
+    "j2011"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-01-30",
+   "tid": "10:30",
+   "hjemme": "Birkenes",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Odderneshallen - Mini 1",
+   "serie": "Jenter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Jenter 2017",
+   "lag": [
+    "j2017"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-01-30",
+   "tid": "11:00",
+   "hjemme": "AK28",
+   "borte": "Gimletroll 2",
+   "resultat": "",
+   "hall": "Odderneshallen - Mini 2",
+   "serie": "Jenter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Jenter 2017",
+   "lag": [
+    "j2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-30",
+   "tid": "12:30",
+   "hjemme": "Lund",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Odderneshallen - Mini 2",
+   "serie": "Jenter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Jenter 2017",
+   "lag": [
+    "j2017"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-01-30",
+   "tid": "13:00",
+   "hjemme": "AK28",
+   "borte": "Sandefjord 2",
+   "resultat": "",
+   "hall": "Marvikshallen",
+   "serie": "2. divisjon menn - 02",
+   "klasse": "Menn senior",
+   "lag": [
+    "msr"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-30",
+   "tid": "14:30",
+   "hjemme": "AK28",
+   "borte": "Kristiansand 2",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 12, Breddeserie 04",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-30",
+   "tid": "15:00",
+   "hjemme": "Våg",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Karusshallen",
+   "serie": "Jenter 13, A-serie 02",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-01-30",
+   "tid": "16:00",
+   "hjemme": "MHI/Holum",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Mandalshallen nye",
+   "serie": "Gutter 14, Breddeserie 03",
+   "klasse": "Gutter 2012",
+   "lag": [
+    "g2012"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-01-30",
+   "tid": "16:40",
+   "hjemme": "Gimletroll/Randesund",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Sukkevann Idrettshall 2",
+   "serie": "Gutter 15, Regionserie",
+   "klasse": "Gutter 2011",
+   "lag": [
+    "g2011"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-01-31",
+   "tid": "10:40",
+   "hjemme": "AK28 2",
+   "borte": "Lillesand 2",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 11, Breddeserie 05 etter jul",
+   "klasse": "Jenter 2015",
+   "lag": [
+    "j2015"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-31",
+   "tid": "12:00",
+   "hjemme": "Tvedestrand",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 11, Breddeserie 05 etter jul",
+   "klasse": "Jenter 2015",
+   "lag": [
+    "j2015"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-01-31",
+   "tid": "16:30",
+   "hjemme": "AK28",
+   "borte": "Farsund og Lista",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 15, Regionserie",
+   "klasse": "Gutter 2011",
+   "lag": [
+    "g2011"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-01-31",
+   "tid": "17:40",
+   "hjemme": "AK28",
+   "borte": "Lund 2",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 12, Breddeserie 04",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-02-06",
+   "tid": "12:00",
+   "hjemme": "Farsund og Lista",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Listahallen",
+   "serie": "Jenter 12, Øvet 02",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-02-06",
+   "tid": "14:00",
+   "hjemme": "AK28 3",
+   "borte": "AK28 4",
+   "resultat": "",
+   "hall": "Otrahallen",
+   "serie": "Jenter 10, ice 5-er-håndball 04",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-02-06",
+   "tid": "15:00",
+   "hjemme": "Tveit/Hånes 2",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Tveit Idrettshall",
+   "serie": "Jenter 12, Breddeserie 04",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-02-06",
+   "tid": "15:00",
+   "hjemme": "Grenland Topphåndballklubb",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Skienshallen bane A",
+   "serie": "2. divisjon menn - 02",
+   "klasse": "Menn senior",
+   "lag": [
+    "msr"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-02-06",
+   "tid": "15:20",
+   "hjemme": "Flekkerøy 2",
+   "borte": "AK28 3",
+   "resultat": "",
+   "hall": "Otrahallen",
+   "serie": "Jenter 10, ice 5-er-håndball 04",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-02-06",
+   "tid": "16:00",
+   "hjemme": "AK28 4",
+   "borte": "Otra 2",
+   "resultat": "",
+   "hall": "Otrahallen",
+   "serie": "Jenter 10, ice 5-er-håndball 04",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-02-07",
+   "tid": "10:00",
+   "hjemme": "AK28 2",
+   "borte": "Randesund 2",
+   "resultat": "",
+   "hall": "Sukkevann Idrettshall 2 - Mini 2",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-02-07",
+   "tid": "10:30",
+   "hjemme": "Gimletroll 1",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Sukkevann Idrettshall 2 - Mini 2",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-02-07",
+   "tid": "10:40",
+   "hjemme": "Randesund 4",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 10, ice 5-er-håndball 03",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-02-07",
+   "tid": "11:00",
+   "hjemme": "Otra",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Sukkevann Idrettshall 2 - Mini 2",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-02-07",
+   "tid": "12:30",
+   "hjemme": "Gimletroll 2",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Sukkevann Idrettshall 2 - Mini 1",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-02-07",
+   "tid": "12:40",
+   "hjemme": "Randesund 5",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 10, ice 5-er-håndball 03",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-02-07",
+   "tid": "13:00",
+   "hjemme": "AK28",
+   "borte": "Randesund 3",
+   "resultat": "",
+   "hall": "Sukkevann Idrettshall 2 - Mini 1",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-02-07",
+   "tid": "13:20",
+   "hjemme": "Randesund 4",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 10, ice 5-er-håndball 03",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-02-07",
+   "tid": "14:40",
+   "hjemme": "AK28 2",
+   "borte": "Randesund 6",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 10, ice 5-er-håndball 03",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-02-07",
+   "tid": "16:00",
+   "hjemme": "AK28",
+   "borte": "Randesund 2",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-02-07",
+   "tid": "17:00",
+   "hjemme": "AK28 2",
+   "borte": "Randesund",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-02-09",
+   "tid": "18:00",
+   "hjemme": "AK28 2",
+   "borte": "Gimletroll",
+   "resultat": "",
+   "hall": "Gimlehallen 1",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-02-10",
+   "tid": "18:30",
+   "hjemme": "KSI",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Gimlemoen idrettshall",
+   "serie": "4. divisjon Kvinner - 01",
+   "klasse": "Kvinner senior",
+   "lag": [
+    "ks2"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-02-11",
+   "tid": "17:30",
+   "hjemme": "AK28",
+   "borte": "Hånes",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-02-12",
+   "tid": "17:30",
+   "hjemme": "AK28 2",
+   "borte": "Øvrebø 2",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 13, Breddeserie 04",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-02-13",
+   "tid": "12:00",
+   "hjemme": "Hånes",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Gimlehallen 2",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-02-13",
+   "tid": "12:30",
+   "hjemme": "MHI",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Mandalshallen gamle",
+   "serie": "Jenter 13, A-serie 02",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-02-13",
+   "tid": "13:00",
+   "hjemme": "Øyestad 5",
+   "borte": "AK28/Kristiansand 3",
+   "resultat": "",
+   "hall": "Sparebanken Norge Amfi Arendal 1",
+   "serie": "4. divisjon Menn - 01",
+   "klasse": "Menn 4. div",
+   "lag": [
+    "m4"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-02-13",
+   "tid": "13:55",
+   "hjemme": "Otra 2",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 10, ice 5-er-håndball 02",
+   "klasse": "Gutter 2016",
+   "lag": [
+    "g2016"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-02-13",
+   "tid": "15:40",
+   "hjemme": "AK28",
+   "borte": "Flekkerøy",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 10, ice 5-er-håndball 02",
+   "klasse": "Gutter 2016",
+   "lag": [
+    "g2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-02-13",
+   "tid": "16:00",
+   "hjemme": "Randesund",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Sukkevann idrettshall",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-02-13",
+   "tid": "17:00",
+   "hjemme": "Randesund 3",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Sukkevann Idrettshall 2",
+   "serie": "Jenter 12, Breddeserie 04",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-02-13",
+   "tid": "17:50",
+   "hjemme": "AK28",
+   "borte": "Kristiansandkameratene Fotball Klubb",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "4. divisjon Kvinner - 01",
+   "klasse": "Kvinner senior",
+   "lag": [
+    "ks2"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-02-14",
+   "tid": "11:00",
+   "hjemme": "AK28 2",
+   "borte": "Gimletroll 2",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 12, Øvet 02",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-02-14",
+   "tid": "11:00",
+   "hjemme": "Farsund og Lista 2",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Listahallen",
+   "serie": "Jenter 13, Breddeserie 04",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-02-14",
+   "tid": "12:20",
+   "hjemme": "Øyestad",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Karusshallen",
+   "serie": "Jenter 11, Øvet 01 etter jul",
+   "klasse": "Jenter 2015",
+   "lag": [
+    "j2015"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-02-14",
+   "tid": "12:55",
+   "hjemme": "Birkenes",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Møglestuhallen",
+   "serie": "Jenter 11, Breddeserie 05 etter jul",
+   "klasse": "Jenter 2015",
+   "lag": [
+    "j2015"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-02-14",
+   "tid": "14:00",
+   "hjemme": "AK28",
+   "borte": "Åkra",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 15, Regionserie",
+   "klasse": "Gutter 2011",
+   "lag": [
+    "g2011"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-02-14",
+   "tid": "14:20",
+   "hjemme": "AK28",
+   "borte": "Risør",
+   "resultat": "",
+   "hall": "Karusshallen",
+   "serie": "Jenter 11, Øvet 01 etter jul",
+   "klasse": "Jenter 2015",
+   "lag": [
+    "j2015"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-02-14",
+   "tid": "14:40",
+   "hjemme": "AK28 2",
+   "borte": "Øyestad 2",
+   "resultat": "",
+   "hall": "Møglestuhallen",
+   "serie": "Jenter 11, Breddeserie 05 etter jul",
+   "klasse": "Jenter 2015",
+   "lag": [
+    "j2015"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-02-20",
+   "tid": "13:00",
+   "hjemme": "AK28",
+   "borte": "Runar Håndball Elite 2",
+   "resultat": "",
+   "hall": "Marvikshallen",
+   "serie": "2. divisjon menn - 02",
+   "klasse": "Menn senior",
+   "lag": [
+    "msr"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-03-06",
+   "tid": "10:00",
+   "hjemme": "AK28",
+   "borte": "Lund",
+   "resultat": "",
+   "hall": "Havlimyrhallen - Mini 1",
+   "serie": "Jenter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Jenter 2017",
+   "lag": [
+    "j2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-03-06",
+   "tid": "10:00",
+   "hjemme": "Framsteg",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Risørhallen",
+   "serie": "Jenter 11, Øvet 01 etter jul",
+   "klasse": "Jenter 2015",
+   "lag": [
+    "j2015"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-03-06",
+   "tid": "10:30",
+   "hjemme": "AK28",
+   "borte": "Gimletroll 1",
+   "resultat": "",
+   "hall": "Havlimyrhallen - Mini 2",
+   "serie": "Jenter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Jenter 2017",
+   "lag": [
+    "j2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-03-06",
+   "tid": "11:00",
+   "hjemme": "Greipstad",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Nodelandshallen",
+   "serie": "Jenter 12, Øvet 02",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-03-06",
+   "tid": "11:30",
+   "hjemme": "AK28",
+   "borte": "Høvdingen 2",
+   "resultat": "",
+   "hall": "Havlimyrhallen - Mini 1",
+   "serie": "Jenter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Jenter 2017",
+   "lag": [
+    "j2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-03-06",
+   "tid": "12:00",
+   "hjemme": "AK28",
+   "borte": "Lillesand",
+   "resultat": "",
+   "hall": "Risørhallen",
+   "serie": "Jenter 11, Øvet 01 etter jul",
+   "klasse": "Jenter 2015",
+   "lag": [
+    "j2015"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-03-06",
+   "tid": "13:40",
+   "hjemme": "Våg 2",
+   "borte": "AK28 4",
+   "resultat": "",
+   "hall": "Venneslahallen",
+   "serie": "Jenter 10, ice 5-er-håndball 04",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-03-06",
+   "tid": "14:00",
+   "hjemme": "AK28",
+   "borte": "Flekkerøy",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 12, Breddeserie 04",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-03-06",
+   "tid": "15:00",
+   "hjemme": "AK28 3",
+   "borte": "Flekkerøy",
+   "resultat": "",
+   "hall": "Venneslahallen",
+   "serie": "Jenter 10, ice 5-er-håndball 04",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-03-06",
+   "tid": "15:40",
+   "hjemme": "AK28 4",
+   "borte": "Vindbjart 2",
+   "resultat": "",
+   "hall": "Venneslahallen",
+   "serie": "Jenter 10, ice 5-er-håndball 04",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-03-06",
+   "tid": "15:50",
+   "hjemme": "Hundvåg",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Hundvåghallen A",
+   "serie": "Gutter 15, Regionserie",
+   "klasse": "Gutter 2011",
+   "lag": [
+    "g2011"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-03-06",
+   "tid": "16:00",
+   "hjemme": "AK28",
+   "borte": "Havørn",
+   "resultat": "",
+   "hall": "Marvikshallen",
+   "serie": "2. divisjon menn - 02",
+   "klasse": "Menn senior",
+   "lag": [
+    "msr"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-03-06",
+   "tid": "16:20",
+   "hjemme": "Våg",
+   "borte": "AK28 3",
+   "resultat": "",
+   "hall": "Venneslahallen",
+   "serie": "Jenter 10, ice 5-er-håndball 04",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-03-06",
+   "tid": "17:50",
+   "hjemme": "AK28",
+   "borte": "Gimletroll",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 15, Regionserie",
+   "klasse": "Jenter 2011",
+   "lag": [
+    "j2011"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-03-07",
+   "tid": "10:00",
+   "hjemme": "AK28 2",
+   "borte": "Froland 2",
+   "resultat": "",
+   "hall": "Birkeneshallen",
+   "serie": "Jenter 11, Breddeserie 05 etter jul",
+   "klasse": "Jenter 2015",
+   "lag": [
+    "j2015"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-03-07",
+   "tid": "10:30",
+   "hjemme": "Gimletroll 3",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Odderneshallen - Mini 1",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-03-07",
+   "tid": "10:30",
+   "hjemme": "Otra",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Odderneshallen - Mini 2",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-03-07",
+   "tid": "10:40",
+   "hjemme": "Gimletroll 1",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Sukkevann Idrettshall 2",
+   "serie": "Jenter 10, ice 5-er-håndball 03",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-03-07",
+   "tid": "11:00",
+   "hjemme": "AK28 2",
+   "borte": "Gimletroll 2",
+   "resultat": "",
+   "hall": "Odderneshallen - Mini 1",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-03-07",
+   "tid": "11:10",
+   "hjemme": "AK28 2",
+   "borte": "Randesund 5",
+   "resultat": "",
+   "hall": "Birkeneshallen",
+   "serie": "Jenter 11, Breddeserie 05 etter jul",
+   "klasse": "Jenter 2015",
+   "lag": [
+    "j2015"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-03-07",
+   "tid": "12:00",
+   "hjemme": "AK28 2",
+   "borte": "Gimletroll 1",
+   "resultat": "",
+   "hall": "Odderneshallen - Mini 1",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-03-07",
+   "tid": "12:00",
+   "hjemme": "AK28",
+   "borte": "Randesund",
+   "resultat": "",
+   "hall": "Odderneshallen - Mini 2",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-03-07",
+   "tid": "12:00",
+   "hjemme": "Randesund 6",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Sukkevann Idrettshall 2",
+   "serie": "Jenter 10, ice 5-er-håndball 03",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-03-07",
+   "tid": "12:00",
+   "hjemme": "Vindbjart",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Venneslahallen",
+   "serie": "Jenter 13, A-serie 02",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-03-07",
+   "tid": "12:30",
+   "hjemme": "AK28",
+   "borte": "Randesund 3",
+   "resultat": "",
+   "hall": "Odderneshallen - Mini 1",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-03-07",
+   "tid": "12:30",
+   "hjemme": "Stavanger",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Stavanger idrettshall B+C",
+   "serie": "Gutter 15, Regionserie",
+   "klasse": "Gutter 2011",
+   "lag": [
+    "g2011"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-03-07",
+   "tid": "12:40",
+   "hjemme": "Gimletroll 2",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Sukkevann Idrettshall 2",
+   "serie": "Jenter 10, ice 5-er-håndball 03",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-03-07",
+   "tid": "14:00",
+   "hjemme": "AK28",
+   "borte": "Otra",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 12, Breddeserie 04",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-03-07",
+   "tid": "14:40",
+   "hjemme": "Randesund 5",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Sukkevann Idrettshall 2",
+   "serie": "Jenter 10, ice 5-er-håndball 03",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-03-07",
+   "tid": "16:00",
+   "hjemme": "Høvdingen/Lillesand 2",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Høvåghallen",
+   "serie": "Gutter 14, Breddeserie 03",
+   "klasse": "Gutter 2012",
+   "lag": [
+    "g2012"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-03-07",
+   "tid": "16:50",
+   "hjemme": "Giv Akt",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Sparebanken Sør hallen Vigeland",
+   "serie": "4. divisjon Kvinner - 01",
+   "klasse": "Kvinner senior",
+   "lag": [
+    "ks2"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-03-09",
+   "tid": "18:00",
+   "hjemme": "Gimletroll",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Gimlehallen 1",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-03-13",
+   "tid": "10:00",
+   "hjemme": "AK28",
+   "borte": "Greipstad",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 13, A-serie 02",
+   "klasse": "Jenter 2013",
+   "lag": [
+    "j2013"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-03-13",
+   "tid": "11:30",
+   "hjemme": "AK28",
+   "borte": "Trauma",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 14, Breddeserie 03",
+   "klasse": "Gutter 2012",
+   "lag": [
+    "g2012"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-03-13",
+   "tid": "12:40",
+   "hjemme": "AK28/Kristiansand 3",
+   "borte": "Holum/Marnardal",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "4. divisjon Menn - 01",
+   "klasse": "Menn 4. div",
+   "lag": [
+    "m4"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-03-13",
+   "tid": "14:00",
+   "hjemme": "AK28",
+   "borte": "Lund",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "4. divisjon Kvinner - 01",
+   "klasse": "Kvinner senior",
+   "lag": [
+    "ks2"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-03-13",
+   "tid": "15:50",
+   "hjemme": "Åkra 2",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Åkrahallen 1 - Øst",
+   "serie": "Jenter 15, Regionserie",
+   "klasse": "Jenter 2011",
+   "lag": [
+    "j2011"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-03-13",
+   "tid": "17:50",
+   "hjemme": "AK28",
+   "borte": "Trauma",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 15, Regionserie",
+   "klasse": "Gutter 2011",
+   "lag": [
+    "g2011"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-03-14",
+   "tid": "10:00",
+   "hjemme": "Gimletroll 1",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Flekkerøyhallen",
+   "serie": "Gutter 10, ice 5-er-håndball 02",
+   "klasse": "Gutter 2016",
+   "lag": [
+    "g2016"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-03-14",
+   "tid": "11:00",
+   "hjemme": "Hinna",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Hetlandshallen B",
+   "serie": "Jenter 15, Regionserie",
+   "klasse": "Jenter 2011",
+   "lag": [
+    "j2011"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-03-14",
+   "tid": "11:45",
+   "hjemme": "AK28",
+   "borte": "Otra",
+   "resultat": "",
+   "hall": "Flekkerøyhallen",
+   "serie": "Gutter 10, ice 5-er-håndball 02",
+   "klasse": "Gutter 2016",
+   "lag": [
+    "g2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-03-14",
+   "tid": "13:40",
+   "hjemme": "Våg",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Karusshallen",
+   "serie": "Jenter 12, Breddeserie 04",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-03-14",
+   "tid": "14:00",
+   "hjemme": "MHI/Holum 2",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Mandalshallen gamle",
+   "serie": "Gutter 14, Breddeserie 03",
+   "klasse": "Gutter 2012",
+   "lag": [
+    "g2012"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-03-14",
+   "tid": "15:30",
+   "hjemme": "Greipstad",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Nodelandshallen",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-03-14",
+   "tid": "16:30",
+   "hjemme": "AK28 2",
+   "borte": "Randesund 2",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 12, Øvet 02",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-03-20",
+   "tid": "14:00",
+   "hjemme": "Nærbø 2",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Sparebanken Norge Arena Nærbø",
+   "serie": "2. divisjon menn - 02",
+   "klasse": "Menn senior",
+   "lag": [
+    "msr"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-03-21",
+   "tid": "12:00",
+   "hjemme": "Bryne",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Bryne Storhall Bane 2",
+   "serie": "2. divisjon menn - 02",
+   "klasse": "Menn senior",
+   "lag": [
+    "msr"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-03-25",
+   "tid": "20:00",
+   "hjemme": "AK28",
+   "borte": "Øyestad",
+   "resultat": "",
+   "hall": "Marvikshallen",
+   "serie": "2. divisjon menn - 02",
+   "klasse": "Menn senior",
+   "lag": [
+    "msr"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-04-01",
+   "tid": "20:00",
+   "hjemme": "Tvedestrand",
+   "borte": "AK28/Kristiansand 3",
+   "resultat": "",
+   "hall": "Mjåvann Idrettshall A",
+   "serie": "4. divisjon Menn - 01",
+   "klasse": "Menn 4. div",
+   "lag": [
+    "m4"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-04-03",
+   "tid": "10:00",
+   "hjemme": "AK28",
+   "borte": "Gimletroll 3",
+   "resultat": "",
+   "hall": "Havlimyrhallen - Mini 2",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-04-03",
+   "tid": "10:00",
+   "hjemme": "AK28",
+   "borte": "Våg",
+   "resultat": "",
+   "hall": "Tveit Idrettshall",
+   "serie": "Jenter 11, Øvet 01 etter jul",
+   "klasse": "Jenter 2015",
+   "lag": [
+    "j2015"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-04-03",
+   "tid": "10:30",
+   "hjemme": "AK28",
+   "borte": "Randesund",
+   "resultat": "",
+   "hall": "Havlimyrhallen - Mini 2",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-04-03",
+   "tid": "11:00",
+   "hjemme": "AK28 2",
+   "borte": "Gimletroll 3",
+   "resultat": "",
+   "hall": "Havlimyrhallen - Mini 2",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-04-03",
+   "tid": "11:30",
+   "hjemme": "AK28",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Havlimyrhallen - Mini 1",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-04-03",
+   "tid": "12:30",
+   "hjemme": "AK28 2",
+   "borte": "Randesund",
+   "resultat": "",
+   "hall": "Havlimyrhallen - Mini 1",
+   "serie": "Gutter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Gutter 2017",
+   "lag": [
+    "g2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-04-03",
+   "tid": "12:40",
+   "hjemme": "Tveit/Hånes",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Tveit Idrettshall",
+   "serie": "Jenter 11, Øvet 01 etter jul",
+   "klasse": "Jenter 2015",
+   "lag": [
+    "j2015"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-04-03",
+   "tid": "14:30",
+   "hjemme": "Gimletroll 3",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Havlimyrhallen",
+   "serie": "Jenter 12, Breddeserie 04",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-04-04",
+   "tid": "10:00",
+   "hjemme": "Lund 2",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Høvåghallen - Mini 1",
+   "serie": "Jenter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Jenter 2017",
+   "lag": [
+    "j2017"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-04-04",
+   "tid": "11:00",
+   "hjemme": "AK28",
+   "borte": "Høvdingen 2",
+   "resultat": "",
+   "hall": "Høvåghallen - Mini 1",
+   "serie": "Jenter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Jenter 2017",
+   "lag": [
+    "j2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-04-04",
+   "tid": "12:00",
+   "hjemme": "AK28",
+   "borte": "Høvdingen",
+   "resultat": "",
+   "hall": "Høvåghallen - Mini 1",
+   "serie": "Jenter 9, ice 4-er- og 5-er-håndball 02",
+   "klasse": "Jenter 2017",
+   "lag": [
+    "j2017"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-04-04",
+   "tid": "13:30",
+   "hjemme": "AK28 3",
+   "borte": "Otra 2",
+   "resultat": "",
+   "hall": "Flekkerøyhallen",
+   "serie": "Jenter 10, ice 5-er-håndball 04",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-04-04",
+   "tid": "13:30",
+   "hjemme": "Otra",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Otrahallen",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-04-04",
+   "tid": "14:05",
+   "hjemme": "Otra",
+   "borte": "AK28 4",
+   "resultat": "",
+   "hall": "Flekkerøyhallen",
+   "serie": "Jenter 10, ice 5-er-håndball 04",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-04-04",
+   "tid": "14:40",
+   "hjemme": "Vindbjart",
+   "borte": "AK28 3",
+   "resultat": "",
+   "hall": "Flekkerøyhallen",
+   "serie": "Jenter 10, ice 5-er-håndball 04",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-04-04",
+   "tid": "15:15",
+   "hjemme": "Otra 2",
+   "borte": "AK28 4",
+   "resultat": "",
+   "hall": "Flekkerøyhallen",
+   "serie": "Jenter 10, ice 5-er-håndball 04",
+   "klasse": "Jenter 2016",
+   "lag": [
+    "j2016"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-04-04",
+   "tid": "15:25",
+   "hjemme": "Otra",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Otrahallen",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-04-08",
+   "tid": "17:30",
+   "hjemme": "AK28",
+   "borte": "Greipstad",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 12, Øvet 01",
+   "klasse": "Gutter 2014",
+   "lag": [
+    "g2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-04-10",
+   "tid": "10:00",
+   "hjemme": "AK28",
+   "borte": "Otra 2",
+   "resultat": "",
+   "hall": "Karusshallen",
+   "serie": "Gutter 10, ice 5-er-håndball 02",
+   "klasse": "Gutter 2016",
+   "lag": [
+    "g2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-04-10",
+   "tid": "10:00",
+   "hjemme": "AK28",
+   "borte": "Spangereid",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 12, Breddeserie 04",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-04-10",
+   "tid": "11:10",
+   "hjemme": "AK28",
+   "borte": "Våg 2",
+   "resultat": "",
+   "hall": "Karusshallen",
+   "serie": "Gutter 10, ice 5-er-håndball 02",
+   "klasse": "Gutter 2016",
+   "lag": [
+    "g2016"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-04-10",
+   "tid": "11:20",
+   "hjemme": "AK28",
+   "borte": "Grane Arendal",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 14, Breddeserie 03",
+   "klasse": "Gutter 2012",
+   "lag": [
+    "g2012"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-04-10",
+   "tid": "16:30",
+   "hjemme": "AK28",
+   "borte": "Falk Horten",
+   "resultat": "",
+   "hall": "Marvikshallen",
+   "serie": "2. divisjon menn - 02",
+   "klasse": "Menn senior",
+   "lag": [
+    "msr"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-04-10",
+   "tid": "16:40",
+   "hjemme": "AK28",
+   "borte": "Grane/Trauma",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 15, Regionserie",
+   "klasse": "Jenter 2011",
+   "lag": [
+    "j2011"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-04-10",
+   "tid": "17:50",
+   "hjemme": "AK28",
+   "borte": "Nærbø",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Gutter 15, Regionserie",
+   "klasse": "Gutter 2011",
+   "lag": [
+    "g2011"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-04-11",
+   "tid": "16:50",
+   "hjemme": "Risør",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Risørhallen",
+   "serie": "4. divisjon Kvinner - 01",
+   "klasse": "Kvinner senior",
+   "lag": [
+    "ks2"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-04-11",
+   "tid": "17:50",
+   "hjemme": "AK28",
+   "borte": "Stavanger",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "Jenter 15, Regionserie",
+   "klasse": "Jenter 2011",
+   "lag": [
+    "j2011"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-04-15",
+   "tid": "20:45",
+   "hjemme": "AK28/Kristiansand 3",
+   "borte": "Kristiansandkameratene Fotball Klubb",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "4. divisjon Menn - 01",
+   "klasse": "Menn 4. div",
+   "lag": [
+    "m4"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-04-17",
+   "tid": "15:30",
+   "hjemme": "Strømmen Glimt/Hisøy",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Nedeneshallen",
+   "serie": "Jenter 15, Regionserie",
+   "klasse": "Jenter 2011",
+   "lag": [
+    "j2011"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-04-18",
+   "tid": "12:00",
+   "hjemme": "Sørfjell",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Stueneshallen",
+   "serie": "Gutter 14, Breddeserie 03",
+   "klasse": "Gutter 2012",
+   "lag": [
+    "g2012"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-04-22",
+   "tid": "19:30",
+   "hjemme": "AK28",
+   "borte": "Farsund og Lista",
+   "resultat": "",
+   "hall": "Odderneshallen",
+   "serie": "4. divisjon Kvinner - 01",
+   "klasse": "Kvinner senior",
+   "lag": [
+    "ks2"
+   ],
+   "hjemmekamp": true
+  },
+  {
+   "dato": "2027-04-24",
+   "tid": "16:50",
+   "hjemme": "Søgne",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Tinntjønnhallen",
+   "serie": "4. divisjon Kvinner - 01",
+   "klasse": "Kvinner senior",
+   "lag": [
+    "ks2"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-04-25",
+   "tid": "12:30",
+   "hjemme": "MHI",
+   "borte": "AK28 2",
+   "resultat": "",
+   "hall": "Mandalshallen gamle",
+   "serie": "Jenter 12, Øvet 02",
+   "klasse": "Jenter 2014",
+   "lag": [
+    "j2014"
+   ],
+   "hjemmekamp": false
+  },
+  {
+   "dato": "2027-04-25",
+   "tid": "16:50",
+   "hjemme": "Øyestad 2",
+   "borte": "AK28",
+   "resultat": "",
+   "hall": "Nedeneshallen",
+   "serie": "Gutter 14, Breddeserie 03",
+   "klasse": "Gutter 2012",
+   "lag": [
+    "g2012"
+   ],
+   "hjemmekamp": false
+  }
+ ]
+}

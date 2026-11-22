@@ -10,7 +10,7 @@
 <meta property="og:image" content="assets/img/lagbilde.jpg">
 <meta name="theme-color" content="#C8281E">
 <link rel="icon" href="assets/img/logo.png">
-<link rel="stylesheet" href="assets/css/style.css?v=15">
+<link rel="stylesheet" href="assets/css/style.css?v=16">
 </head>
 <body>
 <a class="skip-link" href="#innhold">Hopp til innholdet</a>
@@ -30,6 +30,7 @@
         <li><a href="index.html" aria-current="page">Hjem</a></li>
         <li><a href="nyheter.html">Nyheter</a></li>
         <li><a href="lag.html">Lag</a></li>
+        <li><a href="kamper.html">Kamper</a></li>
         <li><a href="ny-i-ak28.html">Ny i AK28</a></li>
         <li><a href="trygg-pa-trening.html">Trygg på trening</a></li>
         <li><a href="klubbhuset.html">Klubbhuset</a></li>
@@ -90,17 +91,11 @@
         <div class="section-head" style="margin:0">
           <div>
             <span class="eyebrow">Kom og hei!</span>
-            <h2>Kamper i Odderneshallen denne helgen</h2>
+            <h2 id="helg-tittel">Kamper i Odderneshallen denne helgen</h2>
           </div>
-          <a class="link-strong" href="lag.html">Alle lag og kamper →</a>
+          <a class="link-strong" href="kamper.html">Alle kamper →</a>
         </div>
-        <!-- Fylles inn manuelt, eller automatisk fra handball.no senere -->
-        <ul class="match-list">
-          <li class="match-row"><span class="match-time">[Lør kl.]</span><span class="pill">[Klasse]</span><span class="match-teams">AK28 – [Motstander]</span></li>
-          <li class="match-row"><span class="match-time">[Lør kl.]</span><span class="pill">[Klasse]</span><span class="match-teams">AK28 – [Motstander]</span></li>
-          <li class="match-row"><span class="match-time">[Søn kl.]</span><span class="pill">[Klasse]</span><span class="match-teams">AK28 – [Motstander]</span></li>
-          <li class="match-row"><span class="match-time">[Søn kl.]</span><span class="pill">[Klasse]</span><span class="match-teams">AK28 – [Motstander]</span></li>
-        </ul>
+        <ul class="match-list" id="helgekamper" aria-live="polite"><li class="match-row"><span class="muted">Henter kamper …</span></li></ul>
       </div>
       <aside class="grasrot" aria-labelledby="grasrot-tittel">
         <svg class="icon" aria-hidden="true" viewBox="0 0 24 24"><path d="M12 21s-7-4.5-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 11c0 5.5-7 10-7 10z"/></svg>
@@ -157,8 +152,8 @@
   <section class="container section" aria-labelledby="kalender-tittel">
     <div class="card calendar">
       <div class="calendar-text">
-        <h2 id="kalender-tittel">Kamper og arrangementer</h2>
-        <p class="muted">Hjemmekamper i Odderneshallen, cuper, dugnader og møter – alt på ett sted.</p>
+        <h2 id="kalender-tittel">Klubbkalender</h2>
+        <p class="muted">Cuper, dugnader, møter og andre arrangementer i klubben. <a href="kamper.html">Alle kamper finner du her</a>.</p>
         <a class="link-strong" href="odderneshallen.html">Veibeskrivelse til Odderneshallen →</a>
       </div>
       <!-- Lim inn klubbens Google-kalender her: bytt ut diven med
@@ -253,5 +248,6 @@
 </footer>
 
 <script src="assets/js/main.js"></script>
+<script src="assets/js/kamper.js?v=2"></script>
 </body>
 </html>

@@ -466,3 +466,15 @@ a.sponsor:hover { border-color: var(--red); box-shadow: 0 6px 18px rgba(28,20,22
   .doc-table td:first-child::before { display: none; }
   .doc-table td:first-child { font-size: 18px; }
 }
+
+/* ---------- Kamper ---------- */
+.match-hall { display: block; font-weight: 400; font-size: 14px; color: var(--muted); margin-top: 2px; }
+.kamp-filter { display: flex; flex-wrap: wrap; align-items: center; gap: 16px 28px; padding: 20px 24px; margin-bottom: 32px; }
+.kamp-felt { display: flex; align-items: center; gap: 10px; font-weight: 600; font-size: 15px; }
+.kamp-felt select { min-height: 44px; padding: 8px 12px; border-radius: 10px; border: 1px solid var(--line); font: inherit; font-weight: 500; background: var(--white); max-width: 100%; }
+.kamp-check { display: flex; align-items: center; gap: 10px; font-size: 15px; min-height: 44px; }
+.kamp-check input { width: 20px; height: 20px; accent-color: var(--red); }
+.kamp-dag { font-size: 22px; margin: 32px 0 4px; }
+.kampliste .kamp-dag:first-child { margin-top: 0; }
+.kampliste .match-time { flex-basis: 64px; }
+.kampliste .match-row .result, .weekend .match-row .result { margin-left: auto; }
