@@ -9,24 +9,13 @@ jobs:
     steps:
       - name: Hent sider
         run: |
+          mkdir ut && cd ut
           UA="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/120 Safari/537.36"
-          for u in "https://www.handball.no/system/klubbdagbok/?clubId=60756" "https://www.handball.no/system/kamper/lag/?lagid=439844"; do
-            echo "=================== $u"
-            curl -sL -A "$UA" "$u" -o p.html -w "HTTP %{http_code} %{size_download}\n"
-            echo "--- scripts/ajax/api:"
-            grep -oiE '(src|href|data-[a-z-]+|url)\s*[=:]\s*"[^"]*(ajax|api|json|kamp|match|dagbok|termin)[^"]*"' p.html | sort -u | head -60
-            echo "--- forms/data attrs:"
-            grep -oiE '<(form|div|table)[^>]*(data-|id=)[^>]*>' p.html | grep -iE 'kamp|match|dagbok|termin|club|lag' | head -30
-            echo "--- table rows sample:"
-            grep -c '<tr' p.html
-            python3 - <<'PY'
-          import re
-          s=open('p.html',encoding='utf-8',errors='ignore').read()
-          i=s.find('<table')
-          print(s[i:i+3000] if i>=0 else 'ingen tabell')
-          for m in re.finditer(r'<script[^>]*>(.*?)</script>', s, re.S):
-              t=m.group(1)
-              if re.search(r'ajax|fetch|\$\.get|url', t, re.I) and len(t)<4000:
-                  print('--- inline script:\n', t[:1500])
-          PY
-          done
+          curl -sL -A "$UA" "https://www.handball.no/system/klubbdagbok/?clubId=60756" -o klubbdagbok.html -w "%{http_code} %{size_download}\n" || true
+          curl -sL -A "$UA" "https://www.handball.no/system/kamper/lag/?lagid=439844" -o lag.html -w "%{http_code} %{size_download}\n" || true
+          curl -sL -A "$UA" "https://www.handball.no/system/kamper/klubb/?klubbid=60756" -o klubb.html -w "%{http_code} %{size_download}\n" || true
+          ls -la
+      - uses: actions/upload-artifact@v4
+        with:
+          name: sider
+          path: ut/
