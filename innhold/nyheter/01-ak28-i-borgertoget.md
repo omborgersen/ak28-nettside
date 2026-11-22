@@ -2,8 +2,8 @@
 tittel: AK28 i Borgertoget
 dato: 2026-05-17
 kategori: Klubbliv
-bilde: assets/img/borgertoget.jpg
-bildetekst: Nils Vidar Gummedal bar AK28-fanen under hele Borgertoget.
+bilde: assets/img/nyheter/borgertoget-2026.jpg
+bildetekst: AK28-fanen og håndballmålet var med i Borgertoget 17. mai, med spillere i røde drakter rundt.
 ingress: AK28 var godt representert i Borgertoget på 17. mai. Lurer du på hvem som vant pizzakvelden?
 fremhevet: true
 publisert: true
