@@ -400,3 +400,14 @@ a.sponsor:hover { border-color: var(--red); box-shadow: 0 6px 18px rgba(28,20,22
 .kh-leaders { columns: 2 220px; column-gap: 32px; }
 .kh-leaders li { break-inside: avoid; }
 @media (max-width: 860px) { .kh-toc { position: static; max-width: none; max-height: none; } }
+.vision { background: var(--red); color: var(--white); border-radius: var(--radius); padding: clamp(28px, 5vw, 56px); display: flex; flex-direction: column; gap: 12px; }
+.vision .eyebrow { color: var(--red-light); }
+.vision h2 { font-size: clamp(2.25rem, 6vw, 4.5rem); line-height: 0.95; }
+.prose .quote { font-family: var(--display); font-weight: 700; font-size: clamp(1.5rem, 3.5vw, 2rem); line-height: 1.15; text-transform: uppercase; color: var(--red); border-left: 6px solid var(--red); padding-left: 18px; }
+.side-col > .photo-wide + .photo-wide { margin-top: 0; }
+.focus-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }
+.focus { padding: 28px; display: flex; flex-direction: column; gap: 12px; border-top: 6px solid var(--red); }
+.focus h3 { font-size: 28px; font-weight: 800; }
+.focus .goal { font-weight: 600; font-size: 16px; line-height: 1.5; }
+.focus ul { margin: 0; padding-left: 18px; display: flex; flex-direction: column; gap: 8px; font-size: 15px; line-height: 1.55; color: var(--muted); }
+.focus strong { color: var(--ink); }

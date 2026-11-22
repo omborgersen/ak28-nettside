@@ -27,6 +27,7 @@ Ren HTML, CSS og JavaScript – ingen byggesteg. Publiseres gratis med GitHub Pa
 | `assets/js/klubbhus.js` | Leieskjemaet for klubbhuset (pris, tidssjekk, takk-melding) |
 | `assets/img/` | Logo og bilder |
 | `assets/fonts/` | Skriftene (Barlow Condensed og Inter), lagret lokalt |
+| `assets/docs/` | Dokumenter til nedlasting (klubbstrategien) |
 
 Menyen og bunnteksten er lik på alle sider. Skal noe der endres, må det endres i hver fil (søk og erstatt).
 
