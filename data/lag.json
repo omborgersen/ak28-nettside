@@ -1,0 +1,78 @@
+{
+  "_info": "Laglisten på lag.html. Kategori: barn, ungdom eller senior. Bilde: filnavn i assets/img (tomt = 'Lagbilde kommer'). handball: lenke til laget på handball.no (tomt = ingen kamper/tabell). Kamper og tabell: fyll inn, eller hent automatisk senere.",
+  "lag": [
+    {
+      "id": "barneidrett",
+      "kategori": "barn",
+      "navn": "Barneidrett",
+      "alder": "6–8 år",
+      "trenere": "[Navn på trenere]",
+      "trening": "[Dag og klokkeslett]",
+      "bilde": "",
+      "handball": ""
+    },
+    {
+      "id": "g11",
+      "kategori": "barn",
+      "navn": "Gutter 11",
+      "alder": "11 år",
+      "trenere": "Iselin Teigen Rognlid, Tommy Jørgensen Mjåland, Tina Depui Martinsen",
+      "trening": "[Dag og klokkeslett]",
+      "bilde": "",
+      "handball": "https://www.handball.no/system/kamper/lag/?lagid=777337"
+    },
+    {
+      "id": "g13",
+      "kategori": "ungdom",
+      "navn": "Gutter 13",
+      "alder": "13 år",
+      "trenere": "[Navn på trenere] · Lagleder: Stein Håvard Ugland",
+      "trening": "[Dag og klokkeslett]",
+      "bilde": "lagbilde.jpg",
+      "handball": "https://www.handball.no/system/kamper/lag/?lagid=439844"
+    },
+    {
+      "id": "g14",
+      "kategori": "ungdom",
+      "navn": "Gutter 14",
+      "alder": "14 år",
+      "trenere": "[Navn på trenere]",
+      "trening": "[Dag og klokkeslett]",
+      "bilde": "",
+      "handball": "https://www.handball.no/system/kamper/lag/?lagid=710558"
+    },
+    {
+      "id": "msr",
+      "kategori": "senior",
+      "navn": "Menn senior",
+      "alder": "Senior",
+      "trenere": "Carl-Simon Sefanius Aulén",
+      "trening": "[Dag og klokkeslett]",
+      "bilde": "",
+      "handball": "https://www.handball.no/system/kamper/lag/?lagid=224009"
+    },
+    {
+      "id": "ks2",
+      "kategori": "senior",
+      "navn": "Kvinner senior 2",
+      "alder": "Senior",
+      "trenere": "[Navn på trenere]",
+      "trening": "[Dag og klokkeslett]",
+      "bilde": "",
+      "handball": "https://www.handball.no/system/kamper/lag/?lagid=453893"
+    }
+  ],
+  "eksempel_kamper": [
+    { "dato": "[Dato]", "tid": "[Kl.]", "hjemme": "AK28", "borte": "[Motstander]", "hall": "Odderneshallen", "resultat": "[Resultat]" },
+    { "dato": "[Dato]", "tid": "[Kl.]", "hjemme": "[Motstander]", "borte": "AK28", "hall": "[Hall]", "resultat": "[Resultat]" },
+    { "dato": "[Dato]", "tid": "[Kl.]", "hjemme": "AK28", "borte": "[Motstander]", "hall": "Odderneshallen", "resultat": "" },
+    { "dato": "[Dato]", "tid": "[Kl.]", "hjemme": "[Motstander]", "borte": "AK28", "hall": "[Hall]", "resultat": "" }
+  ],
+  "eksempel_tabell": [
+    { "plass": 1, "lag": "[Lag]", "k": "–", "v": "–", "u": "–", "t": "–", "maal": "–", "p": "–" },
+    { "plass": 2, "lag": "[Lag]", "k": "–", "v": "–", "u": "–", "t": "–", "maal": "–", "p": "–" },
+    { "plass": 3, "lag": "AK28", "k": "–", "v": "–", "u": "–", "t": "–", "maal": "–", "p": "–" },
+    { "plass": 4, "lag": "[Lag]", "k": "–", "v": "–", "u": "–", "t": "–", "maal": "–", "p": "–" },
+    { "plass": 5, "lag": "[Lag]", "k": "–", "v": "–", "u": "–", "t": "–", "maal": "–", "p": "–" }
+  ]
+}
