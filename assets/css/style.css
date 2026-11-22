@@ -102,7 +102,7 @@ p { margin: 0; }
 
 /* Kort */
 .card { background: var(--white); border-radius: var(--radius); }
-.shortcuts { position: relative; margin-top: -56px; display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 20px; }
+.shortcuts { position: relative; margin-top: -56px; display: grid; grid-template-columns: repeat(auto-fit, minmax(min(260px, 100%), 1fr)); gap: 20px; }
 .shortcut { display: flex; flex-direction: column; gap: 10px; padding: 28px; text-decoration: none; color: var(--ink); box-shadow: 0 8px 24px rgba(28,20,22,0.08); transition: transform .15s ease; }
 .shortcut:hover { transform: translateY(-2px); color: var(--ink); }
 .shortcut h2 { font-size: 28px; font-weight: 700; }
@@ -138,7 +138,7 @@ p { margin: 0; }
 .started-msg { flex: 1 1 480px; padding: 32px; background: var(--red); border-radius: 16px; font-family: var(--display); font-weight: 800; font-size: 48px; text-transform: uppercase; text-align: center; }
 
 /* Nyheter */
-.news-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px; }
+.news-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(300px, 100%), 1fr)); gap: 24px; }
 .news { display: flex; flex-direction: column; overflow: hidden; }
 .news img, .news .placeholder { width: 100%; height: 200px; object-fit: cover; }
 .news-body { padding: 24px; display: flex; flex-direction: column; gap: 10px; }
@@ -162,14 +162,14 @@ p { margin: 0; }
 .about-photo { flex: 1 1 420px; min-width: 0; position: relative; display: block; border-radius: var(--radius); overflow: hidden; min-height: 340px; text-decoration: none; }
 .about-photo img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center 55%; }
 .about-photo span { position: absolute; left: 16px; bottom: 16px; padding: 10px 16px; background: var(--white); color: var(--ink); border-radius: 999px; font-weight: 700; font-size: 14px; }
-.tiles { flex: 999 1 480px; min-width: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; align-content: start; }
+.tiles { flex: 999 1 480px; min-width: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(min(220px, 100%), 1fr)); gap: 16px; align-content: start; }
 .tile { display: flex; justify-content: space-between; align-items: center; padding: 24px; background: var(--red); color: var(--white); text-decoration: none; border-radius: 16px; font-family: var(--display); font-weight: 700; font-size: 24px; text-transform: uppercase; }
 .tile:hover { background: #B3241B; color: var(--white); }
 .tile.dark-tile { background: var(--ink); }
 
 /* Sponsorer */
 .sponsors { background: var(--white); padding: 72px 0; margin-top: 96px; }
-.sponsor-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 16px; }
+.sponsor-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(160px, 100%), 1fr)); gap: 16px; }
 .sponsor { height: 88px; border-radius: 12px; background: #F4F2EE; display: flex; align-items: center; justify-content: center; font-weight: 600; color: var(--muted); font-size: 14px; text-align: center; padding: 8px; }
 
 /* Bunntekst */
@@ -195,7 +195,7 @@ p { margin: 0; }
 .chip { min-height: 44px; padding: 10px 20px; border-radius: 999px; font: inherit; font-size: 15px; font-weight: 600; cursor: pointer; background: var(--white); color: var(--ink); border: 2px solid var(--line-strong); }
 .chip[aria-pressed="true"] { background: var(--red); color: var(--white); border-color: var(--red); }
 .chip.dark-chip[aria-pressed="true"] { background: var(--ink); border-color: var(--ink); }
-.team-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 24px; }
+.team-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(300px, 100%), 1fr)); gap: 24px; }
 .team { display: flex; flex-direction: column; overflow: hidden; box-shadow: 0 8px 24px rgba(28,20,22,0.06); }
 .team img, .team .placeholder { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; }
 .team .placeholder { flex-direction: column; gap: 8px; }
@@ -226,7 +226,7 @@ p { margin: 0; }
 .cta-box h2 { font-size: 32px; }
 
 /* Ny i AK28 */
-.steps { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 20px; }
+.steps { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(min(260px, 100%), 1fr)); gap: 20px; }
 .step { padding: 28px; display: flex; flex-direction: column; gap: 12px; }
 .step-num { width: 48px; height: 48px; border-radius: 50%; background: var(--red); color: var(--white); display: flex; align-items: center; justify-content: center; font-family: var(--display); font-weight: 800; font-size: 26px; }
 .step h3 { font-size: 28px; font-weight: 700; }
@@ -283,7 +283,7 @@ p { margin: 0; }
 .facts li:last-child { border-bottom: 1px solid var(--line); }
 .facts .k { color: var(--muted); }
 .facts .v { font-weight: 600; text-align: right; }
-.features { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; }
+.features { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(220px, 100%), 1fr)); gap: 16px; }
 .feature { padding: 24px; display: flex; gap: 14px; align-items: center; font-weight: 600; font-size: 16px; }
 .feature .icon { flex: 0 0 auto; }
 .rules { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 12px; }
@@ -292,14 +292,14 @@ p { margin: 0; }
 .rules span { color: var(--muted); font-size: 15px; line-height: 1.6; }
 .embed { width: 100%; min-height: 460px; border: 0; border-radius: 16px; background: #F3E6E4; display: block; }
 .photo-wide { width: 100%; height: auto; aspect-ratio: 16 / 7; object-fit: cover; border-radius: var(--radius); }
-.people { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 16px; }
+.people { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(240px, 100%), 1fr)); gap: 16px; }
 .person { padding: 24px; display: flex; flex-direction: column; gap: 6px; }
 .person .avatar { width: 56px; height: 56px; border-radius: 50%; background: var(--red-soft); color: var(--red-dark); display: flex; align-items: center; justify-content: center; font-family: var(--display); font-weight: 800; font-size: 22px; margin-bottom: 8px; }
 .person .role { font-size: 12px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--red); }
 .person .name { font-weight: 700; font-size: 18px; }
 .person a { font-size: 15px; }
 .person.lead-person { border: 2px solid var(--red); }
-.hub { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 20px; }
+.hub { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(260px, 100%), 1fr)); gap: 20px; }
 .hub a { padding: 28px; display: flex; flex-direction: column; gap: 8px; text-decoration: none; color: var(--ink); box-shadow: 0 8px 24px rgba(28,20,22,0.06); }
 .hub a:hover { color: var(--ink); outline: 2px solid var(--red); }
 .hub h2 { font-size: 28px; font-weight: 700; }
@@ -321,9 +321,9 @@ p { margin: 0; }
 .tier-1 .sponsor { height: 180px; font-size: 18px; }
 .tier-2 .tier-grid { grid-template-columns: minmax(0, 400px); }
 .tier-2 .sponsor { height: 140px; }
-.tier-3 .tier-grid { grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); }
+.tier-3 .tier-grid { grid-template-columns: repeat(auto-fill, minmax(min(200px, 100%), 1fr)); }
 .tier-3 .sponsor { height: 110px; }
-.tier-4 .tier-grid { grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); }
+.tier-4 .tier-grid { grid-template-columns: repeat(auto-fill, minmax(min(160px, 100%), 1fr)); }
 .sponsor { background: var(--white); border: 1px solid var(--line); }
 .medal { width: 18px; height: 18px; border-radius: 50%; display: inline-block; }
 .code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-weight: 700; font-size: 22px; letter-spacing: 0.12em; padding: 8px 14px; background: var(--red-soft); color: var(--red-dark); border-radius: 10px; align-self: flex-start; }
@@ -365,11 +365,11 @@ a.sponsor:hover { border-color: var(--red); box-shadow: 0 6px 18px rgba(28,20,22
 @media (prefers-reduced-motion: reduce) { a.sponsor { transition: none; } a.sponsor:hover { transform: none; } }
 
 /* ---------- Om klubben ---------- */
-.values { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 20px; }
+.values { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(260px, 100%), 1fr)); gap: 20px; }
 .value { padding: 28px; display: flex; flex-direction: column; gap: 10px; border-top: 6px solid var(--red); }
 .value-word { font-family: var(--display); font-weight: 800; font-size: 34px; line-height: 1; text-transform: uppercase; color: var(--red); }
 .value p { font-size: 16px; line-height: 1.6; color: var(--muted); }
-.stats { margin: 0; border-radius: var(--radius); padding: 32px; display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 24px; }
+.stats { margin: 0; border-radius: var(--radius); padding: 32px; display: grid; grid-template-columns: repeat(auto-fit, minmax(min(160px, 100%), 1fr)); gap: 24px; }
 .stats div { display: flex; flex-direction: column-reverse; gap: 6px; }
 .stats dt { font-size: 14px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; color: #FFB3AB; }
 .stats dd { margin: 0; font-family: var(--display); font-weight: 800; font-size: clamp(2.5rem, 6vw, 4rem); line-height: 1; }
@@ -394,7 +394,7 @@ a.sponsor:hover { border-color: var(--red); box-shadow: 0 6px 18px rgba(28,20,22
 .kh-figure { margin: 24px 0; display: flex; flex-direction: column; align-items: flex-start; gap: 8px; }
 .kh-figure img { width: auto; max-width: 100%; height: auto; border-radius: 12px; background: #F3E6E4; }
 .kh-figure figcaption { font-size: 14px; line-height: 1.55; color: var(--muted); max-width: 640px; }
-.kh-gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 24px; margin: 24px 0; align-items: start; }
+.kh-gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(230px, 100%), 1fr)); gap: 24px; margin: 24px 0; align-items: start; }
 .kh-gallery .kh-figure { margin: 0; align-items: stretch; }
 .kh-gallery .kh-figure img { width: 100%; }
 .kh-leaders { columns: 2 220px; column-gap: 32px; }
