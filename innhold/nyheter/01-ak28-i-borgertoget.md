@@ -1,12 +1,20 @@
 ---
 tittel: AK28 i Borgertoget
-dato: null
+dato: 2026-05-17
 kategori: Klubbliv
 bilde: assets/img/borgertoget.jpg
-bildetekst: AK28 i Borgertoget med det historiske klubbanneret «Atletklubben av 1928
-  Kristiansand S»
-ingress: Sjekk hvem som vant pizzakvelden!
+bildetekst: Nils Vidar Gummedal bar AK28-fanen under hele Borgertoget.
+ingress: AK28 var godt representert i Borgertoget på 17. mai. Lurer du på hvem som vant pizzakvelden?
 fremhevet: true
 publisert: true
 ---
 
+Med håndballer, håndballmål og røde drakter var AK28 godt synlig under Borgertoget i år.
+
+Nils Vidar Gummedal bar fanen under hele marsjen, mens en god gjeng med barn og ungdommer skjøt på mål underveis.
+
+### Hvem var best representert?
+
+Flere lag stilte med spillere i Borgertoget, men Jenter 2014 hadde mobilisert skikkelig og stilte med godt og vel to håndballag under toget. Innsatsen til Jenter 2014 belønnes med en pizzakveld på klubbens regning.
+
+Gratulerer!
