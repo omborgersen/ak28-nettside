@@ -478,3 +478,4 @@ a.sponsor:hover { border-color: var(--red); box-shadow: 0 6px 18px rgba(28,20,22
 .kampliste .kamp-dag:first-child { margin-top: 0; }
 .kampliste .match-time { flex-basis: 64px; }
 .kampliste .match-row .result, .weekend .match-row .result { margin-left: auto; }
+.news h3, .article h1, .page-hero h1 { hyphens: manual; -webkit-hyphens: manual; overflow-wrap: break-word; }
