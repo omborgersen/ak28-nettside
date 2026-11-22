@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="nb">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Håndballskole – AK28</title>
+<meta name="description" content="Meld interesse for neste håndballskole i AK28 for barn 6–12 år.">
+<meta property="og:title" content="Håndballskole – AK28">
+<meta property="og:description" content="Meld interesse for neste håndballskole i AK28 for barn 6–12 år.">
+<meta property="og:image" content="assets/img/lagbilde.jpg">
+<meta name="theme-color" content="#C8281E">
+<link rel="icon" href="assets/img/logo.png">
+<link rel="stylesheet" href="assets/css/style.css?v=16">
+</head>
+<body>
+<a class="skip-link" href="#innhold">Hopp til innholdet</a>
+
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href="index.html">
+      <img src="assets/img/logo.png" alt="" width="52" height="50">
+      <span><span class="brand-name">AK28</span><span class="brand-sub">Håndball i Kristiansand</span></span>
+    </a>
+    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="hovedmeny">
+      <svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+      Meny
+    </button>
+    <nav class="main-nav" id="hovedmeny" aria-label="Hovedmeny">
+      <ul>
+        <li><a href="index.html">Hjem</a></li>
+        <li><a href="nyheter.html">Nyheter</a></li>
+        <li><a href="lag.html">Lag</a></li>
+        <li><a href="kamper.html">Kamper</a></li>
+        <li><a href="ny-i-ak28.html">Ny i AK28</a></li>
+        <li><a href="trygg-pa-trening.html">Trygg på trening</a></li>
+        <li><a href="klubbhuset.html">Klubbhuset</a></li>
+        <li><a href="odderneshallen.html">Odderneshallen</a></li>
+        <li><a href="om-klubben.html">Om klubben</a></li>
+        <li><a href="sponsorer.html">Sponsorer</a></li>
+        <li><a class="btn btn-red" href="bli-medlem.html">Bli medlem</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main id="innhold">
+
+  <section class="on-red page-hero" aria-labelledby="side-tittel">
+    <div class="ring" style="right:-140px;top:-120px;width:460px;height:460px"></div>
+    <div class="container">
+      <span class="eyebrow">For barn 6–12 år</span>
+      <h1 id="side-tittel">Håndballskole</h1>
+      <p>Vi planlegger ny håndballskole i AK28. Dato og påmelding er ikke klar ennå – meld interesse, så får du beskjed først.</p>
+    </div>
+  </section>
+
+  <div class="container" style="margin-top:32px">
+    <div class="notice success" id="takk" role="status" hidden>
+      <strong>Takk for interessen!</strong> Vi gir deg beskjed på e-post så snart dato og påmelding for neste håndballskole er klar.
+    </div>
+  </div>
+
+  <section class="container section page-end" aria-labelledby="skjema-tittel">
+    <div class="two-col">
+      <div class="main-col">
+        <!-- Skjemaet sendes til daglig leder via FormSubmit. Bytt e-postadressen i action for å endre mottaker. -->
+        <form class="card box booking-form" id="interesseskjema" action="https://formsubmit.co/iselin@ak28.no" method="POST">
+          <h2 id="skjema-tittel">Meld interesse</h2>
+          <p class="muted">Det er ikke bindende å melde interesse. Felt merket med * må fylles ut.</p>
+
+          <input type="hidden" name="_subject" value="Interesse for håndballskole – AK28">
+          <input type="hidden" name="_template" value="table">
+          <input type="hidden" name="_captcha" value="false">
+          <input type="hidden" name="_next" id="neste" value="">
+          <input type="text" name="_honey" class="sr-only" tabindex="-1" autocomplete="off" aria-hidden="true">
+
+          <fieldset>
+            <legend>Om deg</legend>
+            <div class="field-row">
+              <label class="field">Navn (forelder/foresatt) *<input type="text" name="Navn" autocomplete="name" required></label>
+              <label class="field">Telefon<input type="tel" name="Telefon" autocomplete="tel" inputmode="tel"></label>
+            </div>
+            <label class="field">E-post *<input type="email" name="email" autocomplete="email" required></label>
+          </fieldset>
+
+          <fieldset>
+            <legend>Om barnet</legend>
+            <div class="field-row">
+              <label class="field">Fødselsår *
+                <select name="Fødselsår" required>
+                  <option value="">Velg …</option>
+                  <option>2020</option><option>2019</option><option>2018</option><option>2017</option>
+                  <option>2016</option><option>2015</option><option>2014</option>
+                </select>
+              </label>
+              <label class="field">Antall barn *<input type="number" name="Antall barn" min="1" max="6" value="1" required></label>
+            </div>
+            <div class="choice-row" role="radiogroup" aria-label="Spiller barnet håndball i AK28 i dag?">
+              <span class="choice-label">Spiller barnet håndball i AK28 i dag?</span>
+              <label class="choice"><input type="radio" name="Spiller i AK28" value="Ja"> Ja</label>
+              <label class="choice"><input type="radio" name="Spiller i AK28" value="Nei"> Nei</label>
+            </div>
+          </fieldset>
+
+          <fieldset>
+            <legend>Når passer det?</legend>
+            <p class="muted" style="margin:0">Kryss av for feriene som passer – det hjelper oss å velge tidspunkt.</p>
+            <div class="choice-row">
+              <label class="choice"><input type="checkbox" name="Passer" value="Vinterferien"> Vinterferien</label>
+              <label class="choice"><input type="checkbox" name="Passer" value="Påskeferien"> Påskeferien</label>
+              <label class="choice"><input type="checkbox" name="Passer" value="Sommerferien"> Sommerferien</label>
+              <label class="choice"><input type="checkbox" name="Passer" value="Høstferien"> Høstferien</label>
+            </div>
+            <label class="field">Melding<textarea name="Melding" rows="3" placeholder="Spørsmål eller ønsker? Skriv gjerne her."></textarea></label>
+          </fieldset>
+
+          <button class="btn btn-red" type="submit" style="align-self:flex-start">Meld interesse</button>
+          <p class="muted" style="font-size:13px">Opplysningene sendes på e-post til daglig leder i AK28 og brukes bare til å gi deg beskjed om håndballskolen. De slettes når påmeldingen er åpnet.</p>
+        </form>
+      </div>
+      <aside class="side-col">
+        <div class="card box">
+          <h2>Hva er håndballskole?</h2>
+          <p>Noen dager i en skoleferie med håndball, lek og moro for barn 6–12 år. Trenere og unge spillere fra klubben leder aktivitetene, og alle kan være med – også de som aldri har spilt håndball før.</p>
+          <p class="muted">Dato, sted og pris kommer når planene er klare.</p>
+        </div>
+        <div class="card box">
+          <h2>Vil du prøve nå?</h2>
+          <p>Alle lag tar imot nye spillere. Se treningstidene og kom på en prøvetrening.</p>
+          <a class="btn btn-outline" style="align-self:flex-start" href="ny-i-ak28.html">Ny i AK28</a>
+        </div>
+      </aside>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-cols">
+      <div class="footer-col">
+        <div class="footer-brand"><div class="logo-box"><img src="assets/img/logo.png" alt="AK28-logo"></div><span>AK28</span></div>
+        <span class="footer-soft">Atletklubben av 1928 AK-28<br>Org.nr. 993513415</span>
+      </div>
+      <div class="footer-col">
+        <span class="footer-label">Kontakt</span>
+        <a href="mailto:post@ak28.no">post@ak28.no</a>
+        <a href="tel:+4793648183">936 48 183</a>
+        <span class="footer-soft">St. Olavs vei 22 B, 4631 Kristiansand</span>
+        <a href="kontakt.html">Alle kontaktpersoner</a>
+      </div>
+      <div class="footer-col">
+        <span class="footer-label">Snarveier</span>
+        <a href="nyheter.html">Nyheter</a>
+        <a href="bli-medlem.html">Bli medlem</a>
+        <a href="barneidrett.html">Barneidrett</a>
+        <a href="cup-2027.html">AK28 Cup 2027</a>
+        <a href="trygg-pa-trening.html">Varsling</a>
+      </div>
+      <div class="footer-col">
+        <span class="footer-label">Følg oss</span>
+        <div class="social">
+          <a href="https://www.facebook.com/ak28handball" aria-label="AK28 på Facebook"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></a>
+          <a href="https://www.instagram.com/ak28handball" aria-label="AK28 på Instagram"><svg aria-hidden="true" viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="0.5"/></svg></a>
+        </div>
+        <span class="footer-soft">@ak28handball</span>
+      </div>
+    </div>
+    <div class="footer-bottom">© <span id="aar">2026</span> Atletklubben av 1928 AK-28</div>
+  </div>
+</footer>
+
+<script src="assets/js/main.js"></script>
+<script src="assets/js/skjema.js"></script>
+</body>
+</html>
