@@ -430,3 +430,9 @@ a.sponsor:hover { border-color: var(--red); box-shadow: 0 6px 18px rgba(28,20,22
 .article-figure figcaption { font-size: 14px; color: var(--muted); margin-top: 8px; }
 .article .prose { max-width: none; }
 .article .prose img { border-radius: 12px; height: auto; }
+.article .prose table { width: 100%; max-width: 480px; border-collapse: collapse; margin: 8px 0 24px; font-size: 16px; }
+.article .prose th, .article .prose td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--line, #eadede); }
+.article .prose th { font-size: 13px; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+.article .prose td:last-child, .article .prose th:last-child { text-align: right; font-variant-numeric: tabular-nums; font-weight: 600; white-space: nowrap; }
+.article .prose img { width: 100%; margin: 8px 0 24px; }
+.article .prose h3 { margin-top: 32px; }
