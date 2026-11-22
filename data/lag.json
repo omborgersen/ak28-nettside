@@ -12,34 +12,94 @@
       "handball": ""
     },
     {
-      "id": "g11",
+      "id": "j2016",
       "kategori": "barn",
-      "navn": "Gutter 11",
-      "alder": "11 år",
+      "navn": "Jenter 2016",
+      "alder": "Født 2016",
+      "bilde": "lag/j2016.jpg",
+      "trenere": "[Navn på trenere]",
+      "trening": "[Dag og klokkeslett]",
+      "handball": ""
+    },
+    {
+      "id": "j2015",
+      "kategori": "barn",
+      "navn": "Jenter 2015",
+      "alder": "Født 2015",
+      "bilde": "lag/j2015.jpg",
+      "trenere": "[Navn på trenere]",
+      "trening": "[Dag og klokkeslett]",
+      "handball": ""
+    },
+    {
+      "id": "g2015",
+      "kategori": "barn",
+      "navn": "Gutter 2015",
+      "alder": "Født 2015",
       "trenere": "Iselin Teigen Rognlid, Tommy Jørgensen Mjåland, Tina Depui Martinsen",
       "trening": "[Dag og klokkeslett]",
       "bilde": "",
       "handball": "https://www.handball.no/system/kamper/lag/?lagid=777337"
     },
     {
-      "id": "g13",
+      "id": "j2014",
+      "kategori": "barn",
+      "navn": "Jenter 2014",
+      "alder": "Født 2014",
+      "bilde": "lag/j2014.jpg",
+      "trenere": "[Navn på trenere]",
+      "trening": "[Dag og klokkeslett]",
+      "handball": ""
+    },
+    {
+      "id": "g2014",
+      "kategori": "barn",
+      "navn": "Gutter 2014",
+      "alder": "Født 2014",
+      "bilde": "lag/g2014.jpg",
+      "trenere": "[Navn på trenere]",
+      "trening": "[Dag og klokkeslett]",
+      "handball": ""
+    },
+    {
+      "id": "j2013",
       "kategori": "ungdom",
-      "navn": "Gutter 13",
-      "alder": "13 år",
+      "navn": "Jenter 2013",
+      "alder": "Født 2013",
+      "bilde": "lag/j2013.jpg",
+      "trenere": "[Navn på trenere]",
+      "trening": "[Dag og klokkeslett]",
+      "handball": ""
+    },
+    {
+      "id": "g2013",
+      "kategori": "ungdom",
+      "navn": "Gutter 2013",
+      "alder": "Født 2013",
       "trenere": "[Navn på trenere] · Lagleder: Stein Håvard Ugland",
       "trening": "[Dag og klokkeslett]",
-      "bilde": "lagbilde.jpg",
+      "bilde": "lag/g2013.jpg",
       "handball": "https://www.handball.no/system/kamper/lag/?lagid=439844"
     },
     {
-      "id": "g14",
+      "id": "g2012",
       "kategori": "ungdom",
-      "navn": "Gutter 14",
-      "alder": "14 år",
+      "navn": "Gutter 2012",
+      "alder": "Født 2012",
       "trenere": "[Navn på trenere]",
       "trening": "[Dag og klokkeslett]",
       "bilde": "",
       "handball": "https://www.handball.no/system/kamper/lag/?lagid=710558"
+    },
+    {
+      "id": "j2011",
+      "kategori": "ungdom",
+      "navn": "Jenter 2011",
+      "alder": "Født 2011",
+      "bilde": "lag/j2011.jpg",
+      "trenere": "[Navn på trenere]",
+      "trening": "[Dag og klokkeslett]",
+      "handball": ""
     },
     {
       "id": "msr",
