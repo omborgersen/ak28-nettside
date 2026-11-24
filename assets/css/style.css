@@ -527,3 +527,53 @@ a.sponsor:hover { border-color: var(--red); box-shadow: 0 6px 18px rgba(28,20,22
   .pris-tabell tbody tr td:only-of-type { display: table-cell; }
   .pris-del { display: block; }
 }
+
+/* ---------- Forside: animert illustrasjon (mål!) ---------- */
+.hero-illu { display: block; width: 100%; height: auto; overflow: visible; }
+.hero-illu * { transform-box: fill-box; }
+.hb-ball { transform: translate(104.0px, 262.0px); animation: hb-ball 5s cubic-bezier(.3,.1,.5,1) infinite; transform-box: view-box; transform-origin: 0 0; }
+.hb-spor { stroke-dashoffset: 0; animation: hb-spor 5s linear infinite; opacity: 0; }
+.hb-nett { transform-origin: 50% 50%; animation: hb-nett 5s ease-out infinite; }
+.hb-tekst { transform-origin: 50% 80%; animation: hb-tekst 5s cubic-bezier(.2,1.6,.4,1) infinite; opacity: 0; }
+.hb-spiller { transform-origin: 50% 100%; animation: hb-hopp 5s ease-in-out infinite; }
+@keyframes hb-hopp { 0% { transform: translateY(0); } 5% { transform: translateY(-14px); } 12% { transform: translateY(-6px); } 20%, 100% { transform: translateY(0); } }
+.hb-konf { opacity: 0; animation: hb-konf 5s ease-out infinite; transform-box: view-box; }
+@keyframes hb-spor { 0% { opacity: .0; } 4% { opacity: .55; } 34% { opacity: .55; } 50%, 100% { opacity: 0; } }
+@keyframes hb-nett { 0%, 33% { transform: none; } 38% { transform: translate(8px, 4px) scale(1.04, 1.03); } 46% { transform: translate(-2px, 0) scale(.99); } 54%, 100% { transform: none; } }
+@keyframes hb-tekst { 0%, 35% { opacity: 0; transform: scale(.3) rotate(-8deg); } 42% { opacity: 1; transform: scale(1) rotate(-4deg); } 70% { opacity: 1; transform: scale(1) rotate(-4deg); } 78%, 100% { opacity: 0; transform: scale(1.1) rotate(-4deg); } }
+@keyframes hb-konf { 0%, 35% { opacity: 0; transform: translate(0, 0) rotate(0); } 37% { opacity: 1; } 62% { opacity: 1; } 75%, 100% { opacity: 0; transform: translate(var(--dx), calc(var(--dy) + 40px)) rotate(var(--r)); } }
+@keyframes hb-ball {
+  0%, 6% { transform: translate(104.0px, 262.0px) rotate(0deg); opacity: 1; }
+  8.00% { transform: translate(128.9px, 209.0px) rotate(48deg); opacity: 1; }
+  10.00% { transform: translate(153.7px, 163.8px) rotate(96deg); opacity: 1; }
+  12.00% { transform: translate(178.6px, 126.3px) rotate(144deg); opacity: 1; }
+  14.00% { transform: translate(203.4px, 96.6px) rotate(192deg); opacity: 1; }
+  16.00% { transform: translate(228.3px, 74.7px) rotate(240deg); opacity: 1; }
+  18.00% { transform: translate(253.1px, 60.4px) rotate(288deg); opacity: 1; }
+  20.00% { transform: translate(278.0px, 54.0px) rotate(336deg); opacity: 1; }
+  22.00% { transform: translate(302.9px, 55.3px) rotate(384deg); opacity: 1; }
+  24.00% { transform: translate(327.7px, 64.4px) rotate(432deg); opacity: 1; }
+  26.00% { transform: translate(352.6px, 81.2px) rotate(480deg); opacity: 1; }
+  28.00% { transform: translate(377.4px, 105.8px) rotate(528deg); opacity: 1; }
+  30.00% { transform: translate(402.3px, 138.1px) rotate(576deg); opacity: 1; }
+  32.00% { transform: translate(427.1px, 178.2px) rotate(624deg); opacity: 1; }
+  34.00% { transform: translate(452.0px, 226.0px) rotate(672deg); opacity: 1; }
+  40% { transform: translate(480px, 238px) rotate(700deg) scale(.92); opacity: 1; }
+  72% { transform: translate(482px, 270px) rotate(720deg) scale(.92); opacity: 1; }
+  80%, 99% { transform: translate(482px, 270px) rotate(720deg) scale(.92); opacity: 0; }
+  100% { transform: translate(104.0px, 262.0px) rotate(0deg); opacity: 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .hb-ball, .hb-spor, .hb-nett, .hb-tekst, .hb-konf, .hb-spiller { animation: none; }
+  .hb-ball { transform: translate(480px, 238px); }
+  .hb-tekst { opacity: 1; transform: rotate(-4deg); }
+  .hb-spor { opacity: .55; }
+}
+.hero-illu-wrap { max-width: 600px; }
+@media (min-width: 1200px) {
+  .hero-inner:has(.hero-illu-wrap) .hero-text { flex: 1 1 540px; }
+  .hero-illu-wrap { flex: 1 1 520px; max-width: 640px; }
+}
+@media (min-width: 1200px) {
+  .hero-inner:has(.hero-illu-wrap) .hero-title { font-size: clamp(3.5rem, 5.4vw, 5.25rem); white-space: nowrap; }
+}
