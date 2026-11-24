@@ -46,7 +46,7 @@ Ingen dommere, ingen kamper. AK28 dekker dommerkurs for medlemmene våre. Alle s
 
 ### 3.1 Medlemskontingent og lisens
 
-- **Medlemskontingent:** Alle spillere, trenere og støtteapparat skal være registrerte medlemmer i AK28. Trenere og foreldrekontakter betaler lavsats (støttemedlem, 100 kr). Årsmøtet vedtar satsene for kontingent.
+- **Medlemskontingent:** Alle spillere, trenere og støtteapparat skal være registrerte medlemmer i AK28. Trenere og foreldrekontakter betaler lavsats (100 kr). Årsmøtet vedtar satsene for kontingent. [Se alle priser](ny-i-ak28.html#priser).
 - **Lisens og forsikring:** Fra det kalenderåret spilleren fyller 13 år, plikter alle spillere å betale lisens direkte til Norges Håndballforbund for å ha gyldig forsikring og spillerett.
 - **Inkluderende idrett:** Økonomi skal aldri være en barriere for å delta i AK28. Trenger dere støtte til kontingent eller egenandeler, kan foreldre eller trenere ta konfidensiell kontakt med daglig leder.
 
