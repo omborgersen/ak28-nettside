@@ -1,6 +1,6 @@
 ---
 tittel: 'Nytt navn på cupen: Sparebanken Norge – AK28 Cup'
-dato: 2026-11-22
+dato: 2026-05-04
 kategori: Cup
 bilde: assets/img/nyheter/drakt-sparebanken-norge.jpg
 bildetekst: Sparebanken Norge-logoen på AK28-drakten.
