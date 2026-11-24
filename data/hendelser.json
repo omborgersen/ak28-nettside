@@ -50,7 +50,6 @@
       "tittel": "Årsmøte i AK28",
       "dato": "2027-04-01",
       "bare_maaned": true,
-      "til": "2026-11-24",
       "kategori": "Klubbliv",
       "beskrivelse": "Dato og innkalling kunngjøres på nettsiden. Alle medlemmer er velkommen."
     },
@@ -58,7 +57,6 @@
       "tittel": "Sparebanken Norge – AK28 Cup",
       "dato": "2027-04-23",
       "bare_maaned": false,
-      "til": "2027-04-25",
       "kategori": "Cup",
       "beskrivelse": "Klubbens store cuphelg – og vår største dugnad.",
       "lenke": "cup-2027.html"
