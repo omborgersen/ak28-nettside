@@ -1,29 +1,6 @@
 {
  "hendelser": [
   {
-   "tittel": "Åpen dag for nye lag",
-   "dato": "2026-08-01",
-   "bare_maaned": true,
-   "kategori": "Rekruttering",
-   "beskrivelse": "Nye spillere er velkommen til å prøve håndball – ingen forkunnskaper nødvendig.",
-   "lenke": "ny-i-ak28.html"
-  },
-  {
-   "tittel": "Sesongstart: kick-off for trenere og ledere",
-   "dato": "2026-08-01",
-   "bare_maaned": true,
-   "kategori": "Trenere",
-   "beskrivelse": "Felles oppstart for alle trenere, lagledere og foreldrekontakter."
-  },
-  {
-   "tittel": "Krav om medlemskontingent og treningsavgift sendes ut",
-   "dato": "2026-08-01",
-   "bare_maaned": true,
-   "kategori": "Medlemskap",
-   "beskrivelse": "Alle spillere skal være registrerte medlemmer.",
-   "lenke": "bli-medlem.html"
-  },
-  {
    "tittel": "Siste dag for klubbytte for kontraktsløse spillere",
    "dato": "2026-08-31",
    "bare_maaned": false,
@@ -37,48 +14,10 @@
    "beskrivelse": "Lisensen betales direkte til Norges Håndballforbund og gir forsikring og spillerett."
   },
   {
-   "tittel": "Foreldremøter på alle lag",
-   "dato": "2026-09-01",
-   "bare_maaned": true,
-   "kategori": "Foreldre",
-   "beskrivelse": "Alle lag holder foreldremøte i starten av sesongen."
-  },
-  {
-   "tittel": "Fotografering av alle lag",
-   "dato": "2026-09-01",
-   "bare_maaned": true,
-   "kategori": "Klubbliv",
-   "beskrivelse": "Lagbildene publiseres på lagsiden.",
-   "lenke": "lag.html"
-  },
-  {
-   "tittel": "Sonemiljøer for 13-åringer",
-   "dato": "2026-09-01",
-   "bare_maaned": true,
-   "kategori": "Sport",
-   "beskrivelse": "Invitasjon og påmelding til regionens sonetreninger for årets 13-åringer."
-  },
-  {
-   "tittel": "Påmeldingen til neste års cup åpner",
+   "tittel": "Håndballskole i høstferien",
    "dato": "2026-10-01",
    "bare_maaned": true,
-   "kategori": "Cup",
-   "beskrivelse": "Påmeldingen til Sparebanken Norge – AK28 Cup er åpen.",
-   "lenke": "cup-2027.html"
-  },
-  {
-   "tittel": "Oppstartsmøte for minihåndball",
-   "dato": "2026-10-01",
-   "bare_maaned": true,
-   "kategori": "Foreldre",
-   "beskrivelse": "Obligatorisk møte for alle lag som skal delta i miniturneringer."
-  },
-  {
-   "tittel": "Klubbkveld med utstyrsleverandør",
-   "dato": "2026-11-01",
-   "bare_maaned": true,
-   "kategori": "Klubbliv",
-   "beskrivelse": "Prøv og bestill klubbtøy."
+   "kategori": "Arrangement"
   },
   {
    "tittel": "Julelotteri",
@@ -94,26 +33,12 @@
    "kategori": "Frist"
   },
   {
-   "tittel": "Valgkomiteen søker kandidater til tillitsverv",
-   "dato": "2027-01-01",
-   "bare_maaned": true,
-   "kategori": "Klubbliv",
-   "beskrivelse": "Har du lyst til å bidra i styret eller et utvalg? Ta kontakt med valgkomiteen.",
-   "lenke": "kontakt.html"
-  },
-  {
    "tittel": "Håndballskole i vinterferien",
    "dato": "2027-02-01",
    "bare_maaned": true,
    "kategori": "Arrangement",
    "beskrivelse": "Dato og påmelding kommer. Meld interesse, så får du beskjed.",
    "lenke": "handballskole.html"
-  },
-  {
-   "tittel": "Siste frist for klubbytte og utlån av spillere denne sesongen",
-   "dato": "2027-02-15",
-   "bare_maaned": false,
-   "kategori": "Frist"
   },
   {
    "tittel": "Årsmøte i AK28",
@@ -138,6 +63,12 @@
    "kategori": "Frist"
   },
   {
+   "tittel": "Frist for påmelding av lag til neste sesong",
+   "dato": "2027-05-01",
+   "bare_maaned": false,
+   "kategori": "Frist"
+  },
+  {
    "tittel": "Borgertoget",
    "dato": "2027-05-17",
    "bare_maaned": false,
@@ -145,17 +76,10 @@
    "beskrivelse": "AK28 går samlet i rød-hvitt i Borgertoget i Kristiansand."
   },
   {
-   "tittel": "Sesongavslutning for spillerne",
-   "dato": "2027-05-01",
-   "bare_maaned": true,
-   "kategori": "Klubbliv"
-  },
-  {
-   "tittel": "Trenerfest",
+   "tittel": "Siste frist for å trekke lag gebyrfritt",
    "dato": "2027-06-01",
-   "bare_maaned": true,
-   "kategori": "Trenere",
-   "beskrivelse": "Takk for innsatsen til alle trenere og ledere."
+   "bare_maaned": false,
+   "kategori": "Frist"
   }
  ]
 }
