@@ -39,7 +39,9 @@
 
   fetch('data/hendelser.json', { cache: 'no-cache' }).then(function (r) { return r.json(); }).then(function (data) {
     var alle = (data.hendelser || []).filter(function (h) { return h && h.tittel && h.dato; }).map(function (h) {
-      h.dato = String(h.dato).slice(0, 10); if (h.til) h.til = String(h.til).slice(0, 10); return h;
+      h.dato = String(h.dato).slice(0, 10); h.til = h.til ? String(h.til).slice(0, 10) : '';
+      if (h.til <= h.dato) h.til = '';   // tom eller ugyldig til-dato ignoreres
+      return h;
     }).sort(sorter);
 
     // Forsiden

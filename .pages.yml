@@ -86,8 +86,11 @@ content:
             default: false
           - name: til
             label: Til og med (valgfritt)
-            description: Brukes for hendelser over flere dager, f.eks. cupen.
+            description: Brukes bare for hendelser over flere dager, f.eks. cupen. La stå tom ellers.
             type: date
+            default: ""
+            options:
+              format: yyyy-MM-dd
           - name: kategori
             label: Kategori
             type: select

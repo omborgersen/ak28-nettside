@@ -1,102 +1,93 @@
 {
-  "hendelser": [
-    {
-      "tittel": "Siste dag for klubbytte for kontraktsløse spillere",
-      "dato": "2026-08-31",
-      "bare_maaned": false,
-      "til": "2026-11-24",
-      "kategori": "Frist"
-    },
-    {
-      "tittel": "Frist for betaling av lisens (J/G13 og eldre)",
-      "dato": "2026-09-01",
-      "bare_maaned": false,
-      "til": "2026-11-24",
-      "kategori": "Frist",
-      "beskrivelse": "Lisensen betales direkte til Norges Håndballforbund og gir forsikring og spillerett."
-    },
-    {
-      "tittel": "Håndballskole i høstferien",
-      "dato": "2026-10-01",
-      "bare_maaned": true,
-      "kategori": "Arrangement"
-    },
-    {
-      "tittel": "Julelotteri",
-      "dato": "2026-12-01",
-      "bare_maaned": true,
-      "til": "2026-11-24",
-      "kategori": "Dugnad",
-      "beskrivelse": "Alle spillere selger lodd. Trekning før jul."
-    },
-    {
-      "tittel": "Lisensfrist for spillere som fyller 13 år i 2027",
-      "dato": "2026-12-31",
-      "bare_maaned": false,
-      "til": "2026-11-24",
-      "kategori": "Frist"
-    },
-    {
-      "tittel": "Håndballskole i vinterferien",
-      "dato": "2027-02-01",
-      "bare_maaned": true,
-      "til": "2026-11-24",
-      "kategori": "Arrangement",
-      "beskrivelse": "Dato og påmelding kommer. Meld interesse, så får du beskjed.",
-      "lenke": "handballskole.html"
-    },
-    {
-      "tittel": "Årsmøte i AK28",
-      "dato": "2027-04-01",
-      "bare_maaned": true,
-      "til": "2026-11-24",
-      "kategori": "Klubbliv",
-      "beskrivelse": "Dato og innkalling kunngjøres på nettsiden. Alle medlemmer er velkommen."
-    },
-    {
-      "tittel": "Sparebanken Norge – AK28 Cup",
-      "dato": "2027-04-23",
-      "bare_maaned": false,
-      "til": "2027-04-25",
-      "kategori": "Cup",
-      "beskrivelse": "Klubbens store cuphelg – og vår største dugnad.",
-      "lenke": "cup-2027.html"
-    },
-    {
-      "tittel": "Frist for påmelding av dommere",
-      "dato": "2027-05-01",
-      "bare_maaned": false,
-      "til": "2026-11-24",
-      "kategori": "Frist"
-    },
-    {
-      "tittel": "Frist for påmelding av lag til neste sesong",
-      "dato": "2027-05-01",
-      "bare_maaned": false,
-      "til": "2026-11-24",
-      "kategori": "Frist"
-    },
-    {
-      "tittel": "Borgertoget",
-      "dato": "2027-05-17",
-      "bare_maaned": false,
-      "til": "2026-11-24",
-      "kategori": "Klubbliv",
-      "beskrivelse": "AK28 går samlet i rød-hvitt i Borgertoget i Kristiansand."
-    },
-    {
-      "tittel": "Siste frist for å trekke lag gebyrfritt",
-      "dato": "2027-06-01",
-      "bare_maaned": false,
-      "til": "2026-11-24",
-      "kategori": "Frist"
-    },
-    {
-      "tittel": "Juleavslutning med internturnering",
-      "dato": "2026-12-11",
-      "bare_maaned": false,
-      "til": "2026-11-24",
-      "kategori": "Klubbliv"
-    }
-  ]
+ "hendelser": [
+  {
+   "tittel": "Siste dag for klubbytte for kontraktsløse spillere",
+   "dato": "2026-08-31",
+   "bare_maaned": false,
+   "til": "2026-11-24",
+   "kategori": "Frist"
+  },
+  {
+   "tittel": "Frist for betaling av lisens (J/G13 og eldre)",
+   "dato": "2026-09-01",
+   "bare_maaned": false,
+   "til": "2026-11-24",
+   "kategori": "Frist",
+   "beskrivelse": "Lisensen betales direkte til Norges Håndballforbund og gir forsikring og spillerett."
+  },
+  {
+   "tittel": "Håndballskole i høstferien",
+   "dato": "2026-10-01",
+   "bare_maaned": true,
+   "kategori": "Arrangement"
+  },
+  {
+   "tittel": "Julelotteri",
+   "dato": "2026-12-01",
+   "bare_maaned": true,
+   "kategori": "Dugnad",
+   "beskrivelse": "Alle spillere selger lodd. Trekning før jul."
+  },
+  {
+   "tittel": "Lisensfrist for spillere som fyller 13 år i 2027",
+   "dato": "2026-12-31",
+   "bare_maaned": false,
+   "kategori": "Frist"
+  },
+  {
+   "tittel": "Håndballskole i vinterferien",
+   "dato": "2027-02-01",
+   "bare_maaned": true,
+   "kategori": "Arrangement",
+   "beskrivelse": "Dato og påmelding kommer. Meld interesse, så får du beskjed.",
+   "lenke": "handballskole.html"
+  },
+  {
+   "tittel": "Årsmøte i AK28",
+   "dato": "2027-04-01",
+   "bare_maaned": true,
+   "kategori": "Klubbliv",
+   "beskrivelse": "Dato og innkalling kunngjøres på nettsiden. Alle medlemmer er velkommen."
+  },
+  {
+   "tittel": "Sparebanken Norge – AK28 Cup",
+   "dato": "2027-04-23",
+   "bare_maaned": false,
+   "til": "2027-04-25",
+   "kategori": "Cup",
+   "beskrivelse": "Klubbens store cuphelg – og vår største dugnad.",
+   "lenke": "cup-2027.html"
+  },
+  {
+   "tittel": "Frist for påmelding av dommere",
+   "dato": "2027-05-01",
+   "bare_maaned": false,
+   "kategori": "Frist"
+  },
+  {
+   "tittel": "Frist for påmelding av lag til neste sesong",
+   "dato": "2027-05-01",
+   "bare_maaned": false,
+   "kategori": "Frist"
+  },
+  {
+   "tittel": "Borgertoget",
+   "dato": "2027-05-17",
+   "bare_maaned": false,
+   "kategori": "Klubbliv",
+   "beskrivelse": "AK28 går samlet i rød-hvitt i Borgertoget i Kristiansand."
+  },
+  {
+   "tittel": "Siste frist for å trekke lag gebyrfritt",
+   "dato": "2027-06-01",
+   "bare_maaned": false,
+   "kategori": "Frist"
+  },
+  {
+   "tittel": "Juleavslutning med internturnering",
+   "dato": "2026-12-11",
+   "bare_maaned": false,
+   "kategori": "Klubbliv"
+  }
+ ]
 }
