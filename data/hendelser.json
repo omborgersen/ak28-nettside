@@ -67,21 +67,18 @@
       "tittel": "Frist for påmelding av dommere",
       "dato": "2027-05-01",
       "bare_maaned": false,
-      "til": "2026-11-24",
       "kategori": "Frist"
     },
     {
       "tittel": "Frist for påmelding av lag til neste sesong",
       "dato": "2027-05-01",
       "bare_maaned": false,
-      "til": "2026-11-24",
       "kategori": "Frist"
     },
     {
       "tittel": "Borgertoget",
       "dato": "2027-05-17",
       "bare_maaned": false,
-      "til": "2026-11-24",
       "kategori": "Klubbliv",
       "beskrivelse": "AK28 går samlet i rød-hvitt i Borgertoget i Kristiansand."
     },
@@ -89,7 +86,6 @@
       "tittel": "Siste frist for å trekke lag gebyrfritt",
       "dato": "2027-06-01",
       "bare_maaned": false,
-      "til": "2026-11-24",
       "kategori": "Frist"
     },
     {
