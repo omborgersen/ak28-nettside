@@ -34,14 +34,12 @@
       "tittel": "Lisensfrist for spillere som fyller 13 år i 2027",
       "dato": "2026-12-31",
       "bare_maaned": false,
-      "til": "2026-11-24",
       "kategori": "Frist"
     },
     {
       "tittel": "Håndballskole i vinterferien",
       "dato": "2027-02-01",
       "bare_maaned": true,
-      "til": "2026-11-24",
       "kategori": "Arrangement",
       "beskrivelse": "Dato og påmelding kommer. Meld interesse, så får du beskjed.",
       "lenke": "handballskole.html"
