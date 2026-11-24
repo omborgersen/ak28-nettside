@@ -1,6 +1,6 @@
 ---
 tittel: To lag fra AK28 i regionalt sluttspill i Stavanger
-dato: 2026-11-22
+dato: 2026-04-20
 kategori: Sport
 bilde: assets/img/nyheter/sluttspill-j2011.jpg
 bildetekst: Jenter 2011 tok andreplassen i det regionale sluttspillet i Stavanger.
