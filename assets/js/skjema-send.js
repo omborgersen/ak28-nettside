@@ -38,7 +38,10 @@
       var tekst = knapp.textContent;
       knapp.textContent = 'Sender …';
       status.hidden = true;
-      fetch('https://formsubmit.co/ajax/' + mottaker, { method: 'POST', body: new FormData(form), headers: { Accept: 'application/json' } })
+      // Gi opp etter 15 sekunder, så siden aldri bare står og venter
+      var avbryt = window.AbortController ? new AbortController() : null;
+      var tidsfrist = setTimeout(function () { if (avbryt) avbryt.abort(); }, 15000);
+      fetch('https://formsubmit.co/ajax/' + mottaker, { method: 'POST', body: new FormData(form), headers: { Accept: 'application/json' }, signal: avbryt ? avbryt.signal : undefined })
         .then(function (r) { return r.json().catch(function () { return {}; }).then(function (j) { return { ok: r.ok, j: j }; }); })
         .then(function (svar) {
           var ok = svar.ok && String(svar.j.success) === 'true';
@@ -57,7 +60,7 @@
         .catch(function () {
           visFeil('Vi fikk ikke kontakt med skjematjenesten. Det kan skyldes nettverket ditt eller en blokkering i nettleseren.');
         })
-        .then(function () { knapp.disabled = false; knapp.textContent = tekst; });
+        .then(function () { clearTimeout(tidsfrist); knapp.disabled = false; knapp.textContent = tekst; });
     });
   });
 })();
