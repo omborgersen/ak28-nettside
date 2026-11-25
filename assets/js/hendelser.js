@@ -20,7 +20,8 @@
     return stor(t);
   }
   function kort(h, visBeskrivelse) {
-    var tittel = h.lenke ? '<a href="' + esc(h.lenke) + '">' + esc(h.tittel) + '</a>' : esc(h.tittel);
+    var lenke = String(h.lenke || '').replace(/^([a-z0-9-]+)\.html(?=$|[?#])/, '$1');
+    var tittel = lenke ? '<a href="' + esc(lenke) + '">' + esc(h.tittel) + '</a>' : esc(h.tittel);
     var dd = d(h.dato);
     var merke = h.bare_maaned
       ? '<span class="hd-dag hd-mnd">' + esc(MND[dd.getMonth()].slice(0, 3)) + '</span>'

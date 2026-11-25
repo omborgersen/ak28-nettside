@@ -53,7 +53,7 @@
         ? liste.map(function (k) { return rad(k, true); }).join('')
         : '<li class="match-row"><span class="muted">Ingen flere hjemmekamper registrert denne sesongen.</span></li>';
     }).catch(function () {
-      helg.innerHTML = '<li class="match-row"><span class="muted">Klarte ikke å hente kampene. <a href="kamper.html">Se alle kamper</a>.</span></li>';
+      helg.innerHTML = '<li class="match-row"><span class="muted">Klarte ikke å hente kampene. <a href="kamper">Se alle kamper</a>.</span></li>';
     });
   }
 

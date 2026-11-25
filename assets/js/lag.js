@@ -62,7 +62,7 @@
       '<button type="button" class="chip dark-chip" data-visning="spilte" aria-pressed="' + (visning === 'spilte') + '">Spilte</button></div>' +
       '<ul class="match-list">' + rader + '</ul>' +
       '<div class="panel-foot"><span>Kamper kan bli flyttet. Tabeller og siste endringer finner du på handball.no.</span>' +
-      (l.handball ? '<a class="link-strong" href="' + esc(l.handball) + '">Se laget på handball.no →</a>' : '<a class="link-strong" href="kamper.html?lag=' + esc(l.id) + '">Alle kamper →</a>') + '</div>' +
+      (l.handball ? '<a class="link-strong" href="' + esc(l.handball) + '">Se laget på handball.no →</a>' : '<a class="link-strong" href="kamper?lag=' + esc(l.id) + '">Alle kamper →</a>') + '</div>' +
       '</div>';
     panel.hidden = false;
   }

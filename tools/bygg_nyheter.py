@@ -102,7 +102,8 @@ def ramme(tittel, beskrivelse, bilde, aktiv):
         topp = re.sub(r'<meta property="og:image" content="[^"]*">', f'<meta property="og:image" content="{esc(bilde)}">', topp)
     topp = topp.replace(' aria-current="page"', '')
     if aktiv:
-        topp = topp.replace(f'<a href="{aktiv}">', f'<a href="{aktiv}" aria-current="page">', 1)
+        for h in (aktiv, aktiv[:-5] if aktiv.endswith('.html') else aktiv):
+            topp = topp.replace(f'<a href="{h}">', f'<a href="{h}" aria-current="page">', 1)
     return topp, bunn
 
 

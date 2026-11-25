@@ -16,27 +16,27 @@
   // Sender gamle adresser fra Google Sites videre til de nye sidene.
   (function () {
     var map = {
-      'hjem': 'index.html',
-      'trygg-på-trening': 'trygg-pa-trening.html',
-      'trygg-p%C3%A5-trening': 'trygg-pa-trening.html',
-      'om-klubben/klubbhistorie': 'klubbhistorie.html',
-      'om-klubben/kontakt-oss': 'kontakt.html',
-      'om-klubben/styret': 'styret.html',
-      'om-klubben/sportslig-utvalg': 'sportslig-utvalg.html',
-      'barneidretten-starter-27-agust': 'barneidrett.html',
-      'om-klubben': 'om-klubben.html',
-      'klubbhuset': 'klubbhuset.html',
-      'odderneshallen': 'odderneshallen.html',
-      'sponsorer': 'sponsorer.html',
-      'bli-medlem': 'bli-medlem.html',
-      'cup-2027': 'cup-2027.html',
-      'lag': 'lag.html',
-      'nyheter': 'nyheter.html',
-      'kontakt-oss': 'kontakt.html',
-      'handballskole': 'handballskole.html',
-      'håndballskole': 'handballskole.html',
-      'treningstider': 'treningstider.html',
-      'kamper': 'kamper.html'
+      'hjem': '',
+      'trygg-på-trening': 'trygg-pa-trening',
+      'trygg-p%C3%A5-trening': 'trygg-pa-trening',
+      'om-klubben/klubbhistorie': 'klubbhistorie',
+      'om-klubben/kontakt-oss': 'kontakt',
+      'om-klubben/styret': 'styret',
+      'om-klubben/sportslig-utvalg': 'sportslig-utvalg',
+      'barneidretten-starter-27-agust': 'barneidrett',
+      'om-klubben': 'om-klubben',
+      'klubbhuset': 'klubbhuset',
+      'odderneshallen': 'odderneshallen',
+      'sponsorer': 'sponsorer',
+      'bli-medlem': 'bli-medlem',
+      'cup-2027': 'cup-2027',
+      'lag': 'lag',
+      'nyheter': 'nyheter',
+      'kontakt-oss': 'kontakt',
+      'handballskole': 'handballskole',
+      'håndballskole': 'handballskole',
+      'treningstider': 'treningstider',
+      'kamper': 'kamper'
     };
     var path = decodeURIComponent(location.pathname).replace(/\/+$/, '');
     var keys = Object.keys(map).sort(function (a, b) { return b.length - a.length; });
@@ -44,7 +44,8 @@
       var old = keys[i];
       var key = decodeURIComponent(old);
       if (path.slice(-key.length - 1) === '/' + key) {
-        location.replace(path.slice(0, path.length - key.length) + map[old]);
+        var maal = path.slice(0, path.length - key.length) + map[old];
+        if (maal !== path) location.replace(maal || '/');   // aldri send til samme adresse igjen
         return;
       }
     }
