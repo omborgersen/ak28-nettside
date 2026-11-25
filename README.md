@@ -114,3 +114,10 @@ Etter endringer: kjør `python tools/bygg_treningstider.py`, som også oppdatere
 Hendelsene ligger i `data/hendelser.json` og redigeres i Pages CMS under **Viktige datoer**.
 Hendelser uten fast dato: velg den 1. i måneden og kryss av for «Ingen fast dato».
 Forsiden viser hendelsene i inneværende måned, fylt opp med de neste som kommer.
+
+## Skjemaer (klubbhuset og håndballskole)
+
+Skjemaene sendes via Web3Forms (https://web3forms.com) i bakgrunnen, med «Send som e-post i stedet» som reserve.
+- Mottaker styres av tilgangsnøkkelen i `data-web3forms="…"` på `<form>`-taggen i `klubbhuset.html` og `handballskole.html` (kilde: build/pages).
+- Ny mottaker: lag nøkkel på web3forms.com med ønsket e-postadresse og bytt nøkkelen. Oppdater også `data-epost` (adressen for reserveløsningen).
+- Tomt `data-web3forms` = faller tilbake til FormSubmit (adressen i `action`).
