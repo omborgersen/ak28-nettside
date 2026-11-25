@@ -577,3 +577,4 @@ a.sponsor:hover { border-color: var(--red); box-shadow: 0 6px 18px rgba(28,20,22
 @media (min-width: 1200px) {
   .hero-inner:has(.hero-illu-wrap) .hero-title { font-size: clamp(3.5rem, 5.4vw, 5.25rem); white-space: nowrap; }
 }
+.doc-vedtatt { font-size: 14px !important; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; opacity: .85; margin-top: 4px; }

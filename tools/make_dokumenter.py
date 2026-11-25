@@ -35,6 +35,7 @@ for slug, tittel, ingress, (lenke, lnavn, ltekst) in DOK:
       <nav class="crumbs" aria-label="Du er her"><a href="om-klubben.html">Om klubben</a><span aria-hidden="true">/</span><span>{tittel}</span></nav>
       <h1 id="side-tittel">{tittel}</h1>
       <p>{ingress}</p>
+      <p class="doc-vedtatt">Vedtatt på årsmøtet 23. mars 2026</p>
     </div>
   </section>
 
@@ -45,6 +46,7 @@ for slug, tittel, ingress, (lenke, lnavn, ltekst) in DOK:
         <ol>
 {toc_html}
         </ol>
+        <p class="muted" style="font-size:14px;margin:0 0 12px">Vedtatt på årsmøtet 23. mars 2026.</p>
         <a class="doc-other" href="{lenke}">Les også: {lnavn} →</a>
       </nav>
     </aside>
