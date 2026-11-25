@@ -5,6 +5,8 @@
   var skjemaer = document.querySelectorAll('form[action^="https://formsubmit.co/"]');
   Array.prototype.forEach.call(skjemaer, function (form) {
     var mottaker = form.action.replace('https://formsubmit.co/', '').replace(/^ajax\//, '');
+    var epostFallback = form.getAttribute('data-epost') || mottaker;     // adressen for «Send som e-post»
+    var web3 = form.getAttribute('data-web3forms');                      // tilgangsnøkkel → bruk Web3Forms i stedet
     var emne = (form.querySelector('[name="_subject"]') || {}).value || 'Henvendelse fra ak28.no';
     var knapp = form.querySelector('[type="submit"]');
     var status = document.createElement('div');
@@ -18,7 +20,7 @@
       new FormData(form).forEach(function (v, k) { if (k.charAt(0) !== '_' && k !== 'email' && String(v).trim()) linjer.push(k + ': ' + v); });
       var epost = form.querySelector('[name="email"]');
       if (epost && epost.value) linjer.push('E-post: ' + epost.value);
-      return 'mailto:' + mottaker + '?subject=' + encodeURIComponent(emne) + '&body=' + encodeURIComponent(linjer.join('\n'));
+      return 'mailto:' + epostFallback + '?subject=' + encodeURIComponent(emne) + '&body=' + encodeURIComponent(linjer.join('\n'));
     }
     function visFeil(tekst) {
       status.className = 'notice skjema-status feil';
@@ -46,7 +48,14 @@
         if (k === '_next') return;
         data[k] = data[k] ? data[k] + ', ' + v : v;   // flere avkrysninger i samme felt
       });
-      fetch('https://formsubmit.co/ajax/' + mottaker, {
+      if (web3) {
+        data = { access_key: web3, subject: emne, botcheck: '' };
+        new FormData(form).forEach(function (v, k) {
+          if (k.charAt(0) === '_') return;
+          data[k] = data[k] ? data[k] + ', ' + v : v;
+        });
+      }
+      fetch(web3 ? 'https://api.web3forms.com/submit' : 'https://formsubmit.co/ajax/' + mottaker, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
         body: JSON.stringify(data),
@@ -54,7 +63,7 @@
       })
         .then(function (r) { return r.json().catch(function () { return {}; }).then(function (j) { return { ok: r.ok, j: j }; }); })
         .then(function (svar) {
-          var ok = svar.ok && String(svar.j.success) === 'true';
+          var ok = svar.ok && String(svar.j.success) === 'true';   // gjelder både FormSubmit og Web3Forms
           if (!ok) {
             var m = String(svar.j.message || '');
             visFeil(/activat/i.test(m)
