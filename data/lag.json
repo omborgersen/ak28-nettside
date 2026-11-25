@@ -102,16 +102,6 @@
       "handball": ""
     },
     {
-      "id": "g2015",
-      "kategori": "barn",
-      "navn": "Gutter 2015",
-      "alder": "Født 2015",
-      "trenere": "[Navn på trenere]",
-      "trening": "[Dag og klokkeslett]",
-      "bilde": "",
-      "handball": "https://www.handball.no/system/kamper/lag/?lagid=777337"
-    },
-    {
       "id": "j2014",
       "kategori": "barn",
       "navn": "Jenter 2014",
