@@ -579,5 +579,5 @@ a.sponsor:hover { border-color: var(--red); box-shadow: 0 6px 18px rgba(28,20,22
 }
 .doc-vedtatt { font-size: 14px !important; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; opacity: .85; margin-top: 4px; }
 .skjema-status.feil { background: #FFF1F0; border: 1px solid #F3B8B3; color: var(--ink); }
-.skjema-status .btn { display: inline-flex; }
+.skjema-status .btn { display: flex; width: fit-content; margin-top: 12px; }
 form[hidden], .notice[hidden] { display: none !important; }

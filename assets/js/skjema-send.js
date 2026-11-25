@@ -41,7 +41,17 @@
       // Gi opp etter 15 sekunder, så siden aldri bare står og venter
       var avbryt = window.AbortController ? new AbortController() : null;
       var tidsfrist = setTimeout(function () { if (avbryt) avbryt.abort(); }, 15000);
-      fetch('https://formsubmit.co/ajax/' + mottaker, { method: 'POST', body: new FormData(form), headers: { Accept: 'application/json' }, signal: avbryt ? avbryt.signal : undefined })
+      var data = {};
+      new FormData(form).forEach(function (v, k) {
+        if (k === '_next') return;
+        data[k] = data[k] ? data[k] + ', ' + v : v;   // flere avkrysninger i samme felt
+      });
+      fetch('https://formsubmit.co/ajax/' + mottaker, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+        body: JSON.stringify(data),
+        signal: avbryt ? avbryt.signal : undefined
+      })
         .then(function (r) { return r.json().catch(function () { return {}; }).then(function (j) { return { ok: r.ok, j: j }; }); })
         .then(function (svar) {
           var ok = svar.ok && String(svar.j.success) === 'true';
@@ -58,7 +68,7 @@
           if (takk) { takk.hidden = false; takk.scrollIntoView({ block: 'center' }); }
         })
         .catch(function () {
-          visFeil('Vi fikk ikke kontakt med skjematjenesten. Det kan skyldes nettverket ditt eller en blokkering i nettleseren.');
+          visFeil('Vi fikk ikke kontakt med skjematjenesten. Prøv igjen om litt, eller send forespørselen på e-post – den er allerede fylt ut for deg.');
         })
         .then(function () { clearTimeout(tidsfrist); knapp.disabled = false; knapp.textContent = tekst; });
     });
