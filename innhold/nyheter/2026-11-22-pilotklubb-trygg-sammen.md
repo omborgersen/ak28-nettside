@@ -3,12 +3,14 @@ tittel: AK28 er pilotklubb i Trygg sammen
 dato: 2026-11-22
 kategori: Klubbliv
 bilde: assets/img/nyheter/trygg-sammen.gif
-bildetekst: "Illustrasjon: Mennesker i en ring rundt et skjold med et hjerte – AK28 er pilotklubb i Trygg sammen."
-ingress: AK28 er en av de første klubbene i Kristiansand som er med i pilotprosjektet Trygg sammen. Målet er at barn og unge skal kunne vokse opp uten å bli utsatt for vold og seksuelle overgrep.
-fremhevet: true
+bildetekst: "Illustrasjon: Mennesker i en ring rundt et skjold med et hjerte –
+  AK28 er pilotklubb i Trygg sammen."
+ingress: AK28 er en av de første klubbene i Kristiansand som er med i
+  pilotprosjektet Trygg sammen. Målet er at barn og unge skal kunne vokse opp
+  uten å bli utsatt for vold og seksuelle overgrep.
+fremhevet: false
 publisert: true
 ---
-
 Visjonen vår er å være «Byens beste oppvekst- og utviklingsmiljø». Det gir oss en stor forpliktelse til å legge til rette for at barn og unge trives og er trygge på vår arena. Derfor har vi takket ja til å være pilotklubb i Trygg sammen i 2026.
 
 – Prosjektet er viktig både for byen og for oss som klubb. Hvis vi som klubb skal fylle samfunnsrollen vår på en god måte, må vi ta det på alvor at alle skal være trygge på våre arenaer, sier Ole Lunde-Borgersen, styreleder i AK28.
