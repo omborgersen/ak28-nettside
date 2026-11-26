@@ -2,8 +2,8 @@
 tittel: Klubbledere i felles innlegg om Agder Arena
 dato: 2026-11-26
 kategori: Klubbliv
-bilde: assets/img/lag/j2016.jpg
-bildetekst: Jenter 2016 – ett av mange AK28-lag som trenger halltid.
+bilde: assets/img/nyheter/agder-arena-skisse.jpg
+bildetekst: 'Skisseforslag til hvordan fasaden på Agder Arena kan se ut. (Skisse: Trollvegg Arkitektstudio)'
 ingress: Styreleder Ole Lunde-Borgersen har sammen med fire andre håndballedere i Kristiansand skrevet et leserinnlegg i Fædrelandsvennen om hvorfor byen trenger Agder Arena.
 fremhevet: false
 publisert: true
