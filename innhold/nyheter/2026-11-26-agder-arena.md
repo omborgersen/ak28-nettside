@@ -3,12 +3,14 @@ tittel: Klubbledere i felles innlegg om Agder Arena
 dato: 2026-11-26
 kategori: Klubbliv
 bilde: assets/img/nyheter/agder-arena-skisse.jpg
-bildetekst: 'Skisseforslag til hvordan fasaden på Agder Arena kan se ut. (Skisse: Trollvegg Arkitektstudio)'
-ingress: Styreleder Ole Lunde-Borgersen har sammen med fire andre håndballedere i Kristiansand skrevet et leserinnlegg i Fædrelandsvennen om hvorfor byen trenger Agder Arena.
-fremhevet: false
+bildetekst: "Skisseforslag til hvordan fasaden på Agder Arena kan se ut.
+  (Skisse: Trollvegg Arkitektstudio)"
+ingress: Styreleder Ole Lunde-Borgersen har sammen med fire andre håndballedere
+  i Kristiansand skrevet et leserinnlegg i Fædrelandsvennen om hvorfor byen
+  trenger Agder Arena.
+fremhevet: true
 publisert: true
 ---
-
 Innlegget, «Agder Arena er en investering i neste generasjon», sto på trykk i Fædrelandsvennen 20. november. Bak det står ledere fra IK Gimletroll, KIF Håndball, AK28, Lund Håndballklubb og Norges Håndballforbund Region SørVest.
 
 ### For lite halltid for barn og unge
